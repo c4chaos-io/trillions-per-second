@@ -8,8 +8,7 @@ Welcome to the central repository for **Trillions Per Second**. This project exp
 ## 🏆 The Full Book (Latest Edition)
 *This is the complete, print-ready version exported from Google Docs.*
 
-* 📥 [**Download Full Book PDF (v1.0)**](full-book/Full-Book-v1.pdf)
-  * *Last Updated: January 2026*
+* 📥 
   * *Best for: Kindle, Tablets, and Physical Printing.*
 
 ---
