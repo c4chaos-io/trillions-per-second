@@ -26,7 +26,7 @@ Welcome to the central repository for **Trillions Per Second**. This project exp
 ## 🎙 Companion Media
 *Deepen your understanding with the audio and video series.*
 
-* **YouTube Series:** [Watch the Chapter Breakdowns](https://youtube.com/c4chaos)
+* **YouTube Series:** [Watch the Chapter Breakdowns](https://youtube.com/playlist?list=PLZvSjJphwk_UwWhgwQiIyYiSc7N3NINZO&si=XoT-_w_fjBFVaOIV)
 ---
 
 ## 🛠 Project Structure
