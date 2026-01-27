@@ -1,17 +1,15 @@
-# trillions-per-second
-Trillions Per Second: A Hardcore Manual for Hacking the Simulation
-
-# [TRILLIONS PER SECOND: A Hardcore Manual for Hacking the Simulation]
+# TRILLIONS PER SECOND: A Hardcore Manual for Hacking the Simulation
 ### A Multimedia Project by ~C4Chaos
 
-Welcome to the central repository for **[Trillions Per Second]**. This project explores [**Reality as a high-frequency mental projection** driven by "kalapas" that arise and dissolve **trillions of times per second**, creating an illusion of solidity that the human mind normally fails to penetrate. By **overclocking attention** through rigorous meditative techniques to witness the **total dissolution of sensations (bhanga)**, practitioners can achieve a "hardcore hack" that results in internal freedom within the simulation.]. This hub serves as the "living" home for the book, infographics, and companion media.
+Welcome to the central repository for **Trillions Per Second**. This project explores **reality as a high-frequency mental projection** driven by "kalapas" that arise and dissolve **trillions of times per second**, creating an illusion of solidity that the human mind normally fails to penetrate. By **overclocking attention** through rigorous meditative techniques to witness the **total dissolution of sensations (bhanga)**, practitioners can achieve a "hardcore hack" that results in internal freedom within the simulation.]. This hub serves as the "living" home for the book, infographics, and companion media.
 
 ---
 
 ## 🏆 The Full Book (Latest Edition)
 *This is the complete, print-ready version exported from Google Docs.*
 
-* 📥 
+* 📥 [**Download Full Book PDF (v1.0)**](full-book/Full-Book-v1.pdf)
+  * *Last Updated: January 2026*
   * *Best for: Kindle, Tablets, and Physical Printing.*
 
 ---
