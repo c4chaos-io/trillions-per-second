@@ -15,6 +15,7 @@ Welcome to the central repository for **Trillions Per Second**. This project exp
 
 ## 📄 Individual Chapters (Drafts)
 *Read the book as it develops. These individual exports include the latest edits.*
+[See chapters folder](https://github.com/c4chaos-io/trillions-per-second/tree/main/chapters)
 
 ---
 
