@@ -39,7 +39,7 @@ Welcome to the central repository for **Trillions Per Second**. This project exp
 For those looking to navigate the source files:
 * `/full-book`: Contains the master PDF versions.
 * `/src`: Contains individual chapter-by-chapter markdown exports.
-* `/infographics`: High-resolution PNG/SVG files of all book visuals.
+* `/infographics`: Image files of all book visuals
 * `/media`: Small audio snippets and brand assets.
 
 ---
