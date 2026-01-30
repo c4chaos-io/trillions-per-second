@@ -19,7 +19,7 @@ Welcome to the central repository for **Trillions Per Second**. This project exp
 
 ## 📄 Individual Chapters (Drafts)
 *Read the book as it develops. These individual exports include the latest edits.*
-[See chapters folder](https://github.com/c4chaos-io/trillions-per-second/tree/main/chapters)
+[See src folder](https://github.com/c4chaos-io/trillions-per-second/tree/main/src)
 
 ---
 
@@ -38,7 +38,7 @@ Welcome to the central repository for **Trillions Per Second**. This project exp
 ## 🛠 Project Structure
 For those looking to navigate the source files:
 * `/full-book`: Contains the master PDF versions.
-* `/chapters`: Contains individual chapter-by-chapter PDF exports.
+* `/src`: Contains individual chapter-by-chapter markdown exports.
 * `/infographics`: High-resolution PNG/SVG files of all book visuals.
 * `/media`: Small audio snippets and brand assets.
 
