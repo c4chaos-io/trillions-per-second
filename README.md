@@ -11,9 +11,9 @@ Welcome to the central repository for **Trillions Per Second**. This project exp
 * 📥 
   * *Best for: Kindle, Tablets, and Physical Printing.*
  
- ## 📙 The Full Draft (In Progress)
+ ## 📙 The Book Outline and Full Draft (In Progress)
 *This is the current draft of the book containing the book outline and available chapters.
-[See full-book folder](https://github.com/c4chaos-io/trillions-per-second/tree/main/full-book)
+[See docs folder](https://github.com/c4chaos-io/trillions-per-second/tree/main/docs)
 
 ---
 
