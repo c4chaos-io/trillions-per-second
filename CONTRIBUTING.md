@@ -1,0 +1,82 @@
+# CONTRIBUTING PROTOCOL (v1.0)
+
+## Welcome, White Hat.
+
+You are accessing the source code for *Trillions Per Second*.
+Unlike traditional books which are "Read Only," this project is **Open Source**. We believe that the Dharma (The Truth) belongs to the network, not the admin.
+
+However, to maintain System Stability, we adhere to strict Rules of Engagement.
+
+---
+
+## 1. THE MISSION
+
+We are looking for **Patches**, not **Rewrites**.
+* **GOAL:** Optimize the delivery system (clarity, grammar, accessibility, translations).
+* **NON-GOAL:** Alter the Kernel (The Core Thesis / The Four Noble Truths).
+
+---
+
+## 2. ACCEPTED PULL REQUESTS (PRs)
+
+We enthusiastically merge the following types of commits:
+
+### 🐛 Bug Fixes (Typos & Glitches)
+* Spelling errors.
+* Broken hyperlinks.
+* Markdown formatting failures (e.g., list rendering issues).
+* *Tag your PR:* `[FIX]`
+
+### 🌐 Localization (Translations)
+* We want this manual in every language.
+* **Protocol:** Create a new directory in `/src/` (e.g., `/src/es/` for Spanish) and replicate the file structure.
+* *Tag your PR:* `[I18N]`
+
+### ⚡️ Optimization (Clarification)
+* If a sentence is "laggy" (confusing), propose a cleaner version.
+* If an analogy doesn't land, suggest a "Hardware Patch" (alternative metaphor) in the Comments, not directly in the text first.
+* *Tag your PR:* `[OPT]`
+
+### 🎨 Assets (Infographics)
+* Did you design a terminal-style diagram of the "16 Stages of Insight"?
+* Submit it to `/assets/infographics/` and link it in the relevant chapter.
+* *Tag your PR:* `[ASSET]`
+
+---
+
+## 3. REJECTED COMMITS (The "Kernel Panic")
+
+We will **close** PRs that attempt the following without prior discussion:
+
+* **Kernel Modification:** Changing the definitions of *Anicca* (Flux), *Dukkha* (Lag), or *Anatta* (No-Self). These are constants, not variables.
+* **Tone Policing:** This manual is designed to be "Hardcore." Do not soften the language to make it sound like a wellness blog. We want *Engineering*, not *Comfort*.
+* **Commercial Injections:** Any attempt to insert affiliate links or self-promotion will result in an immediate Ban.
+
+---
+
+## 4. THE WORKFLOW
+
+1.  **Fork** the repository.
+2.  **Create a Branch:** `git checkout -b fix/typo-chapter-1`
+3.  **Commit** your changes.
+4.  **Push** to your branch.
+5.  **Open a Pull Request** against our `main` branch.
+6.  **The Code Review:** ~C4Chaos (or an appointed Admin) will review.
+
+---
+
+## 5. STYLE GUIDE (The Aesthetic)
+
+* **Format:** Standard Markdown (`.md`).
+* **Tone:** Clinical, Cyberpunk, Direct. Use "System Admin" terminology.
+    * *Good:* "The system is overheating."
+    * *Bad:* "You might feel a little overwhelmed."
+* **Visuals:** Monospaced fonts, Terminal aesthetics, High contrast.
+
+---
+
+## 6. LICENSE AGREEMENT
+
+By contributing to *Trillions Per Second*, you agree that your contributions will be licensed under the project's **CC-BY-SA 4.0** license. You are donating your code to the open network.
+
+> **"The Dharma is free. The delivery system is open source."**
