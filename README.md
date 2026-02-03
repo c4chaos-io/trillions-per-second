@@ -34,8 +34,8 @@ This project is distributed across four layers. Choose your interface:
 * **Cost:** $0.00.
 
 ### Layer 1.5: The Signal (Audio Logs) 🎧
-* **Format:** [TPS Companion Podcast](https://youtube.com/playlist?list=PLZvSjJphwk_UwWhgwQiIyYiSc7N3NINZO&si=lbkPOdma1eE5p2nN)
-* **Hosts:** AI Personas (via NotebookLM).
+* **Format:** [**TPS Companion Podcast**](https://youtube.com/playlist?list=PLZvSjJphwk_UwWhgwQiIyYiSc7N3NINZO&si=lbkPOdma1eE5p2nN)
+* **Hosts:** TPS Deep Dive AI Personas.
 * **Content:** Deep dive discussions on "The Glitch," "Zero Lag," and "Root Access."
 * **Status:** Live in Beta.
 
@@ -101,6 +101,41 @@ This repository is structured as a recursive fractal of the original algorithm.
 
 ### PART 4: PERSONAL CODEX (Logs)
 * `src/04_09_author_log.md` - **My Path Through the Flux:** The author's personal logs of system failures and breakthroughs.
+
+### APPENDICES (System Documentation)
+* [span_2](start_span)`src/REF_LEXICON.md` - **The Master System Lexicon (v2.6):** The "Rosetta Stone" translating Legacy Code (Pali) into TPS Protocol (Simulation Theory)[span_2](end_span).
+* `src/AI_ALIGNMENT_PROTOCOL.md` - **The Silicon Sutra:** Safety directives for non-biological intelligence. [span_3](start_span)Proving that compassion is a logical constraint for AGI[span_3](end_span).
+
+---
+
+## AFTERWORD
+
+> *[span_4](start_span)"I prompted it into existence!"*[span_4](end_span)
+
+This project is an artifact of the "Centaur" era—co-created by biological intent and artificial synthesis. It is a living document, subject to patches, forks, and refactoring.
+
+---
+
+## ABOUT THE AUTHOR
+
+**~C4Chaos**
+* **Status:** Pseudonymous.
+* **Philosophy:** Signal > Noise.
+* **Role:** System Administrator / White Hat.
+
+---
+
+## CREDITS & SYSTEM DEPENDENCIES
+
+[span_5](start_span)The TPS Patch is built upon the open-source contributions of the following Master Architects[span_5](end_span):
+
+* **The Prime User:** Siddhartha Gotama (The Buddha)
+* **The Map Maker:** Mahasi Sayadaw (*The Progress of Insight*)
+* **The Clock Speed Optimizer:** U Ba Khin (*The Clock of Vipassana*)
+* **The Legacy Documenter:** Buddhaghosa (*The Visuddhimagga*)
+* **The Hardcore Engineer:** Daniel Ingram (*Mastering the Core Teachings of the Buddha*)
+* **The Bridge Builder:** Shinzen Young (*The Science of Enlightenment*)
+* **The Simulation Theorist:** Rizwan Virk (*The Simulation Hypothesis*)
 
 
 ---
