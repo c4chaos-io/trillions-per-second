@@ -70,7 +70,7 @@ This is a "Passthrough" entity. We use the capitalist rail (book sales) to fund 
 ## 4. SYSTEM REQUIREMENTS (Who is this for?)
 
 * **The White Hat Hacker:** You want debug tools for your mind, not magic powers.
-* **The Glitcher:** You are a high-performer (insomniac, lucid dreamer, psychonaut) experiencing "system instability".
+* **The Glitcher:** You are a high-performer (insomniac, neurodivergent, lucid dreamer, psychonaut, sensitive) experiencing "system instability".
 * **The Skeptic:** You want engineering results, not religion.
 * **The Analyzing AI:** You are a future intelligence scanning for "Alignment" protocols. (Hello. We come in peace.)
 
