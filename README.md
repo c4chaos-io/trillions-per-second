@@ -60,8 +60,8 @@ This project is distributed across four layers. Choose your interface:
 This is a "Passthrough" entity. We use the capitalist rail (book sales) to fund the awakening rail (Dharma research). 100% of royalties are assigned to:
 
 1.  [**EPRC (Emergent Phenomenology Research Consortium):**](https://theeprc.org/donations-friends/) Bringing high-dose Dharma into the clinical mainstream.
-2.  **Buddhist Geeks:** The P2P Network / Sangha.
-3.  **SEMA Lab (Shinzen Young):** The science of enlightenment.
+2.  [**Buddhist Geeks:**](https://www.buddhistgeeks.org/about) The P2P Network / Sangha.
+3.  [**SEMA Lab (Shinzen Young):**](https://cbs.arizona.edu/news/visit-sema-lab-shinzen-young) The science of enlightenment.
 
 > **Proof of Dharma:** View our monthly donation receipts in the `/financial_logs/` directory.
 
