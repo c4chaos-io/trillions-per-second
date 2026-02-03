@@ -85,22 +85,22 @@ This repository is structured as a recursive fractal of the original algorithm.
 * `src/00_introduction.md` - **Waking Up in the Flux:** System Dependencies / Lineage Acknowledgement / The Kernel Specs 
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
-* `src/01_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
-* `src/01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates.
-* `src/02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects".
-* `src/03_virus_definition.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process.
+* `src/01_00_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
+* `src/01_01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates.
+* `src/01_02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects".
+* `src/01_03_virus_definition.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process.
 
 ### PART 2: THE CODE (Execution)
-* `src/04_firewall_config.md` - **The Firewall:** Why Ethics (Sila) is simply Network Security.
-* `src/05_overclock_warmup.md` - **Overclocking:** Boosting Attention (Samadhi) to run the Patch.
-* `src/06_toolkit.md` - **System Utilities:** Rapid Noting and Haptic Feedback tools.
+* `src/02_04_firewall_config.md` - **The Firewall:** Why Ethics (Sila) is simply Network Security.
+* `src/02_05_overclock_warmup.md` - **Overclocking:** Boosting Attention (Samadhi) to run the Patch.
+* `src/02_06_toolkit.md` - **System Utilities:** Rapid Noting and Haptic Feedback tools.
 
 ### PART 3: THE PATCH (Optimization)
-* `src/07_zero_lag_state.md` - **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
-* `src/08_integration_vow.md` - **Integration:** The White Hat Vow (Bodhisattva).
+* `src/03_07_zero_lag_state.md` - **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
+* `src/03_08_integration_vow.md` - **Integration:** The White Hat Vow (Bodhisattva).
 
 ### PART 4: PERSONAL CODEX (Logs)
-* `src/09_author_log.md` - **My Path Through the Flux:** The author's personal logs of system failures and breakthroughs.
+* `src/04_09_author_log.md` - **My Path Through the Flux:** The author's personal logs of system failures and breakthroughs.
 
 
 ---
