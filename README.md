@@ -80,12 +80,11 @@ This is a "Passthrough" entity. We use the capitalist rail (book sales) to fund 
 
 This repository is structured as a recursive fractal of the original algorithm.
 
-algorithm.
-
 ### INTRODUCTION
-* `src/00_introduction.md` - **Waking Up im the Flux:** System Dependencies / Lineage Acknowledgement / The Kernel Specs 
+* `src/00_introduction.md` - **Waking Up in the Flux:** System Dependencies / Lineage Acknowledgement / The Kernel Specs 
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
+* `src/01_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
 * `src/01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates.
 * `src/02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects".
 * `src/03_virus_definition.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process.
