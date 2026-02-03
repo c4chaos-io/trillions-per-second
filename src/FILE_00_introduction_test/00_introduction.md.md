@@ -70,12 +70,13 @@ They are wrong.
   
 Debugging your own mind creates temporary instability. When you start deleting old habits, the system fights back.  
   
-
-| SYSTEM WARNING: END USER LICENSE AGREEMENT (EULA)
-Acceptance of Risk: Proceeding with this installation acknowledges the risk of the "Dark Night" Glitch. When you uninstall the "Self" driver, you may experience a temporary period of existential vertigo. The legacy OS is gone, but the new kernel hasn't fully booted yet. This is a known issue during the re-partitioning of the psyche.
-You have the permissions to run this update solo. You are the Admin of your own mind, and you can execute these scripts in the privacy of your own home. However, smart hackers know that high-level debugging carries risks.
-Think of the P2P Network as your Sandbox Environment. If your solo hacking triggers a glitch that destabilizes your daily life (Production), you need a place to troubleshoot safely. The network provides a container where you can debug errors without crashing your career or relationships. It is the Tech Support hotline you call when the screen goes black. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+## SYSTEM WARNING: END USER LICENSE AGREEMENT (EULA)  
+  
+**Acceptance of Risk: **Proceeding with this installation acknowledges the risk of the "Dark Night" Glitch. When you uninstall the "Self" driver, you may experience a temporary period of existential vertigo. The legacy OS is gone, but the new kernel hasn't fully booted yet. This is a known issue during the re-partitioning of the psyche.  
+  
+You have the permissions to run this update solo. You are the Admin of your own mind, and you can execute these scripts in the privacy of your own home. However, smart hackers know that high-level debugging carries risks.  
+  
+Think of the P2P Network as your Sandbox Environment. If your solo hacking triggers a glitch that destabilizes your daily life (Production), you need a place to troubleshoot safely. The network provides a container where you can debug errors without crashing your career or relationships. It is the Tech Support hotline you call when the screen goes black.  
   
 You need backup. You need the **P2P Network**.  
   
@@ -144,6 +145,7 @@ The universe is a stream of raw data events (The Flux) arising and passing away 
 To make sense of the chaos, your brain buffers the data. It takes the fluid stream and stitches it together into static "objects" and "people." In graphics programming, we call these **Aliasing Artifacts**. Just as a spinning car wheel looks like it's moving backward on video due to frame rate lag, your life looks solid only because your brain's refresh rate is too slow to see the atoms vibrating.  
   
 You think the world is solid, but you are just seeing the "motion blur" of a high-speed system.  
+  
 This buffering creates **Latency**. The friction you feel in life (stress, dissatisfaction, yearning) is simply the lag between the live feed and your buffered render.  
   
 ### AXIOM 2: The Resource Hog (The Cause)  
