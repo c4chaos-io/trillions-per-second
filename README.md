@@ -82,8 +82,8 @@ This repository is structured as a recursive fractal of the original algorithm.
 
 algorithm.
 
-### INTRODUCTION: WAKING UP IN THE FLUX
-* `src/00_introduction.md` - **THE Stack** Waking up in The Flux / Kernel Specs / System Roadmap / Lineage Acknowledgement 
+### INTRODUCTION
+* `src/00_introduction.md` - **Waking Up im the Flux:** System Dependencies / Lineage Acknowledgement / The Kernel Specs 
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 * `src/01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates.
