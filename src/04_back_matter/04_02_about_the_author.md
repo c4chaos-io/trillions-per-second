@@ -7,8 +7,8 @@ I use large language models as power tools. I use them to pry open the *Abhidham
 that ancient analysis of "mind moments" and map it directly onto Simulation Theory. Then we
 throw in some AI alignment protocols.
 
-I'm not here to hold hands or bring comfort. I come from the lineage of U Ba Khin, Mahasi
-Sayadaw, Shinzen Young, and Daniel Ingram. We skip the fluff. We focus entirely on the
+I'm not here to hold hands or bring comfort. I come from the lineage of **U Ba Khin**, **Mahasi
+Sayadaw**, **Shinzen Young**, and **Daniel Ingram**. We skip the fluff. We focus entirely on the
 "Terahertz Gap." It is the raw code of sensory experience vibrating right under your nose.
 
 I choose to be pseudonymous to protect the digital dharma transmission. A personal biography
