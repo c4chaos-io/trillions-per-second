@@ -1,6 +1,6 @@
 ![Image](/assets/images/TPS_IMG_BookCover.jpg)
 # TRILLIONS PER SECOND (*Draft v1.10: In Progress*)
-## A Hardcode Manual for Hacking the Simulation
+**A Hardcode Manual for Hacking the Simulation**
 **by ~C4Chaos**
 
 ### [FRONT MATTER](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/00_front_matter/00_00_front_matter.md)
