@@ -43,8 +43,8 @@ In the legacy manuals, these were called the **Three Jewels**. That sounds nice,
 If you try to upgrade your mind without these three dependencies installed, the installation will fail.  
   
 ### Dependency 1: The Prime User  
-* **Legacy Name:** The Buddha  
-* **System Role:** The Original SysAdmin  
+**Legacy Name:** The Buddha  
+**System Role:** The Original SysAdmin  
   
 Let’s get one thing clear: We do not worship the Prime User. We respect the expertise.  
   
@@ -53,8 +53,8 @@ He was not a god. He was simply the first power user in history to successfully 
 He didn't just "wake up." He figured out how the software worked. He proved that the upgrade is compatible with human hardware. We acknowledge him as the Root User or Lead Architect who first mapped the system.  
   
 ### Dependency 2: The Master Protocol  
-* **Legacy Name:** The Dharma  
-* **System Role:** The Source Code  
+**Legacy Name:** The Dharma  
+**System Role:** The Source Code  
   
 When the Prime User left the system, he didn't leave us with vague riddles. He left us with **Documentation**.  
   
@@ -63,8 +63,8 @@ The Master Protocol is the open-source library he left behind. It contains the c
 This book you are holding? It’s just a translation of that original code into modern language. We aren't rewriting the rules; we are just updating the interface so you can understand it without learning an ancient language. The logic remains the same.  
   
 ### Dependency 3: The P2P Network  
-* **Legacy Name:** The Sangha  
-* **System Role:** The Support Network  
+**Legacy Name:** The Sangha  
+**System Role:** The Support Network  
   
 This is the step most people try to skip. They think they can upgrade their mind alone in a dark room.  
   
@@ -196,19 +196,19 @@ Before we initialize the boot sequence, check the architectural integrity of thi
   
 This book is not a random collection of philosophical musings. The structure of this document is a recursive fractal of the original algorithm (The Kernel Specs). We have designed the Table of Contents to mirror the debugging process itself.   
   
-**PHASE 1: THE DIAGNOSTIC (System Analysis) **  
+**PHASE 1: THE DIAGNOSTIC (System Analysis)**  
   
 **Refactoring Axioms 1 & 2 (The Problem)**   
   
 In **Part 1**, we open the hood. We will analyze the physics engine of reality, tracing the wires from your senses (Input Ports) to your brain (The Hardware). We will hunt down the **Resource Hog** (The Self) and identify exactly where the "System Latency" is coming from. You cannot fix a bug you cannot see.  
   
-**PHASE 2: THE CODE (Execution) **  
+**PHASE 2: THE CODE (Execution)**  
   
 **Refactoring Axiom 4 (The Method)**   
   
 In **Part 2**, we run the scripts. This is the execution phase. We will deploy the **Firewall** (Ethics) to secure your system, and then we will start **Overclocking** your attention. This is the "How-To" manual where we apply **The** **Protocol** to the live data stream.  
   
-**PHASE 3: THE PATCH (Optimization) **  
+**PHASE 3: THE PATCH (Optimization)**  
   
 **Refactoring Axiom 3 (The Result)**   
   
