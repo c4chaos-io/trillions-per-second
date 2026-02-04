@@ -19,7 +19,7 @@ Body text
 ### Subheading 2  
   
 Body text  
-![Image](assets/infographics/TPS_Infographic_Kernel.jpg)
+![Image](assets/infographics/IMG_9702.jpg)
 
 
 
