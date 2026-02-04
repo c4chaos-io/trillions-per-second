@@ -1,3 +1,4 @@
+![Image](/assets/images/TPS_IMG_BookCover.jpg)
 # TRILLIONS PER SECOND ⚡️
 ### A Hardcore Manual for Hacking the Simulation
 
