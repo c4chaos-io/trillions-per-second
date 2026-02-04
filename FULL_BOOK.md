@@ -3,7 +3,7 @@
 ## A Hardcode Manual for Hacking the Simulation
 **by ~C4Chaos**
 
-### FRONT MATTER
+### [FRONT MATTER](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/00_front_matter/00_00_front_matter.md)
 
 ### [INTRODUCTION](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/00_introduction/00_00_introduction.md)
 
