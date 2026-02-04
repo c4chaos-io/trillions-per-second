@@ -4,7 +4,7 @@
 
 ### FRONT MATTER
 
-### INTRODUCTION
+### [INTRODUCTION](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/00_introduction/00_00_introduction.md)
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 
