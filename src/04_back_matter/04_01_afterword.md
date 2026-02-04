@@ -23,4 +23,5 @@ And the best part? I thumb-typed the whole thing on my iPhone. Don't judge me.
 The future is weird.
 
 Signing off,
+
 ~C4Chaos
