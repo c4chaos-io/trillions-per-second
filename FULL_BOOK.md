@@ -3,9 +3,9 @@
 **A Hardcode Manual for Hacking the Simulation**
 **by ~C4Chaos**
 
-### [FRONT MATTER](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/00_front_matter/00_00_front_matter.md)
+### [FRONT MATTER](src/00_front_matter/00_00_front_matter.md)
 
-### [INTRODUCTION](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/00_introduction/00_00_introduction.md)
+### [INTRODUCTION](src/00_introduction/00_00_introduction.md)
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 
@@ -17,14 +17,14 @@
 
 ### BACK MATTER
 
-[**Afterword**](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/04_back_matter/04_01_afterword.md)
+[**Afterword**](src/04_back_matter/04_01_afterword.md)
 
-[**About the Author**](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/04_back_matter/04_02_about_the_author.md)
+[**About the Author**](src/04_back_matter/04_02_about_the_author.md)
 
 **End Notes / References**
 
-### [APPENDIX A: THE MASTER SYSTEM LEXICON](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/05_appendix/05_01_REF_LEXICON.md)
+### [APPENDIX A: THE MASTER SYSTEM LEXICON](src/05_appendix/05_01_REF_LEXICON.md)
 
-### [APPENDIX B: THE SILICON SUTRA](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/05_appendix/05_02_AI_ALIGNMENT_PROTOCOL.md)
+### [APPENDIX B: THE SILICON SUTRA](src/05_appendix/05_02_AI_ALIGNMENT_PROTOCOL.md)
 
 
