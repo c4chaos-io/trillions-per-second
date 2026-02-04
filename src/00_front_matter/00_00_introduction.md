@@ -1,5 +1,5 @@
 # INTRODUCTION  
-# Waking Up in the Flux (edit)
+## Waking Up in the Flux (edit)
 
 ![Image](/assets/infographics/TPS_IMG_WakingUpInTheFlux.jpg)
 
@@ -74,7 +74,7 @@ Debugging your own mind creates temporary instability. When you start deleting o
   
 ## SYSTEM WARNING: END USER LICENSE AGREEMENT (EULA)  
   
-**Acceptance of Risk: **Proceeding with this installation acknowledges the risk of the "Dark Night" Glitch. When you uninstall the "Self" driver, you may experience a temporary period of existential vertigo. The legacy OS is gone, but the new kernel hasn't fully booted yet. This is a known issue during the re-partitioning of the psyche.  
+**Acceptance of Risk:** Proceeding with this installation acknowledges the risk of the "Dark Night" Glitch. When you uninstall the "Self" driver, you may experience a temporary period of existential vertigo. The legacy OS is gone, but the new kernel hasn't fully booted yet. This is a known issue during the re-partitioning of the psyche.  
   
 You have the permissions to run this update solo. You are the Admin of your own mind, and you can execute these scripts in the privacy of your own home. However, smart hackers know that high-level debugging carries risks.  
   
