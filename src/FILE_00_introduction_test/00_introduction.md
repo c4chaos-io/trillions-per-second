@@ -1,7 +1,7 @@
 **FILE: **00_introduction.md  
   
 # INTRODUCTION  
-# Waking Up in the Flux  
+# Waking Up in the Flux (edit)
   
 It was 3:00 a.m.This is the witching hour for insomniacs and coders.  
   
@@ -92,13 +92,13 @@ The code we are running wasn't written in a vacuum. While the Prime User establi
   
 This manual is built on the specific "Open Source" branch of the protocol known as **Hardcore Dharma**. We honor the following lead developers who stripped away the bloatware to reveal the raw code underneath.  
   
-### U Ba Khin (The Clock Speed Optimizer)  
+**U Ba Khin (The Clock Speed Optimizer)**
   
 **Contribution:** *The Clock of Vipassana Has Struck / *System Efficiency for Lay Users   
   
 In the mid-20th century U Ba Khin realized that modern users didn't have decades to sit in a monastery. He refactored the code for high efficiency, developing a body-scanning technique that emphasized the "clock speed" of **The Flux**. He proved that you could achieve significant system upgrades while holding down a government job.  
   
-### Mahasi Sayadaw (The Map Maker)  
+**Mahasi Sayadaw (The Map Maker)**
   
 **Contribution:** *The Progress of Insight (16 Stages)*   
   
