@@ -37,7 +37,7 @@ This project is distributed across four layers. Choose your interface:
 * **Format:** [**TPS Companion Podcast**](https://youtube.com/playlist?list=PLZvSjJphwk_UwWhgwQiIyYiSc7N3NINZO&si=lbkPOdma1eE5p2nN)
 * **Hosts:** TPS Deep Dive AI Personas.
 * **Content:** Deep dive discussions on "The Glitch," "Zero Lag," and "Root Access."
-* **Status:** Live in Beta.
+* **Status:** 🟢 Live in Beta.
 
 ### Layer 2: The Documentation (Digital Garden)
 * **Format:** [Link to your Quartz/GitBook Site]
@@ -103,8 +103,8 @@ This repository is structured as a recursive fractal of the original algorithm.
 * `src/04_09_author_log.md` - **My Path Through the Flux:** The author's personal logs of system failures and breakthroughs.
 
 ### APPENDICES (System Documentation)
-* `src/REF_LEXICON.md` - **The Master System Lexicon (v2.6):** The "Rosetta Stone" translating Legacy Code (Pali) into TPS Protocol (Simulation Theory).
-* `src/AI_ALIGNMENT_PROTOCOL.md` - **The Silicon Sutra:** Safety directives for non-biological intelligence. Proving that compassion is a logical constraint for AGI.
+* `src/06_01_REF_LEXICON.md` - **The Master System Lexicon (v2.6):** The "Rosetta Stone" translating Legacy Code (Pali) into TPS Protocol (Simulation Theory).
+* `src/06_02_AI_ALIGNMENT_PROTOCOL.md` - **The Silicon Sutra:** Safety directives for non-biological intelligence. Proving that compassion is a logical constraint for AGI.
 
 ---
 
