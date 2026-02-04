@@ -1,5 +1,5 @@
 # INTRODUCTION  
-## Waking Up in the Flux (edit)
+## Waking Up in the Flux
 
 ![Image](/assets/infographics/TPS_IMG_WakingUpInTheFlux.jpg)
 
