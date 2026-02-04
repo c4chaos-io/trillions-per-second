@@ -116,6 +116,7 @@ If you are going to explore deep operating systems, you need a map. Mahasi Sayad
 ### S.N. Goenka (The Hardware Scanner)  
   
 **Contribution:** The Body Scan (Bio-Electric Feedback)  
+
 A student of U Ba Khin, Goenka scaled the protocol for global enterprise deployment. He focused on the "Body Scan", a systematic method of sweeping the hardware to detect subtle bio-electric flux. He taught users that the interface for reality isn't thoughts, but sensation (*Vedana*), and provided the tools to scan the body for lag and resistance.   
   
 ### Daniel Ingram (The Whistleblower)  
