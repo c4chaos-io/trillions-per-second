@@ -93,7 +93,14 @@ Before we boot up the kernel, we need to credit the **Open Source Contributors**
 The code we are running wasn't written in a vacuum. While the Prime User established the kernel, the interface has been refined over centuries by dedicated developers who optimized the system for different hardware.  
   
 This manual is built on the specific "Open Source" branch of the protocol known as **Hardcore Dharma**. We honor the following lead developers who stripped away the bloatware to reveal the raw code underneath.  
-  
+
+### Buddhaghosa (The Lead Archivist)
+
+**Contribution:** *The Visuddhimagga (The Path of Purification)* / The Legacy Manual
+
+Before we run the modern scripts, we have to respect the original documentation. In the 5th century, a developer named Buddhaghosa took the Prime User's scattered patch notes and compiled them into a massive system manual called the Visuddhimagga.
+Think of this text as the "Linux Kernel Archives" of our practice. It is dense. It is technical. It covers every edge case in the system. While the language is dated, the architecture is flawless. The chapters ahead rely heavily on the system map he preserved. We are simply refactoring his source code for modern hardware.
+
 ### U Ba Khin (The Clock Speed Optimizer)
   
 **Contribution:** *The Clock of Vipassana Has Struck / *System Efficiency for Lay Users   
