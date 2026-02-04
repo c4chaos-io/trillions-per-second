@@ -1,7 +1,5 @@
-**FILE: **00_introduction.md  
-  
 # INTRODUCTION  
-# Waking Up in the Flux (edit)
+## Waking Up in the Flux
 
 ![Image](/assets/infographics/TPS_IMG_WakingUpInTheFlux.jpg)
 
@@ -35,7 +33,9 @@ But the legacy documentation is outdated. It is written in Pali and Sanskrit. It
   
   
 ## System Dependencies (The Stack)  
-  
+
+![Image](/assets/infographics/TPS_IMG_SystemDependencies.jpg)
+
 You wouldn’t try to install a high-performance operating system on a machine that’s already crashing. Before we run this update, we need to verify your system requirements.  
   
 In the legacy manuals, these were called the **Three Jewels**. That sounds nice, but it also sounds a bit like magic. We aren't doing magic here; we are doing system maintenance. We call this **The Stack**.  
@@ -43,8 +43,8 @@ In the legacy manuals, these were called the **Three Jewels**. That sounds nice,
 If you try to upgrade your mind without these three dependencies installed, the installation will fail.  
   
 ### Dependency 1: The Prime User  
-* **Legacy Name:** The Buddha  
-* **System Role:** The Original SysAdmin  
+**Legacy Name:** The Buddha  
+**System Role:** The Original SysAdmin  
   
 Let’s get one thing clear: We do not worship the Prime User. We respect the expertise.  
   
@@ -53,8 +53,8 @@ He was not a god. He was simply the first power user in history to successfully 
 He didn't just "wake up." He figured out how the software worked. He proved that the upgrade is compatible with human hardware. We acknowledge him as the Root User or Lead Architect who first mapped the system.  
   
 ### Dependency 2: The Master Protocol  
-* **Legacy Name:** The Dharma  
-* **System Role:** The Source Code  
+**Legacy Name:** The Dharma  
+**System Role:** The Source Code  
   
 When the Prime User left the system, he didn't leave us with vague riddles. He left us with **Documentation**.  
   
@@ -63,8 +63,8 @@ The Master Protocol is the open-source library he left behind. It contains the c
 This book you are holding? It’s just a translation of that original code into modern language. We aren't rewriting the rules; we are just updating the interface so you can understand it without learning an ancient language. The logic remains the same.  
   
 ### Dependency 3: The P2P Network  
-* **Legacy Name:** The Sangha  
-* **System Role:** The Support Network  
+**Legacy Name:** The Sangha  
+**System Role:** The Support Network  
   
 This is the step most people try to skip. They think they can upgrade their mind alone in a dark room.  
   
@@ -74,7 +74,7 @@ Debugging your own mind creates temporary instability. When you start deleting o
   
 ## SYSTEM WARNING: END USER LICENSE AGREEMENT (EULA)  
   
-**Acceptance of Risk: **Proceeding with this installation acknowledges the risk of the "Dark Night" Glitch. When you uninstall the "Self" driver, you may experience a temporary period of existential vertigo. The legacy OS is gone, but the new kernel hasn't fully booted yet. This is a known issue during the re-partitioning of the psyche.  
+**Acceptance of Risk:** Proceeding with this installation acknowledges the risk of the "Dark Night" Glitch. When you uninstall the "Self" driver, you may experience a temporary period of existential vertigo. The legacy OS is gone, but the new kernel hasn't fully booted yet. This is a known issue during the re-partitioning of the psyche.  
   
 You have the permissions to run this update solo. You are the Admin of your own mind, and you can execute these scripts in the privacy of your own home. However, smart hackers know that high-level debugging carries risks.  
   
@@ -94,13 +94,13 @@ The code we are running wasn't written in a vacuum. While the Prime User establi
   
 This manual is built on the specific "Open Source" branch of the protocol known as **Hardcore Dharma**. We honor the following lead developers who stripped away the bloatware to reveal the raw code underneath.  
   
-**U Ba Khin (The Clock Speed Optimizer)**
+### U Ba Khin (The Clock Speed Optimizer)
   
 **Contribution:** *The Clock of Vipassana Has Struck / *System Efficiency for Lay Users   
   
 In the mid-20th century U Ba Khin realized that modern users didn't have decades to sit in a monastery. He refactored the code for high efficiency, developing a body-scanning technique that emphasized the "clock speed" of **The Flux**. He proved that you could achieve significant system upgrades while holding down a government job.  
   
-**Mahasi Sayadaw (The Map Maker)**
+### Mahasi Sayadaw (The Map Maker)
   
 **Contribution:** *The Progress of Insight (16 Stages)*   
   
@@ -127,6 +127,8 @@ With the development team acknowledged, it is time to look at the code they opti
   
 ## The Kernel Specs (The Core Thesis)  
   
+![Image](/assets/infographics/TPS_IMG_KernelSpecs.jpg)
+
 The Prime User didn’t deal in philosophy. He dealt in **System Architecture**.  
   
 In the legacy documentation, there is a massive library called the *Abhidhamma*. It’s a dense, dry technical manual that breaks reality down into its smallest data packets. Most people find it unreadable. We are going to refactor it into modern logic.  
@@ -194,19 +196,19 @@ Before we initialize the boot sequence, check the architectural integrity of thi
   
 This book is not a random collection of philosophical musings. The structure of this document is a recursive fractal of the original algorithm (The Kernel Specs). We have designed the Table of Contents to mirror the debugging process itself.   
   
-**PHASE 1: THE DIAGNOSTIC (System Analysis) **  
+### PART 1: THE DIAGNOSTIC (System Analysis)
   
 **Refactoring Axioms 1 & 2 (The Problem)**   
   
 In **Part 1**, we open the hood. We will analyze the physics engine of reality, tracing the wires from your senses (Input Ports) to your brain (The Hardware). We will hunt down the **Resource Hog** (The Self) and identify exactly where the "System Latency" is coming from. You cannot fix a bug you cannot see.  
   
-**PHASE 2: THE CODE (Execution) **  
+### PART 2: THE CODE (Execution)
   
 **Refactoring Axiom 4 (The Method)**   
   
 In **Part 2**, we run the scripts. This is the execution phase. We will deploy the **Firewall** (Ethics) to secure your system, and then we will start **Overclocking** your attention. This is the "How-To" manual where we apply **The** **Protocol** to the live data stream.  
   
-**PHASE 3: THE PATCH (Optimization) **  
+### PART 3: THE PATCH (Optimization)
   
 **Refactoring Axiom 3 (The Result)**   
   
