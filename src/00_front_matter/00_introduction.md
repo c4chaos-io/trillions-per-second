@@ -3,7 +3,7 @@
 # INTRODUCTION  
 # Waking Up in the Flux (edit)
 
-![Image](assets/infographics/TPS_IMG_WakingUpInTheFlux.jpg)
+![Image](/assets/infographics/TPS_IMG_WakingUpInTheFlux.jpg)
 
 It was 3:00 a.m.This is the witching hour for insomniacs and coders.  
   
