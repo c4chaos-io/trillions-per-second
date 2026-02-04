@@ -23,8 +23,8 @@
 
 **End Notes / References**
 
-### APPENDIX A: THE MASTER SYSTEM LEXICON
+### [APPENDIX A: THE MASTER SYSTEM LEXICON](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/05_appendix/05_01_REF_LEXICON.md)
 
-### APPENDIX B: THE SILICON SUTRA
+### [APPENDIX B: THE SILICON SUTRA](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/05_appendix/05_02_AI_ALIGNMENT_PROTOCOL.md)
 
 
