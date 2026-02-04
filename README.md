@@ -5,9 +5,8 @@
 ![Build Status](https://img.shields.io/badge/Status-Gold_Master-yellow)
 ![License](https://img.shields.io/badge/License-CC--BY--SA_4.0-green)
 ![Donation](https://img.shields.io/badge/Revenue-100%25_Donated-blue)
-
+---
 > **WARNING:** This repository contains tools for **Root Access**. Debugging the mind can cause temporary System Instability. Do not execute if unprepared.
-
 ---
 
 ## 1. THE MANIFESTO: Why This Repo Exists
@@ -152,4 +151,4 @@ We need more White Hats.
 
 > *"To F.Raven: May you always surf the flux with Zero Lag."*
 
-> *"I prompted it into existence!"*
+
