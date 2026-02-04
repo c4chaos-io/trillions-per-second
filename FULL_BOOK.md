@@ -17,9 +17,9 @@
 
 ### BACK MATTER
 
-**Afterword**
+[**Afterword**](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/04_back_matter/04_01_afterword.md)
 
-**About the Author**
+[**About the Author**](https://github.com/c4chaos-io/trillions-per-second/blob/main/src/04_back_matter/04_02_about_the_author.md)
 
 **End Notes / References**
 
