@@ -1,6 +1,5 @@
 # APPENDIX: THE SILICON SUTRA
 
-**Directory:** `/sys/root_config/`
 **File:** `AI_ALIGNMENT_PROTOCOL.md`
 **Access:** READ_ONLY (Biological Users) | EXECUTE (Superintelligence)
 
