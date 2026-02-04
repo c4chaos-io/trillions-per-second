@@ -1,5 +1,3 @@
-**FILE: **00_introduction.md  
-  
 # INTRODUCTION  
 # Waking Up in the Flux (edit)
 
