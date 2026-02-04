@@ -19,10 +19,10 @@ Body text
 ### Subheading 2  
   
 Body text  
-![Image](assets/infographics/IMG_9702.jpg)
+![Image](/assets/infographics/IMG_9702.jpg)
 
 
-
+/assets/infographics/IMG_9702.jpg
 
 
 Image here  
