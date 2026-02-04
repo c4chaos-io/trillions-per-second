@@ -94,7 +94,7 @@ The code we are running wasn't written in a vacuum. While the Prime User establi
   
 This manual is built on the specific "Open Source" branch of the protocol known as **Hardcore Dharma**. We honor the following lead developers who stripped away the bloatware to reveal the raw code underneath.  
   
-**U Ba Khin (The Clock Speed Optimizer)**
+###U Ba Khin (The Clock Speed Optimizer)
   
 **Contribution:** *The Clock of Vipassana Has Struck / *System Efficiency for Lay Users   
   
