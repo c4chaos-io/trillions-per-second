@@ -82,7 +82,7 @@ This is a "Passthrough" entity. We use the capitalist rail (book sales) to fund 
 This repository is structured as a recursive fractal of the original algorithm.
 
 ### INTRODUCTION
-* `src/00_introduction.md` - **Waking Up in the Flux:** System Dependencies / Lineage Acknowledgement / The Kernel Specs 
+* `src/00_00_introduction.md` - **Waking Up in the Flux:** System Dependencies / Lineage Acknowledgement / The Kernel Specs 
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 * `src/01_00_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
