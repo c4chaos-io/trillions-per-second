@@ -16,11 +16,11 @@
 
 ### BACK MATTER
 
-####Afterword
+**Afterword**
 
-####About the Author
+**About the Author**
 
-####End Notes / References
+**End Notes / References**
 
 ### APPENDIX A: THE MASTER SYSTEM LEXICON
 
