@@ -1,5 +1,5 @@
 ![Image](/assets/images/TPS_IMG_BookCover.jpg)
-# TRILLIONS PER SECOND (Draft 1.10 *In Progress*)
+# TRILLIONS PER SECOND (*Draft v1.10: In Progress*)
 ## A Hardcode Manual for Hacking the Simulation
 **by ~C4Chaos**
 
