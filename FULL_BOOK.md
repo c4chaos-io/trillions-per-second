@@ -45,25 +45,69 @@
 
 ### Chapter 1: The Hardware & The Code (Kalapas)
 
+#### System Specs
+
+#### Three Signatures
+
+#### 📍CHECKPOINT 1: STREAM ANALYSIS
+
 ### Chapter 2: The Render Engine (Ghana)
 
+#### Render Engine
+
+#### Algorithm
+
+#### 📍CHECKPOINT 2: SPOTTING THE LAG
+
 ### Chapter 3: The Virus (The Self Loop)
+
+#### The Infinite Loop
+
+#### The Idle Process (Bhavanga)
 
 ---
 ## PART 2: THE CODE (Execution)
 
 ### Chapter 4: The Firewall (Sila & Ethics)
 
+#### Firewall 
+
 ### Chapter 5: Overclocking Attention (Samadhi)
 
+#### Overclock
+
+#### Intermediate Realms
+
+#### 📍CHECKPOINT 3: THE OVERCLOCK
+
 ### Chapter 6: The Toolkit (System Utilities)
+
+#### Toolkit
+
+#### Tool 1: Rapid Noting (The Logger
+
+#### Tool 2: Feel the Vibration (Haptic Feedback)
+
+#### Tool 3: Gone (Gone)
+
+#### 📍CHECKPOINT 4: THE DEFRAG (System Instability)
 
 ---
 ## PART 3: THE PATCH (Optimization)
 
 ### Chapter 7: Achieving Freedom Within the Flux
 
+#### Zero Lag
+
+#### 📍CHECKPOINT 5: ZERO LAG (Flow State
+
+#### 📍CHECKPOINT 6: THE REBOOT (Root Access)
+
 ### Chapter 8: Integration and The White Hat Vow
+
+#### The White Hat Vow
+
+#### Stable State Configuration 
 
 ---
 ## PART 4: PERSONAL CODEX
