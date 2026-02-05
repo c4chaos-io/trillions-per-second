@@ -8,7 +8,7 @@
 
 ### [Dedication](src/00_front_matter/04_dedication.md)
 
-[Epigraph](src/00_front_matter/05_epigraph.md)
+#### [Epigraph](src/00_front_matter/05_epigraph.md)
 
 [Table of Contents](src/00_front_matter/06_table_of_contents.md)
 
