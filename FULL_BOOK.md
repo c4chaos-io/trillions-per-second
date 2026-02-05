@@ -28,17 +28,37 @@
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 
+System Roadmap (Installation Wizard)
+
+Chapter 1: The Hardware & The Code (Kalapas)
+
+Chapter 2: The Render Engine (Ghana)
+
+Chapter 3: The Virus (The Self Loop)
+
 ### PART 2: THE CODE (Execution)
+
+Chapter 4: The Firewall (Sila & Ethics)
+
+Chapter 5: Overclocking Attention (Samadhi)
+
+Chapter 6: The Toolkit (System Utilities)
 
 ### PART 3: THE PATCH (Optimization)
 
+Chapter 7: Achieving Freedom Within the Flux
+
+Chapter 8: Integration and The White Hat Vow
+
 ### PART 4: PERSONAL CODEX
+
+Chapter 9: My Path Through the Flux
 
 ### BACK MATTER
 
-[**Afterword**](src/04_back_matter/04_01_afterword.md)
+[Afterword](src/04_back_matter/04_01_afterword.md)
 
-[**About the Author**](src/04_back_matter/04_02_about_the_author.md)
+[About the Author](src/04_back_matter/04_02_about_the_author.md)
 
 **End Notes / References**
 
