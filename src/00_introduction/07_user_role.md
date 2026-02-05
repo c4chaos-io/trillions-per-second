@@ -1,4 +1,4 @@
-## The User Role: White Hat Hacker  
+# The User Role: White Hat Hacker  
   
 Finally, a word on your user permissions.  
   
