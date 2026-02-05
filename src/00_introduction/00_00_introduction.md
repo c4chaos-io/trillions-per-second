@@ -133,7 +133,7 @@ Shinzen Young took the mystical language of the past and translated it into the 
   
 With the development team acknowledged, it is time to look at the code they optimized. The Prime User discovered four immutable laws that govern how this simulation renders. In the legacy files, these were called the *Four Noble Truths*. In this manual, we call them **The Kernel Specs**.  
   
-## The Kernel Specs (The Core Thesis)  
+## The Kernel Specs (The Four Axioms)  
   
 ![Image](/assets/infographics/TPS_IMG_KernelSpecs.jpg)
 
