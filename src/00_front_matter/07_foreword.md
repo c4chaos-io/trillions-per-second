@@ -1,6 +1,8 @@
-# Vince Horn
+#Foreword
 
-# Daniel Ingram
+## Vince Horn
 
-# Shinzen Young
+## Daniel Ingram
+
+## Shinzen Young
 
