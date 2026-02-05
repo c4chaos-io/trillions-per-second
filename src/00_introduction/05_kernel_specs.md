@@ -1,4 +1,4 @@
-## The Kernel Specs (The Four AXIOMS)  
+## The Kernel Specs (AXIOMS)  
   
 ![Image](/assets/infographics/TPS_IMG_KernelSpecs.jpg)
 
