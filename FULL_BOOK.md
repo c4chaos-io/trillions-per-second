@@ -15,7 +15,7 @@
 
 [System Dependencies (The Stack)](src/00_introduction/02_system_dependecies.md)
 
-[SYSTEM WARNING: (END USER LICENSE AGREEMENT (EULA))](src/00_introduction/03_EULA.md)
+[SYSTEM WARNING: (END USER LICENSE AGREEMENT (EULA)](src/00_introduction/03_EULA.md)
 
 [Lineage Acknowledgement: Honoring the Open Source Contributors](src/00_introduction/04_lineage.md)
 
