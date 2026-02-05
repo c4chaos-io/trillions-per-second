@@ -1,7 +1,9 @@
 # PREFACE
 ## READ THIS BEFORE EXECUTING
 
-**SYSTEM STATUS:** *CRITICAL* **LOG ENTRY:** *00:00:01*
+**SYSTEM STATUS:** *CRITICAL* 
+
+**LOG ENTRY:** *00:00:01*
 
 Let’s get the system specs on the table.
 
