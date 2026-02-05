@@ -56,9 +56,9 @@ Chapter 9: My Path Through the Flux
 
 ### BACK MATTER
 
-[Afterword](src/05_back_matter/04_01_afterword.md)
+[Afterword](src/05_back_matter/01_afterword.md)
 
-[About the Author](src/05_back_matter/04_02_about_the_author.md)
+[About the Author](src/05_back_matter/02_about_the_author.md)
 
 **End Notes / References**
 
