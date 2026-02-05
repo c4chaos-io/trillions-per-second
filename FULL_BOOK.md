@@ -3,6 +3,7 @@
 ## A Hardcode Manual for Hacking the Simulation
 
 **by ~C4Chaos**
+
 ---
 ## FRONT MATTER
 
