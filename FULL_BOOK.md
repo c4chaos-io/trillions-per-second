@@ -116,6 +116,8 @@
 
 ### Chapter 9: My Path Through the Flux
 
+#### Author Log
+
 ---
 ## BACK MATTER
 
