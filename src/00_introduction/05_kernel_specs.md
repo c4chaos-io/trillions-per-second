@@ -1,4 +1,4 @@
-## The Kernel Specs (The Core Thesis)  
+## The Kernel Specs (The 4 Axioms)  
   
 ![Image](/assets/infographics/TPS_IMG_KernelSpecs.jpg)
 
