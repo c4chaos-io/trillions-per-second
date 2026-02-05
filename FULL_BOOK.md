@@ -5,9 +5,9 @@
 
 ### FRONT MATTER
 
-Dedication
+[Dedication](src/00_front_matter/00_01_dedication.md)
 
-Warning
+[Warning](src/00_front_matter/00_01_dedication.md)
 
 ### INTRODUCTION
 
