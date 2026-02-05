@@ -20,7 +20,7 @@
 
 [Lineage Acknowledgement: Honoring the Open Source Contributors](src/00_introduction/04_lineage.md)
 
-[The Kernel Specs (The AXIOMS)](src/00_introduction/05_kernel_specs.md)
+[The Kernel Specs (The Axioms)](src/00_introduction/05_kernel_specs.md)
 
 [Meta-Structure (Fractal Architecture)](src/00_introduction/06_meta_structure.md)
 
