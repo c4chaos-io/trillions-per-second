@@ -3,7 +3,7 @@
 ## A Hardcode Manual for Hacking the Simulation
 
 **by ~C4Chaos**
-
+---
 ## FRONT MATTER
 
 ### [Dedication](src/00_front_matter/04_dedication.md)
