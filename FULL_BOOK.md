@@ -84,11 +84,11 @@
 
 #### Toolkit
 
-#### Tool 1: Rapid Noting (The Logger
+#### Tool 1: Rapid Noting (The Logger)
 
 #### Tool 2: Feel the Vibration (Haptic Feedback)
 
-#### Tool 3: Gone (Gone)
+#### Tool 3: Gone (Gone, Gone)
 
 #### 📍CHECKPOINT 4: THE DEFRAG (System Instability)
 
