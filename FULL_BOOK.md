@@ -6,6 +6,12 @@
 ### [FRONT MATTER](src/00_front_matter/00_00_front_matter.md)
 
 ### [INTRODUCTION](src/00_introduction/00_00_introduction.md)
+Waking Up In The Flux
+System Dependencies (The Stack)
+Lineage Acknowledgement
+The Kernel Specs (The Core Thesis)
+Meta-Structure (Fractal Architecture)
+User Role
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 
