@@ -103,7 +103,7 @@ This repository is structured as a recursive fractal of the original algorithm.
 * [`src/00_introduction/00_00_introduction.md`](src/00_introduction/00_00_introduction.md) - **Waking Up in the Flux:** System Dependencies / Lineage Acknowledgement / The Kernel Specs 
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
-* `src/01_00_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
+* `src/01_diagnostic/ch00_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
 * `src/01_diagnostic/ch01_01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates.
 * `src/01_diagnostic/ch01_02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects".
 * `src/01_diagnostic/ch01_03_virus.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process.
