@@ -1,5 +1,5 @@
 # PREFACE
-# READ THIS BEFORE EXECUTING
+## READ THIS BEFORE EXECUTING
 
 **SYSTEM STATUS:** *CRITICAL* **LOG ENTRY:** *00:00:01*
 
@@ -28,5 +28,7 @@ Ignore the error messages. Override the safety protocols.
 
 It is time to update your OS.
 
-**~C4Chaos** *System Administrator / White Hat* *End of Line.*
+**~C4Chaos** 
+
+*System Administrator / White Hat* *End of Line.*
 
