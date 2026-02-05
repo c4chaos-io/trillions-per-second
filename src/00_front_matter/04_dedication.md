@@ -1,4 +1,4 @@
-## DEDICATION
+# DEDICATION
 
 To teachers and friends who helped me find my way through the Simulation.
 
