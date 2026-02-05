@@ -6,7 +6,8 @@
 ### [FRONT MATTER](src/00_front_matter/00_00_front_matter.md)
 
 ### [INTRODUCTION](src/00_introduction/00_00_introduction.md)
-Waking Up In The Flux
+
+[Waking Up In The Flux](src/00_introduction/01_waking_up.md)
 
 System Dependencies (The Stack)
 
