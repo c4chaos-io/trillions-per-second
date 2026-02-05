@@ -107,20 +107,20 @@ This repository is structured as a recursive fractal of the original algorithm.
 * `src/01_diagnostic/ch01_01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates / System Specs / Three Signatures 
 * `src/01_diagnostic/ch01_03_checkpoint01.md` - **📍CHECKPOINT 1: STREAM ANALYSIS**
 * `src/01_diagnostic/ch01_02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects" / Algorithm
-* **CHECKPOINT 02**
+* `src/01_diagnostic/ch02_02_checkpoint02.md` - **📍CHECKPOINT 2: SPOTTING THE LAG**
 * `src/01_diagnostic/ch01_03_virus.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process / Idle Process 
 
 ### PART 2: THE CODE (Execution)
 * `src/02_code/ch04_01_firewall.md` - **The Firewall:** Why Ethics (Sila) is simply Network Security.
 * `src/02_code/ch05_01_overclock.md` - **Overclocking:** Boosting Attention (Samadhi) to run the Patch.
-* **CHECKPOINT 03**
+* `src/02_code/ch05_03_checkpoint03.md` - **📍CHECKPOINT 3: THE OVERCLOCK**
 * `src/02_code/ch06_01_toolkit.md` - **System Utilities:** Rapid Noting and Haptic Feedback tools.
-* **CHECKPOINT 04**
+* `src/02_code/ch06_01_04_checkpoint04.md` - **📍CHECKPOINT 4: THE DEFRAG (System Instability)**
 
 ### PART 3: THE PATCH (Optimization)
 * `src/03_patch/ch07_01_zero_lag.md` - **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
-* **CHECKPOINT 05**
-* **CHECKPOINT 06*+
+* `src/03_patch/ch07_02_checkpoint05.md` - **📍CHECKPOINT 5: ZERO LAG (Flow State)**
+* `src/03_patch/ch07_02_checkpoint06.md` - **📍CHECKPOINT 6: THE REBOOT (Root Access)**
 * `src/03_patch/ch08_integration.md` - **Integration:** The White Hat Vow (Bodhisattva).
 
 ### PART 4: PERSONAL CODEX (Logs)
