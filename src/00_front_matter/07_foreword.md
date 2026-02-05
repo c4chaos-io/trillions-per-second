@@ -1,4 +1,4 @@
-# Foreword
+# FOREWORD
 
 ## Vince Horn
 
