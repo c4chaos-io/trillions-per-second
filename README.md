@@ -106,22 +106,25 @@ This repository is structured as a recursive fractal of the original algorithm.
 * `src/01_diagnostic/ch00_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
 * `src/01_diagnostic/ch01_01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates / System Specs / Three Signatures 
 * `src/01_diagnostic/ch01_03_checkpoint01.md` - **📍CHECKPOINT 1: STREAM ANALYSIS**
-* `src/01_diagnostic/ch01_02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects" / Algorithm
+* `src/01_diagnostic/ch02_02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects" / Algorithm
 * `src/01_diagnostic/ch02_02_checkpoint02.md` - **📍CHECKPOINT 2: SPOTTING THE LAG**
-* `src/01_diagnostic/ch01_03_virus.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process / Idle Process 
+* `src/01_diagnostic/ch03_01_virus.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process / Idle Process 
 
 ### PART 2: THE CODE (Execution)
 * `src/02_code/ch04_01_firewall.md` - **The Firewall:** Why Ethics (Sila) is simply Network Security.
 * `src/02_code/ch05_01_overclock.md` - **Overclocking:** Boosting Attention (Samadhi) to run the Patch.
+* `src/02_code/ch05_02_intermediate_realms.md` - **Warning**: The Intermediate Realms (Siddhis)
 * `src/02_code/ch05_03_checkpoint03.md` - **📍CHECKPOINT 3: THE OVERCLOCK**
-* `src/02_code/ch06_01_toolkit.md` - **System Utilities:** Rapid Noting and Haptic Feedback tools.
-* `src/02_code/ch06_01_04_checkpoint04.md` - **📍CHECKPOINT 4: THE DEFRAG (System Instability)**
+* `src/02_code/ch06_01_toolkit.md` - **System Utilities:**
+* `src/02_code/ch06_02_tool01_rapid_noting.md` - **"Rapid Noting** 
+* `src/02_code/ch06_03_tool02_haptic_feedback.md` - **"Haptic Feedback**
+* `src/02_code/ch06_04_checkpoint04.md` - **📍CHECKPOINT 4: THE DEFRAG (System Instability)**
 
 ### PART 3: THE PATCH (Optimization)
 * `src/03_patch/ch07_01_zero_lag.md` - **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
 * `src/03_patch/ch07_02_checkpoint05.md` - **📍CHECKPOINT 5: ZERO LAG (Flow State)**
-* `src/03_patch/ch07_02_checkpoint06.md` - **📍CHECKPOINT 6: THE REBOOT (Root Access)**
-* `src/03_patch/ch08_integration.md` - **Integration:** The White Hat Vow (Bodhisattva).
+* `src/03_patch/ch07_03_checkpoint06.md` - **📍CHECKPOINT 6: THE REBOOT (Root Access)**
+* `src/03_patch/ch08_01_integration.md` - **Integration:** The White Hat Vow (Bodhisattva).
 
 ### PART 4: PERSONAL CODEX (Logs)
 * `src/04_personal_codex/01_author_log.md` - **My Path Through the Flux:** The author's personal logs of system failures and breakthroughs.
