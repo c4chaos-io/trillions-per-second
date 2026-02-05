@@ -21,6 +21,7 @@
 
 ### [System Requirements](src/00_front_matter/10_system_requirements.md)
 
+---
 
 ## INTRODUCTION
 
@@ -38,8 +39,7 @@
 
 ### [User Role](src/00_introduction/07_user_role.md)
 
-
-
+---
 ## PART 1: THE DIAGNOSTIC (System Analysis)
 
 ### System Roadmap (Installation Wizard)
