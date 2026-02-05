@@ -7,11 +7,17 @@
 
 ### [INTRODUCTION](src/00_introduction/00_00_introduction.md)
 Waking Up In The Flux
+
 System Dependencies (The Stack)
-Lineage Acknowledgement
+
+Lineage Acknowledgements
+
 The Kernel Specs (The Core Thesis)
+
 Meta-Structure (Fractal Architecture)
+
 User Role
+
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 
