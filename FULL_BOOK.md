@@ -23,7 +23,7 @@
 
 [Meta-Structure (Fractal Architecture)](src/00_introduction/06_meta_structure.md)
 
-[User Role](src/00_introduction/01_user_role.md)
+[User Role](src/00_introduction/07_user_role.md)
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 
