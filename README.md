@@ -100,21 +100,27 @@ This is a "Passthrough" entity. We use the capitalist rail (book sales) to fund 
 This repository is structured as a recursive fractal of the original algorithm.
 
 ### INTRODUCTION
-* [`src/00_introduction/00_00_introduction.md`](src/00_introduction/00_00_introduction.md) - **Waking Up in the Flux:** System Dependencies / Lineage Acknowledgement / The Kernel Specs 
+* [`src/00_introduction/00_00_introduction.md`](src/00_introduction/00_00_introduction.md) - **Waking Up in the Flux** / System Dependencies / Lineage Acknowledgement / The Kernel Specs 
 
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 * `src/01_diagnostic/ch00_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
-* `src/01_diagnostic/ch01_01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates.
-* `src/01_diagnostic/ch01_02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects".
-* `src/01_diagnostic/ch01_03_virus.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process.
+* `src/01_diagnostic/ch01_01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates / System Specs / Three Signatures 
+* **CHECKPOINT 01**
+* `src/01_diagnostic/ch01_02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects" / Algorithm
+* **CHECKPOINT 02**
+* `src/01_diagnostic/ch01_03_virus.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process / Idle Process 
 
 ### PART 2: THE CODE (Execution)
 * `src/02_code/ch04_01_firewall.md` - **The Firewall:** Why Ethics (Sila) is simply Network Security.
 * `src/02_code/ch05_01_overclock.md` - **Overclocking:** Boosting Attention (Samadhi) to run the Patch.
+* **CHECKPOINT 03**
 * `src/02_code/ch06_01_toolkit.md` - **System Utilities:** Rapid Noting and Haptic Feedback tools.
+* **CHECKPOINT 04**
 
 ### PART 3: THE PATCH (Optimization)
 * `src/03_patch/ch07_01_zero_lag.md` - **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
+* **CHECKPOINT 05**
+* **CHECKPOINT 06*+
 * `src/03_patch/ch08_integration.md` - **Integration:** The White Hat Vow (Bodhisattva).
 
 ### PART 4: PERSONAL CODEX (Logs)
