@@ -30,5 +30,7 @@ It is time to update your OS.
 
 **~C4Chaos** 
 
-*System Administrator / White Hat* *End of Line.*
+*System Administrator / White Hat* *
+
+End of Line.*
 
