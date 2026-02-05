@@ -116,8 +116,8 @@ This repository is structured as a recursive fractal of the original algorithm.
 * `src/02_code/ch05_02_intermediate_realms.md` - **Warning**: The Intermediate Realms (Siddhis)
 * `src/02_code/ch05_03_checkpoint03.md` - **📍CHECKPOINT 3: THE OVERCLOCK**
 * `src/02_code/ch06_01_toolkit.md` - **System Utilities:**
-* `src/02_code/ch06_02_tool01_rapid_noting.md` - **"Rapid Noting** 
-* `src/02_code/ch06_03_tool02_haptic_feedback.md` - **"Haptic Feedback**
+* `src/02_code/ch06_02_tool01_rapid_noting.md` - **Rapid Noting** 
+* `src/02_code/ch06_03_tool02_haptic_feedback.md` - **Haptic Feedback**
 * `src/02_code/ch06_04_checkpoint04.md` - **📍CHECKPOINT 4: THE DEFRAG (System Instability)**
 
 ### PART 3: THE PATCH (Optimization)
