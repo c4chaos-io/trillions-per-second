@@ -20,18 +20,6 @@ In **Part 2**, we run the scripts. This is the execution phase. We will deploy t
   
 **Refactoring Axiom 3 (The Result)**   
   
-In **Part 3**, we reboot. Once the code is executed, we reach the state of **Zero Lag**. This section covers the final optimization, the **System Reboot** (Cessation), and how to maintain a stable state configuration once the update is installed.  
+In **Part 3**, we reboot. Once the code is executed, we reach the state of **Zero Lag**. This section covers the final optimization, the **System Reboot** (Cessation), and how to maintain a stable state configuration once the update is installed.
+
   
-## The User Role: White Hat Hacker  
-  
-Finally, a word on your user permissions.  
-  
-**Identity Verification: The Observer Module**  
-  
-If "The Self" is the malware, then who are you? You are the **Observer Module**. You are the unconstructed awareness that watches the system run. You are not the code; you are the Terminal.  
-  
-You are not reading this to become a "follower." You are reading this to become a **White Hat Hacker**.  
-  
-A **Black Hat** hacker uses these exploits for personal power and ego (corrupting the save file). A **White Hat** hacker optimizes the system for the benefit of all users on the network. The protocol only functions correctly if your intent is clean.  
-  
-Boot sequence complete. System ready. Initiating Hardware Diagnostics… 
