@@ -105,7 +105,7 @@ This repository is structured as a recursive fractal of the original algorithm.
 ### PART 1: THE DIAGNOSTIC (System Analysis)
 * `src/01_diagnostic/ch00_system_roadmap.md` - **The Map:** Understanding the map and the checkpoints.
 * `src/01_diagnostic/ch01_01_system_specs.md` - **The Hardware:** Understanding Input Ports and Refresh Rates / System Specs / Three Signatures 
-* **CHECKPOINT 01**
+* `src/01_diagnostic/ch01_03_checkpoint01.md` - **📍CHECKPOINT 1: STREAM ANALYSIS**
 * `src/01_diagnostic/ch01_02_render_engine.md` - **The Render Engine:** How the simulation aliases "Solid Objects" / Algorithm
 * **CHECKPOINT 02**
 * `src/01_diagnostic/ch01_03_virus.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process / Idle Process 
