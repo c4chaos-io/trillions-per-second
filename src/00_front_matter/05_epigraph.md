@@ -4,9 +4,9 @@
 > LOADING KERNEL: "TRUTH" [v1.0]...
 > DECODING VISUAL DRIVERS...
 
-*"Form is emptiness; emptiness is form. Form is not other than emptiness; Emptiness is not other than form. The same is true of feeling, perception, mental formations,and consciousness."*
+*"Form is emptiness; emptiness is form. Form is not other than emptiness; Emptiness is not other than form. The same is true of feeling, perception, mental formations, and consciousness."*
 
-**The Heart Sutra (Source Code, v. -2000)**
+**~ The Heart Sutra (Source Code, v. -2000)**
 
 ----------------------------------------------------
 
