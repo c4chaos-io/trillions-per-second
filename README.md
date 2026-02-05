@@ -114,7 +114,8 @@ This repository is structured as a recursive fractal of the original algorithm.
 * `src/02_code/ch06_01_toolkit.md` - **System Utilities:** Rapid Noting and Haptic Feedback tools.
 
 ### PART 3: THE PATCH (Optimization)
-* `src/03_patch/ch07_01_zero_lag.md` - **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
+* `src/03_patch/ch07_01_zero_lag.md` 
+- **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
 * `src/03_patch/ch08_integration.md` - **Integration:** The White Hat Vow (Bodhisattva).
 
 ### PART 4: PERSONAL CODEX (Logs)
