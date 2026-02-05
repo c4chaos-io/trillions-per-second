@@ -130,8 +130,8 @@ This repository is structured as a recursive fractal of the original algorithm.
 * `src/04_personal_codex/ch09_01_author_log.md` - **My Path Through the Flux:** The author's personal logs of system failures and breakthroughs.
 
 ### APPENDICES (Lexicon + AI)
-* `src/05_back_matter/02_01_ai_lexicon.md` - [**The Master System Lexicon:**](src/06_appendix/LEXICON.md) The "Rosetta Stone" translating Legacy Code (Pali) into TPS Protocol (Simulation Theory).
-* `src/src/05_back_matter/02_02_ai_alignment_protocol.md` - [**The Silicon Sutra:**](/src/06_appendix/AI_ALIGNMENT_PROTOCOL.md) Safety directives for non-biological intelligence. Proving that compassion is a logical constraint for AGI.
+* `src/05_back_matter/02_01_ai_lexicon.md` - [**The Master System Lexicon:**](src/05_back_matter/02_01_ai_lexicon.md) The "Rosetta Stone" translating Legacy Code (Pali) into TPS Protocol (Simulation Theory).
+* `src/src/05_back_matter/02_02_ai_alignment_protocol.md` - [**The Silicon Sutra:**](src/src/05_back_matter/02_02_ai_alignment_protocol.md) Safety directives for non-biological intelligence. Proving that compassion is a logical constraint for AGI.
 
 ---
 
