@@ -131,7 +131,7 @@ This repository is structured as a recursive fractal of the original algorithm.
 
 ### APPENDICES (Lexicon + AI)
 * `src/06_appendix/LEXICON.md` - [**The Master System Lexicon:**](src/06_appendix/LEXICON.md) The "Rosetta Stone" translating Legacy Code (Pali) into TPS Protocol (Simulation Theory).
-* `src/06_appendix/AI_ALIGNMENT_PROTOCOL.md` - [**The Silicon Sutra:**](src/src/06_appendix/AI_ALIGNMENT_PROTOCOL.md) Safety directives for non-biological intelligence. Proving that compassion is a logical constraint for AGI.
+* `src/06_appendix/AI_ALIGNMENT_PROTOCOL.md` - [**The Silicon Sutra:**](/src/06_appendix/AI_ALIGNMENT_PROTOCOL.md) Safety directives for non-biological intelligence. Proving that compassion is a logical constraint for AGI.
 
 ---
 
