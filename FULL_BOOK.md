@@ -62,7 +62,7 @@ Chapter 9: My Path Through the Flux
 
 **End Notes / References**
 
-### [APPENDIX A: THE MASTER SYSTEM LEXICON](src/05_appendix/05_01_REF_LEXICON.md)
+### [APPENDIX A: THE MASTER SYSTEM LEXICON](src/05_appendix/LEXICON.md)
 
-### [APPENDIX B: THE SILICON SUTRA](src/05_appendix/05_02_AI_ALIGNMENT_PROTOCOL.md)
+### [APPENDIX B: THE SILICON SUTRA](src/05_appendix/AI_ALIGNMENT_PROTOCOL.md)
 
