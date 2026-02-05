@@ -109,16 +109,16 @@ This repository is structured as a recursive fractal of the original algorithm.
 * `src/01_diagnostic/ch01_03_virus.md` - **The Virus:** Identifying "The Self" as a resource-hogging background process.
 
 ### PART 2: THE CODE (Execution)
-* `src/02_04_firewall_config.md` - **The Firewall:** Why Ethics (Sila) is simply Network Security.
-* `src/02_05_overclock_warmup.md` - **Overclocking:** Boosting Attention (Samadhi) to run the Patch.
-* `src/02_06_toolkit.md` - **System Utilities:** Rapid Noting and Haptic Feedback tools.
+* `src/02_code/ch04_01_firewall.md` - **The Firewall:** Why Ethics (Sila) is simply Network Security.
+* `src/02_code/ch05_01_overclock.md` - **Overclocking:** Boosting Attention (Samadhi) to run the Patch.
+* `src/02_code/ch06_01_toolkit.md` - **System Utilities:** Rapid Noting and Haptic Feedback tools.
 
 ### PART 3: THE PATCH (Optimization)
-* `src/03_07_zero_lag_state.md` - **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
-* `src/03_08_integration_vow.md` - **Integration:** The White Hat Vow (Bodhisattva).
+* `src/03_patch/ch07_01_zero_lag.md` - **Zero Lag:** Achieving Flow State and The Reboot (Cessation).
+* `src/03_patch/ch08_integration.md` - **Integration:** The White Hat Vow (Bodhisattva).
 
 ### PART 4: PERSONAL CODEX (Logs)
-* `src/04_09_author_log.md` - **My Path Through the Flux:** The author's personal logs of system failures and breakthroughs.
+* `src/04_personal_codex/01_author_log.md` - **My Path Through the Flux:** The author's personal logs of system failures and breakthroughs.
 
 ### APPENDICES (Lexicon + AI)
 * `src/05_appendix/LEXICON.md` - [**The Master System Lexicon:**](src/05_appendix/LEXICON.md) The "Rosetta Stone" translating Legacy Code (Pali) into TPS Protocol (Simulation Theory).
