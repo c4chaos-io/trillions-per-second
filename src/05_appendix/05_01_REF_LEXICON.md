@@ -86,17 +86,20 @@ Mapping Mahasi Sayadaw's "16 Stages of Insight" to the TPS Checkpoints.
 
 ---
 
-## 7. EXECUTION PROTOCOLS (The Hacker's Toolkit)
+### 7. EXECUTION PROTOCOLS (The Hacker's Toolkit)
+
 System utilities for the White Hat Hacker.
 
 | TPS Terminology (The Patch) | Legacy Code (Pali Source) | System Definition (Functionality) |
 | :--- | :--- | :--- |
-| **The Firewall** | Sila (Morality) | Security protocols to close "open ports" (lying/stealing). |
-| **Overclocking** | Samadhi (Concentration) | Stabilizing hardware to boost clock speed. |
-| **The Logger** | Vipassana (Noting) | Mahasi Sayadaw's "Noting": The discrete labeling of every data event. Daniel Ingram's "High-Speed Noting": Logging data events at extremely high frequencies to deconstruct the rendering engine. |
-| **Haptic Feedback** | Vedana / Piti (Sensation) | U Ba Khin's "Activating Impermanence": Sweeping the body to trigger the dissolution of solid sensations. S.N. Goenka's "Body Scan": Systematically scanning the hardware to detect subtle bio-electric flux. |
-| **Dev Tools** | Siddhis (Powers) | Shinzen Young's "Intermediate Realms of Power": Access to system variables (visions). Warning: Black Hat Trap. |
-| **Root Access** | Nibbana (Enlightenment) | The Status. The permanent state of "Zero Lag" where the user operates without the "Self" buffer. |
+| **The Firewall** | *Sila (Morality)* | Security protocols to close "open ports" (lying/stealing). |
+| **Overclocking** | *Samadhi (Concentration)* | Stabilizing hardware to boost clock speed. |
+| **Signal Lock** | *Upacara Samadhi (Access Concentration)* | **The Stabilization Threshold.** The state where "Background Noise" (Hindrances) is muted, allowing the CPU to focus exclusively on the data stream. |
+| **The Logger** | *Vipassana (Noting)* | Mahasi Sayadaw's "Noting": The discrete labeling of every data event. Daniel Ingram's "High-Speed Noting": Logging data events at extremely high frequencies to deconstruct the rendering engine. |
+| **Haptic Feedback** | *Vedana / Piti (Sensation)* | U Ba Khin's "Activating Impermanence": Sweeping the body to trigger the dissolution of solid sensations. S.N. Goenka's "Body Scan": Systematically scanning the hardware to detect subtle bio-electric flux. |
+| **Dev Tools** | *Siddhis (Powers)* | Shinzen Young's "Intermediate Realms of Power": Access to system variables (visions). **Warning:** Black Hat Trap. |
+| **The Save Point** | *Sotapanna (Stream Entry)* | **Immutable System Restore.** A permanent "Save File" created after the first Reboot, ensuring the system cannot revert to the corrupted Legacy OS. |
+| **Root Access** | *Nibbana (Enlightenment)* | **The Status.** The permanent state of "Zero Lag" where the user operates without the "Self" buffer. |
 
 ---
 
