@@ -13,7 +13,7 @@
 
 [Waking Up In The Flux](src/00_introduction/01_waking_up.md)
 
-[System Dependencies (The Stack)](src/00_introduction/02_system_dependencies.md)
+[System Dependencies (The Stack)](src/00_introduction/02_system_dependecies.md)
 
 [Lineage Acknowledgement: Honoring the Open Source Contributors](src/00_introduction/03_lineage.md)
 
