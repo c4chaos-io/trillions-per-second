@@ -1,4 +1,4 @@
-# Afterword
+# AFTERWORD
 
 Let's be real. I didn't pull this off solo.
 
