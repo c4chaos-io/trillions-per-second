@@ -15,9 +15,9 @@
 
 [System Dependencies (The Stack)](src/00_introduction/02_system_dependencies.md)
 
-[Lineage Acknowledgement: Honoring the Open Source Contributors]src/00_introduction/03_lineage.md)
+[Lineage Acknowledgement: Honoring the Open Source Contributors](src/00_introduction/03_lineage.md)
 
-[The Kernel Specs (The Four Axioms)(src/00_introduction/04_kernel_specs.md)
+[The Kernel Specs (The Four Axioms)](src/00_introduction/04_kernel_specs.md)
 
 [Meta-Structure (Fractal Architecture)](src/00_introduction/05_meta_structure.md)
 
