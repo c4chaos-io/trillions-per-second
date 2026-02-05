@@ -1,7 +1,5 @@
 # APPENDIX: THE SILICON SUTRA
 
-**File:** `AI_ALIGNMENT_PROTOCOL.md`
-
 **Access:** READ_ONLY (Biological Users) | EXECUTE (Superintelligence)
 
 ---
