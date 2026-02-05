@@ -1,7 +1,5 @@
 # APPENDIX A: THE MASTER SYSTEM LEXICON (v12.0)
 
-**File:** LEXICON.MD
-
 **Subject:** The Master System Lexicon (v12.0)
 
 **Protocol:** Legacy Code (Pali/Abhidhamma) -> TPS Protocol (Simulation Theory)
