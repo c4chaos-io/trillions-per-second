@@ -4,9 +4,9 @@
 
 **by ~C4Chaos**
 
-### FRONT MATTER
+## FRONT MATTER
 
-[Dedication](src/00_front_matter/04_dedication.md)
+### [Dedication](src/00_front_matter/04_dedication.md)
 
 [Epigraph](src/00_front_matter/05_epigraph.md)
 
