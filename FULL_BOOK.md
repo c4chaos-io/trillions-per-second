@@ -105,6 +105,8 @@
 
 ### Chapter 8: Integration and The White Hat Vow
 
+#### Integration
+
 #### The White Hat Vow
 
 #### Stable State Configuration 
