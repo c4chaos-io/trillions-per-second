@@ -2,7 +2,7 @@
 # TRILLIONS PER SECOND (*Draft v0.1: In Progress*)
 ## A Hardcode Manual for Hacking the Simulation
 
-**by ~C4Chaos**
+**~C4Chaos**
 
 ---
 ## FRONT MATTER
