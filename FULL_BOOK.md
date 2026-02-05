@@ -20,6 +20,7 @@
 
 ### [System Requirements](src/00_front_matter/10_system_requirements.md)
 
+
 ## INTRODUCTION
 
 ### [Waking Up In The Flux](src/00_introduction/01_waking_up.md)
@@ -36,6 +37,8 @@
 
 ### [User Role](src/00_introduction/07_user_role.md)
 
+
+
 ## PART 1: THE DIAGNOSTIC (System Analysis)
 
 ### System Roadmap (Installation Wizard)
@@ -46,6 +49,8 @@
 
 ### Chapter 3: The Virus (The Self Loop)
 
+
+
 ## PART 2: THE CODE (Execution)
 
 ### Chapter 4: The Firewall (Sila & Ethics)
@@ -54,15 +59,21 @@
 
 ### Chapter 6: The Toolkit (System Utilities)
 
+
+
 ## PART 3: THE PATCH (Optimization)
 
 ### Chapter 7: Achieving Freedom Within the Flux
 
 ### Chapter 8: Integration and The White Hat Vow
 
+
+
 ## PART 4: PERSONAL CODEX
 
 ### Chapter 9: My Path Through the Flux
+
+
 
 ## BACK MATTER
 
