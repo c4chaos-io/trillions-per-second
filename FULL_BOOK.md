@@ -68,11 +68,17 @@ Chapter 9: My Path Through the Flux
 
 [Afterword](src/05_back_matter/01_afterword.md)
 
-[About the Author](src/05_back_matter/02_about_the_author.md)
+[Appendix A: THE MASTER SYSTEM LEXICON](src/05_back_matter/02_01_lexicon.md)
 
-**End Notes / References**
+[Appendix B: THE SILICON SUTRA](src/05_back_matter/02_02_ai_alignment_protocol.md)
 
-### [APPENDIX A: THE MASTER SYSTEM LEXICON](src/06_appendix/LEXICON.md)
+[End Notes](src/05_back_matter/03_notes.md)
 
-### [APPENDIX B: THE SILICON SUTRA](src/06_appendix/AI_ALIGNMENT_PROTOCOL.md)
+[About the Author](src/05_back_matter/04_about_the_author.md)
+
+
+
+
+
+
 
