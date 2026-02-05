@@ -21,7 +21,7 @@
 
 [The Kernel Specs (The Four Axioms)](src/00_introduction/05_kernel_specs.md)
 
-[Meta-Structure (Fractal Architecture)](src/00_introduction/05_meta_structure.md)
+[Meta-Structure (Fractal Architecture)](src/00_introduction/06_meta_structure.md)
 
 [User Role](src/00_introduction/01_user_role.md)
 
