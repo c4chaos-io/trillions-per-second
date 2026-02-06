@@ -1,3 +1,7 @@
+---
+> **WARNING:** This manual involves Root Access. Debugging the mind can cause temporary System Instability. Do not execute if unprepared.
+---
+
 ## System Warning: End User License Agreement (EULA)  
   
 **Acceptance of Risk:** Proceeding with this installation acknowledges the risk of the "Dark Night" Glitch. When you uninstall the "Self" driver, you may experience a temporary period of existential vertigo. The legacy OS is gone, but the new kernel hasn't fully booted yet. This is a known issue during the re-partitioning of the psyche.  
