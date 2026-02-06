@@ -104,9 +104,9 @@
 ## BACK MATTER (System Shutdown)
 **Directory:** `/src/back_matter/`
 
-* **[AFTERWORD](src/05_back_matter/01_afterword.md)** - "I prompted it into existence!"
-* **APPENDIX_A.md** - The Master System Lexicon (v2.6)
-* **APPENDIX_B.md** - The Silicon Sutra (AI Alignment Protocol)
-* **REFERENCES.md** - End Notes and System Documentation
-* **ABOUT_DEV.md** - About the Developer (~C4Chaos)
+* **[AFTERWORD](src/05_back_matter/01_afterword.md)** - *"I prompted it into existence!"*
+* **[APPENDIX A: The Master System Lexicon (v2.6)](src/05_back_matter/02_01_lexicon.md)**
+* **[APPENDIX B: The Silicon Sutra (AI Alignment Protocol)](src/05_back_matter/02_02_ai_alignment_protocol.md)**
+* **[REFERENCES](src/05_back_matter/03_references.md)** - End Notes and System Documentation
+* **[ABOUT_DEV](src/05_back_matter/04_about_dev.md)** - About the Developer (~C4Chaos)
 
