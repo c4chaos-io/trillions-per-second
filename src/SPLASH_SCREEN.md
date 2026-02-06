@@ -1,5 +1,5 @@
 
-```
+```plaintextpython
 SYSTEM_BOOT_SEQUENCE...
 KERNEL_VERSION: TPS_v1.0
 > CHECKING_PERMISSIONS... 
@@ -7,9 +7,10 @@ KERNEL_VERSION: TPS_v1.0
 > LOADING_INTERFACE...
 ```
 
-![Image](/assets/images/TPS_IMG_SplashScreen.jpg)
+![Image](/assets/images/TPS_IMG_SplashPage.jpg)
 
 ```
 > PRESS [ENTER] TO 
 > INITIATE DIAGNOSTIC...
 ```
+
