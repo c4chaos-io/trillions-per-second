@@ -4,6 +4,8 @@
 
 ---
 
+![Image](/assets/infographics/TPS_IMG_SysRoadmap.jpg)
+
 # System Roadmap: The Installation Wizard
 
 Before we start messing with your kernel, you need to know what the progress bar looks like. Most people try to hack their minds without a map. They just close their eyes and hope for the best. That is a great way to brick your system. We are not doing that. We are engineers. We follow a spec.
