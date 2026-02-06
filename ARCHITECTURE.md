@@ -36,7 +36,7 @@
 * **[System Warning: EULA:](src/00_introduction/03_EULA.md)** "WARNING: This manual involves Root Access... 
 * **[Lineage Acknowledgement:](src/00_introduction/05_kernel_specs.md)** Honoring the Open Source Contributors 
 * **[The Kernel Specs (The Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Self) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
-* **Meta-Structure:** Fractal Architecture of the Axioms
+* **[Meta-Structure:](src/00_introduction/06_meta_structure.md)** Fractal Architecture of the Axioms
 * **User Role:** The White Hat Operator
 
 ---
