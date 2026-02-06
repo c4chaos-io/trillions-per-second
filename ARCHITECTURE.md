@@ -12,9 +12,9 @@
 ## REPOSITORY ROOT (Project Administration)
 *These files establish the legal and structural parameters of the project.*
 
-* **File: `LICENSE‘*
+* **File: `LICENSE.md`**
     * *Content:* Open Source License (MIT/CC-BY) regarding the distribution of the "Code".
-* **File: COPYRIGHT.md**
+* **File: `COPYRIGHT.md`**
     * *Content:* Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
 * **File: README.md**
     * *Content:* Repository Introduction ("About this Project").
