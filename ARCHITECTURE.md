@@ -26,24 +26,23 @@
 ## FRONT MATTER (System Boot)
 *Files located in the root of `/src/` for immediate access.*
 
-* **File: src/SPLASH_SCREEN.md**
+* **File: `src/SPLASH_SCREEN.md`**
     * *Content:* ASCII Art Title Block, Developer Tag (~C4Chaos), Kernel Version, Root Access Prompt.
-* **File: src/MANIFEST.md**
+* **File: `src/MANIFEST.md`**
     * *Content:*
         * **// DEDICATION:** "To F.Raven: May you always surf the flux with Zero Lag".
         * **// EPIGRAPH:** (Heart Sutra Quote).
 * **File: src/TOC.md**
     * *Content:* Table of Contents.
-* **File: src/SECURITY_CERTIFICATES.md**
+* **File: `src/SECURITY_CERTIFICATES.md`**
     * *Standard Book Equivalent:* Foreword.
     * *Content:* Endorsements from "Verified Developers" (Guest Authors).
 
 ---
 
 ## INTRODUCTION
-**File: src/00_INTRODUCTION.md (Waking Up In The Flux)**
 
-* **The Glitch:** Personal account of sleep paralysis and the "neon dream".
+* **Waking Up in the Flux** Personal account of sleep paralysis and the "neon dream".
 * **System Dependencies (The Stack):**
     * **Hardware:** The Human Nervous System.
     * **Software:** The Dharma (Source Code), The Buddha (SysAdmin), The Sangha (P2P Network).
