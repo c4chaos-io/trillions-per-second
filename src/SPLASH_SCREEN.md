@@ -3,7 +3,7 @@
 > CHECKING_PERMISSIONS... ROOT_ACCESS_GRANTED.
 > LOADING_INTERFACE...
 
-![Image](assets/images/TPS_IMG_SplashPage.jpg)
+![Image](/assets/images/TPS_IMG_SplashPage.jpg)
 
 > PRESS [ENTER] TO INITIATE DIAGNOSTIC... 
 
