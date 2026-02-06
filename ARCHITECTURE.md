@@ -108,5 +108,5 @@
 * **[APPENDIX A: The Master System Lexicon (v2.6)](src/05_back_matter/02_01_lexicon.md)**
 * **[APPENDIX B: The Silicon Sutra (AI Alignment Protocol)](src/05_back_matter/02_02_ai_alignment_protocol.md)**
 * **[REFERENCES](src/05_back_matter/03_references.md)** - End Notes and System Documentation
-* **[ABOUT_DEV](src/05_back_matter/04_author.md)** - About the Developer/Author 
+* **[ABOUT_DEV](src/05_back_matter/04_author.md)** - Developer / Author 
 
