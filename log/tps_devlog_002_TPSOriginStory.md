@@ -4,6 +4,8 @@
 **Status:**  Throwback
 **Mood:** 😘
 
+![Image](/assets/infographics/TPS_IMG_OriginStory.jpg)
+
 I kicked off the **Trillions Per Second** project on X a while back. I track the progress by **quote-tweeting** the previous update. This builds a recursive thread. It works like a digital breadcrumb trail.
 
 I got curious. *Could Grok read the whole context from just the latest tweet?* I expected it to fail. I thought I would have to hand-feed it the history.
