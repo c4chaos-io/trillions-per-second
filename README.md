@@ -99,7 +99,7 @@ This is a "Passthrough" entity. We use the capitalist rail (book sales) to fund 
 
 This repository is structured as a recursive fractal of the original algorithm.
 
-* **File: [`ARCHITECTURE.md`](ARCHITECTURE.md)** - This Master File (The Architecture).
+* **File: [`ARCHITECTURE.md`](ARCHITECTURE.md)** - The Master File (The Architecture).
 
 ---
 
