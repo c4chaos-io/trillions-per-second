@@ -1,1 +1,1 @@
-# References / End Notes
+# REFERENCES / END NOTES
