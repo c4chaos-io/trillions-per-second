@@ -153,7 +153,11 @@ We are building this manual in public. We want you to see the source code. This 
 
 If you want to know how the sausage gets compiled, look here. This is the timeline of our hacks.
 
+Here's the link to the system logs: 
 
+https://github.com/c4chaos-io/trillions-per-second/tree/main/log
+
+That's all for now. See you in the flux 🌀
 
 ---
 
