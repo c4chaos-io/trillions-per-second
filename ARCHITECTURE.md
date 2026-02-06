@@ -31,7 +31,7 @@
 * **File: src/MANIFEST.md**
     * *Content:*
         * **// DEDICATION:** "To F.Raven: May you always surf the flux with Zero Lag".
-        * **// EPIGRAPH:** (Philip K. Dick Quote).
+        * **// EPIGRAPH:** (Heart Sutra Quote).
 * **File: src/TOC.md**
     * *Content:* Table of Contents.
 * **File: src/SECURITY_CERTIFICATES.md**
