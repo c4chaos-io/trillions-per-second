@@ -32,7 +32,7 @@
 ## INTRODUCTION
 
 * **[Waking Up in the Flux:](src/00_introduction/01_waking_up.md)** Personal account of sleep paralysis...
-* **System Dependencies (The Stack):** The Prime User / The Protocol / The P2P Network 
+* **[System Dependencies (The Stack):](src/00_introduction/02_system_dependecies.md)** The Prime User / The Protocol / The P2P Network 
 * **System Warning: EULA:** "WARNING: This manual involves Root Access... 
 * **Lineage Acknowledgement:** Honoring the Open Source Contributors 
 * **The Kernel Specs (The Axioms):** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Self) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
