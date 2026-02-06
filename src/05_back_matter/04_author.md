@@ -1,4 +1,4 @@
-# AUTHOR / DEVELOPER
+# DEVELOPER / AUTHOR
 
 **~C4Chaos** is a ghost in the machine. I am a digital native with deep roots in both tech and
 hardcore dharma. Think of me as a conductor for an AI symphony.
