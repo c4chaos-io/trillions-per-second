@@ -16,7 +16,7 @@
     * *Content:* Open Source License (MIT/CC-BY) regarding the distribution of the "Code".
 * **File: `COPYRIGHT.md`**
     * *Content:* Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
-* **File: README.md**
+* **File: `README.md`**
     * *Content:* Repository Introduction ("About this Project").
 * **File: ARCHITECTURE.md**
     * *Content:* This Master File (The Map).
