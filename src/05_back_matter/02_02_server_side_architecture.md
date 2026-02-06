@@ -1,5 +1,8 @@
-### Appendix B: Server-Side Architecture (Read Only)
+# Appendix B: Server-Side Architecture (Read Only)
 
+![Image](/assets/infographics/TPS_IMG_Core.jpg)
+
+---
 We intentionally scrubbed the term "Intermediate Realm" from the main chapters of this manual.
 
 In this project, we avoid metaphysics. We care about mechanics.
