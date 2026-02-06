@@ -38,7 +38,7 @@ They are wrong.
   
 Debugging your own mind creates temporary instability. When you start deleting old habits, the system fights back.  
 
-# SYSTEM REQUIREMENTS (Who is this for?)
+## SYSTEM REQUIREMENTS (Who is this for?)
 
 * **The White Hat Hacker:** You want debug tools for your mind, not magic powers.
 * **The Glitcher:** You are a high-performer (insomniac, neurodivergent, lucid dreamer, psychonaut, sensitive) experiencing "system instability".
