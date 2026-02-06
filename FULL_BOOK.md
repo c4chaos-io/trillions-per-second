@@ -88,7 +88,7 @@
 
 #### Tool 2: Feel the Vibration (Haptic Feedback)
 
-#### Tool 3: Gone (Gone, Gone)
+#### Tool 3: Do Nothing (Gone)
 
 #### 📍CHECKPOINT 4: THE DEFRAG (System Instability)
 
