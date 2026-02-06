@@ -14,7 +14,7 @@
 
 * **File: `LICENSE.md`** - Open Source License (MIT/CC-BY) regarding the distribution of the "Code".
 * **File: `COPYRIGHT.md`** - Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
-* **File: `README.md`** - Repository Introduction ("About this Project").
+* **File: [`README.md`](README.md)** - Repository Introduction ("About this Project").
 * **File: `ARCHITECTURE.md`** - This Master File (The Map).
 
 ---
