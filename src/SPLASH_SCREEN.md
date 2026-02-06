@@ -9,3 +9,7 @@ KERNEL_VERSION: TPS_v1.0
 
 ![Image](/assets/images/TPS_IMG_SplashPage.jpg)
 
+```
+> PRESS [ENTER] TO 
+> INITIATE DIAGNOSTIC...
+```
