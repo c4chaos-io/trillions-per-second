@@ -3,30 +3,29 @@
 
 **~C4Chaos**
 
----
 **Directory:** `/src/`
-
 **Filename:** `ARCHITECTURE.md`
 
 ---
 
 ## FRONT MATTER (System Boot)
+*Files located in the root of /src/ for immediate access.*
 
-* **File: SPLASH_SCREEN.md**
+* **File: src/SPLASH_SCREEN.md**
     * *Content:* ASCII Art Title Block, Developer Tag (~C4Chaos), Kernel Version, Root Access Prompt.
-* **File: MANIFEST.md**
+* **File: src/MANIFEST.md**
     * **// DEDICATION:** "To F.Raven: May you always surf the flux with Zero Lag".
     * **// EPIGRAPH:** (Philip K. Dick Quote).
-* **File: TOC.md**
+* **File: src/TOC.md**
     * *Content:* Table of Contents.
-* **File: SECURITY_CERTIFICATES.md**
+* **File: src/SECURITY_CERTIFICATES.md**
     * *Standard Book Equivalent:* Foreword.
     * *Content:* Endorsements from "Verified Developers" (Guest Authors).
 
 ---
 
 ## INTRODUCTION
-**File: README.md (Waking Up In The Flux)**
+**File: src/00_INTRODUCTION.md (Waking Up In The Flux)**
 
 * **The Glitch:** Personal account of sleep paralysis and the "neon dream".
 * **System Dependencies (The Stack):**
@@ -105,11 +104,17 @@
 
 ---
 
-## BACK MATTER
+## BACK MATTER (System Shutdown)
+**Directory:** `/src/back_matter/`
 
-* **Afterword:** "I prompted it into existence!"
-* **Appendix A:** The Master System Lexicon (v2.6).
-* **Appendix B:** The Silicon Sutra (AI Alignment Protocol).
-* **End Notes.**
-* **About the Author** (~C4Chaos).
+* **File: AFTERWORD.md**
+    * *Content:* "I prompted it into existence!".
+* **File: APPENDIX_A.md**
+    * *Content:* The Master System Lexicon (v2.6).
+* **File: APPENDIX_B.md**
+    * *Content:* The Silicon Sutra (AI Alignment Protocol).
+* **File: REFERENCES.md**
+    * *Content:* End Notes and System Documentation.
+* **File: ABOUT_DEV.md**
+    * *Content:* About the Developer (~C4Chaos).
 
