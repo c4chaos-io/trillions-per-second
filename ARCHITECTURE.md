@@ -3,19 +3,34 @@
 
 **~C4Chaos**
 
-**Directory:** `/src/`
+**Directory:** `/` (Root)
 **Filename:** `ARCHITECTURE.md`
 
 ---
 
+## REPOSITORY ROOT (Project Administration)
+*These files establish the legal and structural parameters of the project.*
+
+* **File: LICENSE**
+    * *Content:* Open Source License (MIT/CC-BY) regarding the distribution of the "Code".
+* **File: COPYRIGHT.md**
+    * *Content:* Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
+* **File: README.md**
+    * *Content:* Repository Introduction ("About this Project").
+* **File: ARCHITECTURE.md**
+    * *Content:* This Master File (The Map).
+
+---
+
 ## FRONT MATTER (System Boot)
-*Files located in the root of /src/ for immediate access.*
+*Files located in the root of `/src/` for immediate access.*
 
 * **File: src/SPLASH_SCREEN.md**
     * *Content:* ASCII Art Title Block, Developer Tag (~C4Chaos), Kernel Version, Root Access Prompt.
 * **File: src/MANIFEST.md**
-    * **// DEDICATION:** "To F.Raven: May you always surf the flux with Zero Lag".
-    * **// EPIGRAPH:** (Philip K. Dick Quote).
+    * *Content:*
+        * **// DEDICATION:** "To F.Raven: May you always surf the flux with Zero Lag".
+        * **// EPIGRAPH:** (Philip K. Dick Quote).
 * **File: src/TOC.md**
     * *Content:* Table of Contents.
 * **File: src/SECURITY_CERTIFICATES.md**
