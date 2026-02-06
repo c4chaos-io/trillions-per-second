@@ -104,7 +104,7 @@
 ## BACK MATTER (System Shutdown)
 **Directory:** `/src/back_matter/`
 
-* **File: `/src/back_matter/afterword.md`(src/05_back_matter/01_afterword.md)** - "I prompted it into existence!".
+* **File: [`/src/back_matter/afterword.md`](src/05_back_matter/01_afterword.md)** - "I prompted it into existence!".
 * **File: APPENDIX_A.md**
     * *Content:* The Master System Lexicon (v2.6).
 * **File: APPENDIX_B.md**
