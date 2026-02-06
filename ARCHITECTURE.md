@@ -4,6 +4,7 @@
 **~C4Chaos**
 
 **Directory:** `/` (Root)
+
 **Filename:** `ARCHITECTURE.md`
 
 ---
