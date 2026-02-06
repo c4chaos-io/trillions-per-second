@@ -106,10 +106,10 @@
 
 * **[AFTERWORD](src/05_back_matter/01_afterword.md)** - *"I prompted it into existence!"*
 * **[APPENDIX A: The Master System Lexicon (v2.6)](src/05_back_matter/02_01_lexicon.md)**
-* **[APPENDIX B: The Silicon Sutra (AI Alignment Protocol)](src/05_back_matter/02_02_ai_alignment_protocol.md)**
+* **[APPENDIX B: Server-Side Architecture (Read Only)](src/05_back_matter/02_02_server_side_architecture.md)**
+* **[APPENDIX C: The Silicon Sutra (AI Alignment Protocol)](src/05_back_matter/02_03_ai_alignment_protocol.md)**
 * **[REFERENCES](src/05_back_matter/03_references.md)** - End Notes / References
   * *End Note: On Kalapas*
-  * *End Note: On Intermediate Realm*
 * **[ABOUT_DEV](src/05_back_matter/04_author.md)** - Developer / Author 
     
 
