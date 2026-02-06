@@ -5,6 +5,7 @@
 
 ---
 **Directory:** `/src/`
+
 **Filename:** `ARCHITECTURE.md`
 
 ---
