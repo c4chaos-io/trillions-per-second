@@ -18,7 +18,7 @@
     * *Content:* Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
 * **File: `README.md`**
     * *Content:* Repository Introduction ("About this Project").
-* **File: ARCHITECTURE.md**
+* **File: `ARCHITECTURE.md`**
     * *Content:* This Master File (The Map).
 
 ---
