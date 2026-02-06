@@ -31,20 +31,13 @@
 
 ## INTRODUCTION
 
-* **Waking Up in the Flux:** Personal account of sleep paralysis and the "neon dream".
-* **System Dependencies (The Stack):**
-    * **Hardware:** The Human Nervous System.
-    * **Software:** The Dharma (Source Code), The Buddha (SysAdmin), The Sangha (P2P Network).
-* **System Warning: EULA:**
-    * **The Warning:** "WARNING: This manual involves Root Access... Debugging the mind can cause temporary System Instability. Do not execute if unprepared."
-* **Lineage Acknowledgement:** Honoring the Open Source Contributors (U Ba Khin, Mahasi Sayadaw).
-* **The Kernel Specs (The Axioms):**
-    * **Axiom 1:** System Latency (The Glitch).
-    * **Axiom 2:** The Resource Hog (The Self).
-    * **Axiom 3:** Zero Lag (The Fix).
-    * **Axiom 4:** The Master Protocol (The Patch).
-* **Meta-Structure:** Fractal Architecture of the Four Noble Truths.
-* **User Role:** The White Hat Operator.
+* **Waking Up in the Flux:** Personal account of sleep paralysis...
+* **System Dependencies (The Stack):** The Prime User / The Protocol / The P2P Network 
+* **System Warning: EULA:** "WARNING: This manual involves Root Access... 
+* **Lineage Acknowledgement:** Honoring the Open Source Contributors 
+* **The Kernel Specs (The Axioms):** Axiom 1:** System Latency (The Glitch) / **Axiom 2:** The Resource Hog (The Self) / **Axiom 3:** Zero Lag (The Fix) / **Axiom 4:** The Master Protocol (The Patch)
+* **Meta-Structure:** Fractal Architecture of the Axioms
+* **User Role:** The White Hat Operator
 
 ---
 
