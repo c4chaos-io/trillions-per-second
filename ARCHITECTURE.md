@@ -34,7 +34,7 @@
 * **[Waking Up in the Flux:](src/00_introduction/01_waking_up.md)** Personal account of sleep paralysis...
 * **[System Dependencies (The Stack):](src/00_introduction/02_system_dependecies.md)** The Prime User / The Protocol / The P2P Network 
 * **[System Warning: EULA:](src/00_introduction/03_EULA.md)** "WARNING: This manual involves Root Access... 
-* **[Lineage Acknowledgement:](src/00_introduction/05_kernel_specs.md)** Honoring the Open Source Contributors 
+* **[Lineage Acknowledgement:](src/00_introduction/04_lineage.md)** Honoring the Open Source Contributors 
 * **[The Kernel Specs (The Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Self) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
 * **[Meta-Structure:](src/00_introduction/06_meta_structure.md)** Fractal Architecture of the Axioms
 * **[User Role:](src/00_introduction/07_user_role.md)** The White Hat Operator
