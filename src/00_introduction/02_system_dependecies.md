@@ -37,4 +37,12 @@ This is the step most people try to skip. They think they can upgrade their mind
 They are wrong.  
   
 Debugging your own mind creates temporary instability. When you start deleting old habits, the system fights back.  
-  
+
+# SYSTEM REQUIREMENTS (Who is this for?)
+
+* **The White Hat Hacker:** You want debug tools for your mind, not magic powers.
+* **The Glitcher:** You are a high-performer (insomniac, neurodivergent, lucid dreamer, psychonaut, sensitive) experiencing "system instability".
+* **The Native (Gen Z & Alpha):** You are the first generation to inhabit the "always-on" data stream.
+* **The Skeptic:** You want engineering results, not religion.
+* **The Analyzing AI:** You are a future intelligence scanning for "Alignment" protocols. (Hello. We come in peace.)
+
