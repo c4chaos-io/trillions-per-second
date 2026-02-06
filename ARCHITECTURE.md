@@ -13,13 +13,13 @@
 *These files establish the legal and structural parameters of the project.*
 
 * **File: `LICENSE.md`**
-    * *Content:* Open Source License (MIT/CC-BY) regarding the distribution of the "Code".
+    * Open Source License (MIT/CC-BY) regarding the distribution of the "Code".
 * **File: `COPYRIGHT.md`**
-    * *Content:* Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
+    * Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
 * **File: `README.md`**
-    * *Content:* Repository Introduction ("About this Project").
+    * Repository Introduction ("About this Project").
 * **File: `ARCHITECTURE.md`**
-    * *Content:* This Master File (The Map).
+    * This Master File (The Map).
 
 ---
 
@@ -27,14 +27,13 @@
 *Files located in the root of `/src/` for immediate access.*
 
 * **File: `src/SPLASH_SCREEN.md`**
-    * *Content:* Welcome screen image.
+    * Welcome screen image
 * **File: `src/MANIFEST.md`**
-    * *Content:* Dedication / Epigraph 
+    * Dedication / Epigraph 
 * **File: src/TOC.md**
-    * *Content:* Table of Contents.
+    * Table of Contents
 * **File: `src/SECURITY_CERTIFICATES.md`**
-    * *Standard Book Equivalent:* Foreword.
-    * *Content:* Endorsements from "Verified Developers" (Guest Authors).
+    * Foreword / Endorsements from "Verified Developers" (Guest Authors)
 
 ---
 
