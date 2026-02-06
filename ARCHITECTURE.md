@@ -1,5 +1,10 @@
-# TPS MASTER SYSTEM ARCHITECTURE (v1.0)
-**Directory:** `/src/full_text/`
+# TRILLIONS PER SECOND (*Draft v0.1: In Progress*)
+## A Hardcode Manual for Hacking the Simulation
+
+**~C4Chaos**
+
+---
+**Directory:** `/src/`
 **Filename:** `ARCHITECTURE.md`
 
 ---
