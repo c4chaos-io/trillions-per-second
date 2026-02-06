@@ -22,10 +22,10 @@
 ## FRONT MATTER (System Boot)
 *Files located in the root of `/src/` for immediate access.*
 
-* **File: [`SPLASH_SCREEN.md`](SPLASH_SCREEN.md)** - Welcome screen image
-* **File: [`MANIFEST.md`](MANIFEST.md)** - Dedication / Epigraph 
-* **File: [`TOC.md`](TOC.md)** - Table of Contents
-* **File: [`SECURITY_CERTIFICATES.md`](SECURITY_CERTIFICATES.md)** - Foreword / Endorsements from "Verified Developers" (Guest Authors)
+* **File: [`src/SPLASH_SCREEN.md`](src/SPLASH_SCREEN.md)** - Welcome screen image
+* **File: [`src/MANIFEST.md`](src/MANIFEST.md)** - Dedication / Epigraph 
+* **File: [`src/TOC.md`](src/TOC.md)** - Table of Contents
+* **File: [`src/SECURITY_CERTIFICATES.md`](src/SECURITY_CERTIFICATES.md)** - Foreword / Endorsements from "Verified Developers" (Guest Authors)
 
 ---
 
