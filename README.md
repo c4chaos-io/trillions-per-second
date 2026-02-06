@@ -111,7 +111,7 @@ This project is an artifact of the "Centaur" era—co-created by biological inte
 
 ---
 
-## DEVELOPER/AUTHOR
+## DEVELOPER / AUTHOR
 
 **~C4Chaos**
 * **Status:** Pseudonymous
