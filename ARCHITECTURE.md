@@ -44,7 +44,7 @@
 ## PART 1: THE DIAGNOSTIC (System Analysis)
 *Focus: Deconstructing the Physics Engine and identifying the Virus.*
 
-* **System Roadmap:** The Installation Wizard (Map of Insight).
+* **[System Roadmap:](src/01_diagnostic/ch00_system_roadmap.md)** The Installation Wizard (Map of Insight)
 * **Chapter 1: The Hardware & The Code (Kalapas)**
     * **System Specs:** Input Ports (Salayatana) & Refresh Rate (Khana).
     * **Three Signatures:** The Flux (Anicca), System Latency (Dukkha), The Null Pointer (Anatta).
