@@ -145,6 +145,16 @@ The TPS Patch is built upon the open-source contributions of the following Maste
 * **Action:** Feel free to `Star` ⭐️ the repo to track the build.
 * **Pull Requests:** Please hold your PRs until we hit **Version 1.0**. We don't want footprints in the wet cement.
 
+## 7.  SYSTEM LOGS: THE BUILD HISTORY
+
+Welcome to the debug console. This is not a polished history. It is the raw crash report.
+
+We are building this manual in public. We want you to see the source code. This log tracks the mutations. It records the pivots. It captures the moment the Centaur logic clicked into place.
+
+If you want to know how the sausage gets compiled, look here. This is the timeline of our hacks.
+
+
+
 ---
 
 > To teachers and friends who helped me find my way through the Simulation. And to F.Raven: May you always surf the flux with Zero Lag. 
