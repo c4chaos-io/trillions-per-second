@@ -12,20 +12,20 @@
 ## REPOSITORY ROOT (Project Administration)
 *These files establish the legal and structural parameters of the project.*
 
-* **File: `LICENSE.md`** - Open Source License (MIT/CC-BY) regarding the distribution of the "Code".
-* **File: `COPYRIGHT.md`** - Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
+* **File: [`LICENSE.md`](LICENSE.md)** - Open Source License (MIT/CC-BY) regarding the distribution of the "Code".
+* **File: [`COPYRIGHT.md`](COPYRIGHT.md)** - Standard Publishing Metadata (ISBN, First Edition, Printed in the Simulation).
 * **File: [`README.md`](README.md)** - Repository Introduction ("About this Project").
-* **File: `ARCHITECTURE.md`** - This Master File (The Map).
+* **File: [`ARCHITECTURE.md`](ARCHITECTURE.md)** - This Master File (The Architecture).
 
 ---
 
 ## FRONT MATTER (System Boot)
 *Files located in the root of `/src/` for immediate access.*
 
-* **File: `src/SPLASH_SCREEN.md`** - Welcome screen image
-* **File: `src/MANIFEST.md`** - Dedication / Epigraph 
-* **File: `src/TOC.md`** - Table of Contents
-* **File: `src/SECURITY_CERTIFICATES.md`** - Foreword / Endorsements from "Verified Developers" (Guest Authors)
+* **File: [`src/SPLASH_SCREEN.md`](src/SPLASH_SCREEN.md)** - Welcome screen image
+* **File: [`src/MANIFEST.md`](src/MANIFEST.md)** - Dedication / Epigraph 
+* **File: [`src/TOC.md`](src/TOC.md)** - Table of Contents
+* **File: [`src/SECURITY_CERTIFICATES.md`](src/SECURITY_CERTIFICATES.md)** - Foreword / Endorsements from "Verified Developers" (Guest Authors)
 
 ---
 
