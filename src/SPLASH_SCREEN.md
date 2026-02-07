@@ -7,7 +7,7 @@ KERNEL_VERSION: TPS_v1.0
 > LOADING_INTERFACE...
 ```
 
-![Image](/assets/images/TPS_IMG_SplashPage.jpg)
+![Image](/assets/images/TPS_IMG_SplashScreen.jpg)
 
 ```
 > PRESS [ENTER] TO 
