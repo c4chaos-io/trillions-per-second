@@ -18,7 +18,7 @@
 | **System Admin** | *Yogi / Meditator* | The biological user attempting to debug their own OS and gain Root Access. |
 | **Aliasing** | *Ghana* | The illusion of solidity created when the brain compresses the data stream into static shapes. |
 | **Artifacts** | *Solidity* | "Buffer Bloat" that makes the Flux look like static objects. |
-| **Lazy Evaluation** | *Mano-dvara* | **Frustum Culling.** The resource optimization protocol where the system only renders pixels that are currently being observed (measured). Unobserved data exists only as probability waves. |
+| **Lazy Evaluation** | *Avijja* | **Frustum Culling.** The system "ignores" the complex backend (Flux) to render a simple frontend (Objects). |
 
 ### 2. SYSTEM DEPENDENCIES (The Tech Stack)
 *The external libraries required to run the environment.*

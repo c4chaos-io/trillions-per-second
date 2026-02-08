@@ -1,9 +1,11 @@
 ---
 ## 1.3 System Diagnostics: The Three Signatures
 
+**[INFOGRAPHIC: System Diagnostics (Flux, Lag, Null Pointer)]**
+
 Now that we understand the Hardware (Ports) and the Software (Kalapas), we can run a diagnostic on the whole system.
 
-When you look closely at the data stream, you will notice three specific error codes repeating over and over. In the Legacy Code, these are the *Ti-Lakkhana* (The Three Marks of Existence).
+When you look closely at the data stream, you will notice three specific operational signatures embedded in the code. To the un-hacked mind, these look like bugs or error codes. To a hacker, they are features. They are the keys to the kingdom. In the Legacy Code, these are the *Ti-Lakkhana* (The Three Marks of Existence).
 
 I call them the **Three System Signatures**.
 
@@ -44,8 +46,6 @@ I prefer to call it **The Empty Admin Folder**.
 We naturally assume there is a "Ghost in the Machine." We assume there is a "Me." But when you overclock your attention and look at the refresh rate, you run into a problem: The data is moving too fast for a user to exist.
 
 For a "Self" to exist, it would need to stick around. It would need to be permanent. But the system wipes the cache after every single frame.
-
-> 
 
 When you scan your experience for a solid "Self," you keep getting a 404 Error.
 

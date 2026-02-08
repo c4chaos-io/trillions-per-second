@@ -1,7 +1,7 @@
 ---
 ## 📍CHECKPOINT 1: STREAM ANALYSIS
 
-**[INFOGRAPHIC HERE]**
+**[INFOGRAPHIC: Packet Sniffing (The Stream Log)]**
 
 Enough theory. You have read the documentation. You know the hardware specs. You know the refresh rate is there.
 

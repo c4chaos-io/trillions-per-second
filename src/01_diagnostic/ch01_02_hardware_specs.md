@@ -1,6 +1,8 @@
 ---
 ## 1.2 The Hardware Specs: Input Ports (Salayatana)
 
+**[INFOGRAPHIC: The Input Ports (The Body as Hardware)]**
+
 We have talked about the machine code. We know the `kalapas` are the voxels of experience. But how does that data get into the system?
 
 You can have the best graphics card in the world. It doesn't matter if you don't have a monitor to display it. You need a connection. You need an interface.

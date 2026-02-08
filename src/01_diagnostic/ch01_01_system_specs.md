@@ -9,7 +9,7 @@ But standard physics and ancient meditation tech agree on one thing. It isn't.
 
 ### The Physics: The Tick Rate
 
-**[INFOGRAPHIC HERE]**
+**[INFOGRAPHIC: The Refresh Rate (Analog vs. Digital Reality)]**
 
 The "Simulation Hypothesis" is the modern framework for this glitch. It suggests that our reality is not a physical base layer. Instead, it is a computed environment. To understand the machine code, you need to understand the two different ways we diagnose the simulation: The Philosopher and The Engineer.
 
@@ -33,7 +33,7 @@ This means there is a minimum unit of time and a minimum unit of space. When we 
 
 ### Data Packets: The Kalapa Octad
 
-**[INFOGRAPHICS HERE]**
+**[INFOGRAPHIC: The Kalapa Octad (Exploded Voxel View)]**
 
 Long before *The Matrix*, there was the *Abhidhamma*. Think of the Abhidhamma not as a holy book, but as a system classification manual for the human mind. The ancient Buddhist teachers who wrote this manual isolated the smallest unit of experience.
 
@@ -41,7 +41,7 @@ They called it the **kalapa**.
 
 This is the smallest indivisible unit of matter, or *rupa*. A kalapa is not a singular particle. It is a "cluster" or "bundle" (the literal translation). Think of it as a Data Packet or an Object Class. It is an "octad" containing eight inseparable qualities: solidity, cohesion, temperature, motion, color, odor, taste, and nutritive essence.
 
-These packets are not static. They are high-frequency events. They arise and dissolve at a rate described as "trillions of times per second" ($10^{12}$ Hz). Or, as Burmese meditation master U Ba Khin put it, "the life-span of a kalapa is termed a 'moment,' and a trillion such moments are said to elapse during the wink of a man's eye."
+These packets are not static. They are high-frequency events. They arise and dissolve at a rate described as "trillion times per second" (10<sup>12</sup> Hz). Or, as Burmese meditation master U Ba Khin put it, "the life-span of a kalapa is termed a 'moment,' and a trillion such moments are said to elapse during the wink of a man's eye."
 
 ### The Netflix Protocol
 
@@ -61,7 +61,7 @@ But we aren't living in a 2D side-scroller. We perceive our reality as 3D. Becau
 
 > **Definition: Voxels of Experience**
 >
-> In this manual, we define **kalapas** as the **"voxels of experience."** A voxel (volumetric pixel) represents a value on a regular grid in three-dimensional space. Unlike a flat pixel, a voxel has depth. It has texture. It is the building block of the holographic simulation you call "the world."
+> In this manual, we define **kalapas** as the **"voxels of experience."** A voxel (volumetric pixel) represents a value in 3D space. But unlike a static block in Minecraft, a Kalapa is a Temporal Voxel. It has a refresh rate. It flashes in and out of existence. It is a 4D event (3D Space + Time). Unlike a flat pixel, a voxel has depth. It has texture. It is the building block of the holographic simulation you call "the world."
 
 While we often say 'pixel' for simplicity, 'voxel' is the accurate term. We are dealing with depth here. Not a flat screen. Think less *Pac-Man* and more *Minecraft*.
 

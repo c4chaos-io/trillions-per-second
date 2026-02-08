@@ -1,6 +1,6 @@
 # CHAPTER 1: THE PHYSICS ENGINE
 
-**[INFOGRAPHIC HERE]**
+**[INFOGRAPHIC: The Layer Cake (GUI vs. Physics Engine)]**
 
 **Welcome to the backend.**
 
