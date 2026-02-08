@@ -10,7 +10,11 @@ The original System Architect for this specific patch was a Burmese genius named
 
 Mahasi's map is the "Man Page" for enlightenment. It is dense. It is technical. It is 100% accurate. But you are not a monk in a Rangoon monastery in 1950. You are a biological admin trying to run a high-performance OS in a world of constant notification spam.
 
-So, I have compressed the 16 stages into a modern "User Experience" map. We are simplifying the interface, not the code. Here are the 6 Checkpoints you will hit during the installation process.
+So, I have compressed the 16 stages into a modern "User Experience" map. We are simplifying the interface, not the code. 
+
+Here are the **6 Checkpoints** you will hit during the installation process for **v1.0 (Stream Entry)**.
+
+**System Note:** This map is recursive. In the "Hardcore Dharma" protocol, these are known as *Cycles of Insight*. You will run this script multiple times (upgrading from v1.0 to v4.0) until the system reaches a permanent Stable State.
 
 ### 📍CHECKPOINT 1: STREAM ANALYSIS (The Matrix Code)
 **Legacy Term:** Nama-Rupa Pariccheda (Mind & Matter)
@@ -57,6 +61,30 @@ The final step. The rendering engine stops. For a microsecond, the screen goes b
 
 Then, the system restarts. You come back online, but the OS has been patched. The "Self" virus has been quarantined. You now have Root Access.
 
+### 🔄 SYSTEM VERSIONING (The Recursive Loop)
+
+**SYSTEM ALERT:** Check your expectations at the door. Hitting **Checkpoint 6** isn't the end credits. There is no "Game Over." The map is fractal.
+
+In the Hardcore Dharma underground, we call this **Cycles of Insight**. In this protocol, we call it **Recursive Refactoring**. You don't run this script once; you sprint it. You iterate through the 6 Checkpoints repeatedly to hunt down the deep-seated, legacy malware that wasn't accessible in the previous build.
+
+This isn't a straight line. It's a spiral.
+
+* **CYCLE 1 (Stream Entry / v1.0)**
+  * **Status:** **ROOT ACCESS ACQUIRED.**
+  * **Patch Notes:** **The Rootkit** (The Delusion of Self) has been permanently deleted from the Kernel. You have seen the Source Code. You know—with mathematical certainty—that the "User" is a **Null Pointer**.
+  * **Glitch Report:** Don't get cocky. Your drivers are still trash. The *belief* in a Self is gone, but the *habit* of the Self (**The Resource Hog**) is still cached in your RAM. You will still get pissed off in traffic. You just won't take it personally.
+
+* **CYCLES 2 & 3 (The Optimization / v2.0 - v3.0)**
+  * **Status:** **DRIVER UPDATE.**
+  * **Patch Notes:** We go back into the loop. This time, we are hunting the "Big Game"—the deep-seated algorithms of **The Resource Hog (Craving)** and **Firewall Breaches (Aversion)**.
+  * **Result:** The system becomes highly efficient. The friction of the simulation drops by 50-90%. You are no longer fighting the **Flux**; you are surfing it.
+
+* **CYCLE 4 (Stable State / v4.0)**
+  * **Status:** **GOLD MASTER.**
+  * **Patch Notes:** **Zero Lag.** The **Lazy Evaluation** (Ignorance) file returns a 404 Error. The system processes the data stream in real-time without buffering, crashing, or rebooting.
+  * **System Status:** **Infinite Stability.** Welcome to the machine.
+
+
 ## The Rosetta Stone: TPS vs. Legacy
 
 For the developers in the audience who want to see exactly how we are refactoring the ancient code, here is the translation layer. We are mapping the 16 classic stages (*The Insight Nanas*) onto our **6 operational checkpoints**.
@@ -68,7 +96,8 @@ For the developers in the audience who want to see exactly how we are refactorin
 | **3. The Overclock** | 3. Comprehension (*Sammasana*); 4. Arising & Passing Away (*Udayabbaya*) |
 | **4. The Defrag** | 5. Dissolution (*Bhanga*); 6. Fear (*Bhaya*); 7. Misery (*Adinava*); 8. Disgust (*Nibbida*); 9. Desire for Deliverance (*Muncitukamyata*); 10. Re-observation (*Patisankha*) |
 | **5. Zero Lag** | 11. High Equanimity (*Sankhara Upekkha*) |
-| **6. The Reboot** | 12. Conformity (*Anuloma*); 13. Change of Lineage (*Gotrabhu*); 14. Path (*Magga*); 15. Fruition (*Phala*); 16. Reviewing (*Paccavekkhana*) |
+| **6. The Reboot** | 12. Conformity (*Anuloma*); 13. Change of Lineage (*Gotrabhu*); 14. Path (*Magga*); 15. Fruition (*Phala*);  |
+| 🔄 **The Loop** | 16. Reviewing (*Paccavekkhana*) |
 
 ## Note on Deployment
 

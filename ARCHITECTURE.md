@@ -86,12 +86,14 @@
 * **Chapter 7: Achieving Freedom Within the Flux**
     * **Zero Lag:** Equanimity with the data stream.
     * **📍 CHECKPOINT 5: ZERO LAG (Flow State).**
-    * **📍 CHECKPOINT 6: THE REBOOT (Root Access).**
+    * **📍 CHECKPOINT 6: THE REBOOT (Root Access / Stream Entry).**
         * **System Halt:** Cessation/Nirodha (The screen goes Black).
         * **Reboot:** Phala (System restarts with Patch).
+        * **The Save Point:** Permanent removal of the "Self" Virus from the Kernel.
 * **Chapter 8: Integration and The White Hat Vow**
     * **Integration:** Running the patch in daily life.
     * **The White Hat Vow:** The Bodhisattva Protocol.
+    * 🔄 **SYSTEM VERSIONING (The Recursive Loop):** **Recursive Refactoring:** Re-entering the loop to patch deeper drivers. **The Upgrade Path:** From v1.0 (Stream Entry) to v4.0 (Stable State).
     * **Stable State Configuration:** Compassion as stability.
 
 ---
