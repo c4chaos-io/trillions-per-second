@@ -42,13 +42,15 @@
 ---
 
 ## PART 1: THE DIAGNOSTIC (System Analysis)
-*Focus: Deconstructing the Physics Engine and identifying the Virus.*
+*System Focus: Deconstructing the Physics Engine and identifying the Virus. (Addressing Axioms 1 & 2: Latency & The Resource Hog)*
 
 * **[System Roadmap:](src/01_diagnostic/ch00_system_roadmap.md)** The Installation Wizard (Map of Insight)
-* **Chapter 1: The Hardware & The Code (Kalapas)**
-    * **System Specs:** Input Ports (Salayatana) & Refresh Rate (Khana).
-    * **Three Signatures:** The Flux (Anicca), System Latency (Dukkha), The Null Pointer (Anatta).
-    * **📍 CHECKPOINT 1: STREAM ANALYSIS.** Seeing "events" instead of objects.
+* **[CHAPTER 1: THE PHYSICS ENGINE](src/01_diagnostic/ch01_00_physics_engine.md)**
+    * **[1.1 System Specs:](src/01_diagnostic/ch01_01_system_specs.md)** Voxels (Kalapas) / Refresh Rate (Khana)
+    * **[1.2 Hardware Specs:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports (Salayatana) 
+    * **[1.3 Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux (Anicca), System Latency (Dukkha), The Null Pointer (Anatta)
+    * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** A Note on Dilution
+    * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** Seeing "events" instead of objects.
 * **Chapter 2: The Render Engine (Ghana)**
     * **The Data Handshake:** Phassa (Contact).
     * **The GUI:** Pannatti (Concepts vs. Reality).

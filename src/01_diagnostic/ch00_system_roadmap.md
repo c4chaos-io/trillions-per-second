@@ -3,9 +3,8 @@
 **System Focus:** Deconstructing the Physics Engine and identifying the Virus. (Addressing Axioms 1 & 2: Latency & The Resource Hog)
 
 ![Image](/assets/infographics/TPS_IMG_SysRoadmap.jpg)
----
 
-# System Roadmap: The Installation Wizard
+## System Roadmap: The Installation Wizard
 
 Before we start messing with your kernel, you need to know what the progress bar looks like. Most people try to hack their minds without a map. They just close their eyes and hope for the best. That is a great way to brick your system. We are not doing that. We are engineers. We follow a spec.
 
@@ -62,11 +61,9 @@ The final step. The rendering engine stops. For a microsecond, the screen goes b
 
 Then, the system restarts. You come back online, but the OS has been patched. The "Self" virus has been quarantined. You now have Root Access.
 
----
-
 ## The Rosetta Stone: TPS vs. Legacy
 
-For the developers in the audience who want to see exactly how we are refactoring the ancient code, here is the translation layer. We are mapping the 16 classic stages (The Insight Nanas) onto our 6 operational checkpoints.
+For the developers in the audience who want to see exactly how we are refactoring the ancient code, here is the translation layer. We are mapping the 16 classic stages (*The Insight Nanas*) onto our **6 operational checkpoints**.
 
 | TPS Checkpoint (The Patch) | Legacy Stage (The Source Code) |
 | :--- | :--- |
@@ -76,8 +73,6 @@ For the developers in the audience who want to see exactly how we are refactorin
 | **4. The Defrag** | 5. Dissolution (*Bhanga*); 6. Fear (*Bhaya*); 7. Misery (*Adinava*); 8. Disgust (*Nibbida*); 9. Desire for Deliverance (*Muncitukamyata*); 10. Re-observation (*Patisankha*) |
 | **5. Zero Lag** | 11. High Equanimity (*Sankhara Upekkha*) |
 | **6. The Reboot** | 12. Conformity (*Anuloma*); 13. Change of Lineage (*Gotrabhu*); 14. Path (*Magga*); 15. Fruition (*Phala*); 16. Reviewing (*Paccavekkhana*) |
-
----
 
 ## Note on Deployment
 

@@ -1,3 +1,4 @@
+---
 ## System Dependencies (The Stack)  
 
 ![Image](/assets/infographics/TPS_IMG_SystemDependencies.jpg)

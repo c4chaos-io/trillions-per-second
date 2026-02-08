@@ -1,3 +1,4 @@
+---
 ## Lineage Acknowledgement: Honoring the Open Source Contributors  
   
 The code we are running wasn't written in a vacuum. While the Prime User established the kernel, the interface has been refined over centuries by dedicated developers who optimized the system for different hardware.  

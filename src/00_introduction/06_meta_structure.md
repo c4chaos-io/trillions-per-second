@@ -1,3 +1,4 @@
+---
 ## The Meta-Structure (Fractal Architecture)  
   
 Before we initialize the boot sequence, check the architectural integrity of this manual.  
