@@ -50,7 +50,7 @@
     * **[1.2 Hardware Specs:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports (Salayatana) 
     * **[1.3 Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux (Anicca), System Latency (Dukkha), The Null Pointer (Anatta)
     * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** A Note on Dilution
-    * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** Seeing "events" instead of objects.
+    * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects.
 * **Chapter 2: The Render Engine (Ghana)**
     * **The Data Handshake:** Phassa (Contact).
     * **The GUI:** Pannatti (Concepts vs. Reality).

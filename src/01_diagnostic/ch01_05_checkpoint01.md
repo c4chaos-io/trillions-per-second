@@ -1,8 +1,7 @@
 ---
-# 📍CHECKPOINT 1: STREAM ANALYSIS
+## 📍CHECKPOINT 1: STREAM ANALYSIS
 
-**Directory:** `/src/checkpoints/01_stream_analysis.exe`
-**Status:** **MANDATORY**
+**[INFOGRAPHIC HERE]**
 
 Enough theory. You have read the documentation. You know the hardware specs. You know the refresh rate is there.
 

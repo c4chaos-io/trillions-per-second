@@ -18,7 +18,7 @@ We are about to pop the hood of your reality. We are going to examine the "Machi
 * **1.2 The Hardware:** The Input Ports (Salayatana) & The Handshake.
 * **1.3 System Diagnostics:** The Three Signatures (Flux, Lag, Null Pointer).
 * **1.4 The Ethos:** Why we use the "Simulation" metaphor (Root Access).
-* **CHECKPOINT 1:** Stream Analysis (Packet Sniffing).
+* **📍CHECKPOINT 1:** Stream Analysis (Packet Sniffing).
 
 **Warning:** This is not philosophy. We are not asking "if" the world is real. We are taking the system apart to see how it handles data.
 
