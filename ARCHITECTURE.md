@@ -70,7 +70,7 @@
     * **Network Security:** Why lying creates "open ports" for malware.
 * **Chapter 5: Overclocking Attention (Samadhi)**
     * **Overclock:** Boosting system clock speed (Concentration).
-    * **Intermediate Realms:** Warning against "Black Hat" traps (Siddhis/Powers).
+    * **Staging Environment:** Warning against "Black Hat" traps (Siddhis/Powers).
     * **📍 CHECKPOINT 3: THE OVERCLOCK.** High energy, lucid dreams, "God Mode".
 * **Chapter 6: The Toolkit (System Utilities)**
     * **Tool 1:** Rapid Noting (The Logger).

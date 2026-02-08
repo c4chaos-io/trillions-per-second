@@ -136,14 +136,15 @@ The TPS Patch is built upon the open-source contributions of the following Maste
 
 ## 6. CONSTRUCTION ZONE (READ-ONLY)
 
-> **NOTICE:** The Repo is currently in **'Construction Mode.'**
+> 🚧 **NOTICE:** The Repo is currently in **'Construction Mode.'**
 > 
 > The architecture is feature-complete, but we are still pouring the concrete for the chapters. We are keeping the "Write Access" restricted to the Core Admin and the Centaur Team (Gemini/Grok/NotebookLM) for now to ensure the logic compiles correctly without "too many cooks" breaking the build.
 >
 ---
 * **Status:** `Read-Only`
 * **Action:** Feel free to `Star` ⭐️ the repo to track the build.
-* **Pull Requests:** Please hold your PRs until we hit **Version 1.0**. We don't want footprints in the wet cement.
+* **Forks / Pull Requests:** Please ✋hold your Forks and PRs until we hit **Version 1.0**. We don't want footprints in the wet cement.
+
 
 ## 7.  SYSTEM LOGS: THE BUILD HISTORY
 
