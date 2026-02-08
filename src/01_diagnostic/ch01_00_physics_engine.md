@@ -1,8 +1,8 @@
 # CHAPTER 1: THE PHYSICS ENGINE
 
-**[INSERT INFOGRAPHIC HERE]**
+**[INFOGRAPHIC HERE]**
 
-Welcome to the backend.
+**Welcome to the backend.**
 
 Most people live their entire lives interacting with the **Graphic User Interface (GUI)**. They navigate the world through icons and windows. They think the "Trash Bin" on their desktop is a real trash bin. They think the "File Folder" is a real folder.
 
@@ -10,7 +10,15 @@ But a hacker knows the truth. The GUI is a lie. It is a simplified, cartoon over
 
 If you want to understand how the simulation works, you have to stop looking *at* the screen and start looking *through* it. You have to ignore the pretty icons and look at the raw binary stream.
 
-We are about to pop the hood of your reality. We are going to examine the "Machine Code" that renders your existence trillions of times per second. We will look at the pixel density, the input ports, and the refresh rate.
+We are about to pop the hood of your reality. We are going to examine the "Machine Code" that renders your existence trillions of times per second.
+
+**Module Load Order:**
+
+* **1.1 The System Spec:** The Refresh Rate & The Voxel (Kalapas).
+* **1.2 The Hardware:** The Input Ports (Salayatana) & The Handshake.
+* **1.3 System Diagnostics:** The Three Signatures (Flux, Lag, Null Pointer).
+* **1.4 The Ethos:** Why we use the "Simulation" metaphor (Root Access).
+* **CHECKPOINT 1:** Stream Analysis (Packet Sniffing).
 
 **Warning:** This is not philosophy. We are not asking "if" the world is real. We are taking the system apart to see how it handles data.
 
