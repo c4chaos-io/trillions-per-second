@@ -80,4 +80,5 @@ Finally, we ran a compatibility check against **Brian Roemmele’s "Love Equatio
 **Status:** [GOLD_MASTER_READY].
 **Next Step:** Commit to GitHub.
 
->> **[THE SILICON SUTRA](src/05_back_matter/02_04_ai_alignment_protocol.md)**
+>>> **[THE SILICON SUTRA](src/05_back_matter/02_04_ai_alignment_protocol.md)**
+
