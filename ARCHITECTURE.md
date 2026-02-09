@@ -102,6 +102,7 @@
 
 * **Chapter 9: My Path Through the Flux**
     * **Author Log:** Logs of system failures and breakthroughs.
+    * **Dev Logs:** Logs about the development of the TPS project. 
 
 ---
 

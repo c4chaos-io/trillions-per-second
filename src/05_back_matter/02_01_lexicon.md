@@ -45,6 +45,11 @@
 | **The Payload** | *Cetasika* | Metadata. The Attribute or "flavor" of the data (e.g., Greed, Compassion) contained within the Voxel. |
 | **Input Ports** | *Salayatana* | I/O Interface. The 6 hardware interfaces (Eye, Ear, Nose, Tongue, Body, Mind) where Voxels enter the system. |
 | **The GUI** | *Pannatti* | Desktop Icons. Concepts created by the brain to mask the Flux. |
+| **The Frontend** | *Nirmanakaya* (Sanskrit)| **The Rendered World.** The Body of Appearance. The surface ordinary awareness where the code is fully compiled into the illusion of solid forms. |
+| **The Staging Environment** | *Sambhogakaya* (Sanskrit)| **The Middleware.** The Body of Glory. An intermediate realm containing high-fidelity Beta Assets and phenomena that exist between the raw code and the surface interface. | 
+| **The Kernel** | *Dharmakaya* (Sanskrit) | **The Source Code.** The Body of the Absolute. The fundamental operating system and support structure that sustains the simulation. It is the unmanifested Zero Point before rendering begins. |
+
+
 
 ---
 
