@@ -1,6 +1,8 @@
 ---
 ## 1.1 The System Specs: The Refresh Rate
 
+![Image](/assets/infographics/TPS_IMG_PhysicsTickRate.jpg)
+
 Let's get straight to the point.
 You are likely sitting in a bar. Maybe you are at a desk. You are looking at a screen.
 It feels solid. It feels real.
@@ -8,8 +10,6 @@ It feels solid. It feels real.
 But standard physics and ancient meditation tech agree on one thing. It isn't.
 
 ### The Physics: The Tick Rate
-
-![Image](/assets/infographics/TPS_IMG_PhysicsTickRate.jpg)
 
 The "Simulation Hypothesis" is the modern framework for this glitch. It suggests that our reality is not a physical base layer. Instead, it is a computed environment. To understand the machine code, you need to understand the two different ways we diagnose the simulation: The Philosopher and The Engineer.
 
