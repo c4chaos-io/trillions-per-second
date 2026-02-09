@@ -52,9 +52,9 @@
     * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** A Note on Dilution
     * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects.
 * **Chapter 2: The Render Engine (Ghana)**
-    * **The Data Handshake:** Phassa (Contact).
-    * **The GUI:** Pannatti (Concepts vs. Reality).
-    * **The Algorithm:** Karma as Conditional Logic (IF/THEN).
+    * **2.1 The Data Handshake:** Phassa (Contact).
+    * **2.2 The GUI:** Pannatti (Concepts vs. Reality).
+    * **2.3 The Algorithm:** Karma as Conditional Logic (IF/THEN).
     * **📍 CHECKPOINT 2: SPOTTING THE LAG.** Realizing "The Self" is a loading icon.
 * **Chapter 3: The Virus (The Self Loop)**
     * **The Infinite Loop:** The recursive nature of "The Self" as malware.

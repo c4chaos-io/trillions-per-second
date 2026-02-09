@@ -1,5 +1,5 @@
 ---
-## 1.1 The System Spec: The Refresh Rate
+## 1.1 The System Specs: The Refresh Rate
 
 Let's get straight to the point.
 You are likely sitting in a bar. Maybe you are at a desk. You are looking at a screen.
@@ -9,7 +9,7 @@ But standard physics and ancient meditation tech agree on one thing. It isn't.
 
 ### The Physics: The Tick Rate
 
-**[INFOGRAPHIC: The Refresh Rate (Analog vs. Digital Reality)]**
+![Image](/assets/infographics/TPS_IMG_PhysicsTickRate.jpg)
 
 The "Simulation Hypothesis" is the modern framework for this glitch. It suggests that our reality is not a physical base layer. Instead, it is a computed environment. To understand the machine code, you need to understand the two different ways we diagnose the simulation: The Philosopher and The Engineer.
 
@@ -33,7 +33,7 @@ This means there is a minimum unit of time and a minimum unit of space. When we 
 
 ### Data Packets: The Kalapa Octad
 
-**[INFOGRAPHIC: The Kalapa Octad (Exploded Voxel View)]**
+![Image](/assets/infographics/TPS_IMG_KalapaOctad.jpg)
 
 Long before *The Matrix*, there was the *Abhidhamma*. Think of the Abhidhamma not as a holy book, but as a system classification manual for the human mind. The ancient Buddhist teachers who wrote this manual isolated the smallest unit of experience.
 

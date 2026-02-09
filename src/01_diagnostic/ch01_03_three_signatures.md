@@ -1,7 +1,7 @@
 ---
 ## 1.3 System Diagnostics: The Three Signatures
 
-**[INFOGRAPHIC: System Diagnostics (Flux, Lag, Null Pointer)]**
+![Image](/assets/infographics/TPS_IMG_ThreeSignatures.jpg)
 
 Now that we understand the Hardware (Ports) and the Software (Kalapas), we can run a diagnostic on the whole system.
 

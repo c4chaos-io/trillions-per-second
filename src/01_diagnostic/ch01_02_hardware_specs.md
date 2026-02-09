@@ -1,7 +1,7 @@
 ---
 ## 1.2 The Hardware Specs: Input Ports (Salayatana)
 
-**[INFOGRAPHIC: The Input Ports (The Body as Hardware)]**
+![Image](/assets/infographics/TPS_IMG_HardwareSpecs.jpg)
 
 We have talked about the machine code. We know the `kalapas` are the voxels of experience. But how does that data get into the system?
 

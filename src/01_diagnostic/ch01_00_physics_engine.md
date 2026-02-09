@@ -1,6 +1,6 @@
 # CHAPTER 1: THE PHYSICS ENGINE
 
-**[INFOGRAPHIC: The Layer Cake (GUI vs. Physics Engine)]**
+![Image](/assets/infographics/TPS_IMG_PhysicsEngine.jpg)
 
 **Welcome to the backend.**
 
@@ -14,11 +14,11 @@ We are about to pop the hood of your reality. We are going to examine the "Machi
 
 **Module Load Order:**
 
-* **1.1 The System Spec:** The Refresh Rate & The Voxel (Kalapas).
-* **1.2 The Hardware:** The Input Ports (Salayatana) & The Handshake.
-* **1.3 System Diagnostics:** The Three Signatures (Flux, Lag, Null Pointer).
-* **1.4 The Ethos:** Why we use the "Simulation" metaphor (Root Access).
-* **📍CHECKPOINT 1:** Stream Analysis (Packet Sniffing).
+* **1.1 The System Specs:** Voxels (Kalapas) / Refresh Rate (Khana)
+* **1.2 The Hardware Specs:** The Input Ports (Salayatana) & The Handshake
+* **1.3 Three Signatures:** The Flux (Anicca), System Latency (Dukkha), The Null Pointer (Anatta)
+* **1.4 Hardcore Ethos:** Why we use the "Simulation" metaphor (Root Access)
+* **📍CHECKPOINT 1: STREAM ANALYSIS** - Seeing "events" instead of objects
 
 **Warning:** This is not philosophy. We are not asking "if" the world is real. We are taking the system apart to see how it handles data.
 
