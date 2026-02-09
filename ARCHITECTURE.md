@@ -53,7 +53,7 @@
     * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects.
 * **[CHAPTER 2: THE RENDER ENGINE (GHANA)](src/01_diagnostic/ch02_00_render_engine.md)**
     * **[2.1 The Data Handshake:](src/01_diagnostic/ch02_01_data_handshake.md)** Phassa (Contact).
-    * **[2.2 The GUI:]( "src/01_diagnostic/ch02_02_gui.md)** Pannatti (Concepts vs. Reality).
+    * **[2.2 The GUI:](src/01_diagnostic/ch02_02_gui.md)** Pannatti (Concepts vs. Reality).
     * **[2.3 The Algorithm:](src/01_diagnostic/ch02_03_algorithm.md)** Karma as Conditional Logic (IF/THEN).
     * **[📍 CHECKPOINT 2: SPOTTING THE LAG](src/01_diagnostic/ch02_04_checkpoint02.md)** Realizing "The Self" is a loading icon.
 * **CHAPTER 3: THE VIRUS (THE SELF LOOP)**
