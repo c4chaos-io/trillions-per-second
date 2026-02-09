@@ -55,6 +55,8 @@
 | :--- | :--- | :--- |
 | **Idle Process** | *Bhavanga* | Standby Mode. The baseline "hum" of the system when no active data is being processed (maintains User Session). |
 | **The Handshake** | *Phassa* | Data Trigger. The precise millisecond where [Input Port] + [Object] + [Driver] meet. |
+|**The Logic Gate**|Votthapana (Determining)|Admin Access (Free Will). The decision node (IF/THEN) that selects which script to run. The precise moment the user can override the default "Virus" before execution begins.|
+|**The Executable**|Cetanà (Volition)|System Command. The "chief architect" code that compiles the data payload into an active event. It executes the script selected at the Logic Gate.|
 | **The Algorithm** | *Kamma* | Conditional Logic (IF/THEN). The script that records inputs (Intentions) and executes outputs (Results). |
 | **Write Access** | *Javana* | Active Execution. The 7 micro-moments in a cognitive sequence where the user has permissions to write new code (Reaction vs. Observation). |
 
@@ -107,6 +109,7 @@
 | **Stable Overclock** | *The Jhanas* | Safe Mode. Specific, high-frequency states where the "Virus" is temporarily quarantined. The CPU is locked into a single thread. |
 | **The Logger** | *Vipassana* | Task Manager. "Noting" every data event to deconstruct the rendering engine. |
 | **Haptic Feedback** | *Piti* | System Vibration. Scanning the body to trigger the dissolution of solid sensations. |
+| **System Voltage** | (Chinese/Sanskrit) *Chi / Prana / Kundalini* | Operating Power. The raw current running through the hardware. When resistance (Self) drops, voltage increases, sometimes causing heat or tremors (High Amperage).|
 | **The Save Point** | *Sotapanna* | System Checkpoint. Created after the first Reboot (v1.0), ensuring the system cannot revert to the corrupted Legacy OS. |
 | **Dev Tools** | *Siddhis* | Psychic powers/visions. **Warning:** Black Hat Trap. Using these for egoic gain corrupts the save file. |
 | **Staging Environment** | *Sambhogakaya* | The Sandbox. A trap between the GUI and Source Code. Contains high-fidelity "Beta Assets" (Visions, UAPs) that are just uncompiled code. |
