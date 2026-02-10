@@ -38,6 +38,7 @@
 * **[The Kernel Specs (The Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Self) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
 * **[Meta-Structure:](src/00_introduction/06_meta_structure.md)** Fractal Architecture of the Axioms
 * **[User Role:](src/00_introduction/07_user_role.md)** The White Hat Operator
+* **[System Configuration:](src/00_introduction/08_system_configuration.md)** The Rosetta Stone
 
 ---
 

@@ -23,13 +23,13 @@ We are running **Live Stream Analysis**. You are watching the raw data packets f
 
 There are two ways to handle this data flow.
 
-1. **The Wet Path (*Jhana*)**
+1. **The Safe Mode (The Wet Path)**
 You take a screenshot. You freeze the frame to stare at the pixels. It feels stable. It feels safe. But it is low fidelity. You are looking at a static JPEG of a movie.
 
-2. **The Dry Path (TPS Protocol)**
+2. **Hot Patching (The Dry Path)**
 You watch the pixels refresh in real time. It is high fidelity. It is unstable. It feels like standing in a wind tunnel.
 
-We want the wind. We want to see the Flux in motion.
+We want the wind. We want to see the Flux in motion. If you freeze the stream, you cannot see the impermanence. You cannot see how the trick works. You have to let the data run.
 
 If you freeze the stream, you cannot see the impermanence. You cannot see how the trick works. You have to let the data run.
 
