@@ -1,5 +1,5 @@
 ---
-### 2.2 The GUI (Pannatti)
+### 2.2 The GUI
 
 ![Image](/assets/infographics/TPS_IMG_TheGUI.jpg)
 

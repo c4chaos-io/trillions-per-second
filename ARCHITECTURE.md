@@ -51,14 +51,14 @@
     * **[1.3 Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux (Anicca), System Latency (Dukkha), The Null Pointer (Anatta)
     * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** A Note on Dilution
     * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects.
-* **[CHAPTER 2: THE RENDER ENGINE (GHANA)](src/01_diagnostic/ch02_00_render_engine.md)**
+* **[CHAPTER 2: THE RENDER ENGINE](src/01_diagnostic/ch02_00_render_engine.md)**
     * **[2.1 The Data Handshake:](src/01_diagnostic/ch02_01_data_handshake.md)** Phassa (Contact).
     * **[2.2 The GUI:](src/01_diagnostic/ch02_02_gui.md)** Pannatti (Concepts vs. Reality).
     * **[2.3 The Algorithm:](src/01_diagnostic/ch02_03_algorithm.md)** Karma as Conditional Logic (IF/THEN).
     * **[📍 CHECKPOINT 2: SPOTTING THE LAG](src/01_diagnostic/ch02_04_checkpoint02.md)** Realizing "The Self" is a loading icon.
-* **CHAPTER 3: THE VIRUS (THE SELF LOOP)**
-    * **The Infinite Loop:** The recursive nature of "The Self" as malware.
-    * **The Idle Process:** Bhavanga (Standby Mode).
+* **[CHAPTER 3: THE VIRUS (THE SELF LOOP)](src/01_diagnostic/ch03_00_virus.md)**
+    * **[The Infinite Loop:](src/01_diagnostic/ch03_01_infinite_loop.md)** The recursive nature of "The Self" as malware.
+    * **[The Idle Process:](src/01_diagnostic/ch03_02_idle_process.md)** Bhavanga (Standby Mode).
 
 ---
 

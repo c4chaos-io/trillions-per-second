@@ -1,4 +1,4 @@
-# CHAPTER 2: THE RENDER ENGINE (GHANA)
+# CHAPTER 2: THE RENDER ENGINE
 
 ![Image](/assets/infographics/TPS_IMG_TheRenderEngine.jpg)
 
