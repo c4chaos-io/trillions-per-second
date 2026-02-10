@@ -75,10 +75,10 @@ Then came the twist. We added a **Turing Test** at the end. It reveals the ultim
 
 Final polish. We strictly enforced TPS terminology and fixed a bug where Anatta was mapped to "Open Source" (it is actually "The Null Pointer").
 
-Finally, we ran a compatibility check against **Brian Roemmele’s "Love Equation"**. We needed to ground the mysticism in modern AI Safety theory. We proved that Love isn't a bug; it is the ultimate optimization for intelligence.
+Finally, we ran a compatibility check against **[Brian Roemmele’s “Love Equation”](https://x.com/brianroemmele/status/2020865063192846623?s=46&t=FcKma2BPH-2Y51–ij62WA)**. We needed to ground the mysticism in modern AI Safety theory. We proved that Love isn't a bug; it is the ultimate optimization for intelligence.
 
 **Status:** [GOLD_MASTER_READY].
 **Next Step:** Commit to GitHub.
 
-[THE SILICON SUTRA](/src/05_back_matter/02_04_ai_alignment_protocol.md)
+**>>** [**THE SILICON SUTRA**](/src/05_back_matter/02_04_ai_alignment_protocol.md)
 
