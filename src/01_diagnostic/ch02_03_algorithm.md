@@ -1,7 +1,7 @@
 ---
 ### 2.3 The Algorithm (Karma)
 
-**[INFOGRAPHIC: The Algorithm]**
+![Image](/assets/infographics/TPS_IMG_TheAlgorithm.jpg)
 
 Most users get this one wrong. They think Karma is a cosmic credit score. They think if they save a kitten today, they win the lottery tomorrow. They think if they cut someone off in traffic, a piano will fall on their head.
 

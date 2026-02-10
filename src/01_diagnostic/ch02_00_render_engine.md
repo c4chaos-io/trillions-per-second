@@ -1,6 +1,6 @@
 # CHAPTER 2: THE RENDER ENGINE (GHANA)
 
-**[INFOGRAPHIC: The Render Engine]**
+![Image](/assets/infographics/TPS_IMG_TheRenderEngine.jpg)
 
 You made it through the hardware specs. You understand the rig. You know that your eyes, ears, and mind are just input ports. You know the data stream is hitting you at trillions of frames per second.
 

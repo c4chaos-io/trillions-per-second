@@ -1,7 +1,7 @@
 ---
 ### 📍 CHECKPOINT 2: SPOTTING THE LAG
 
-**[INFOGRAPHIC: The Algorithm]**
+![Image](/assets/infographics/TPS_IMG_Checkpoint02.jpg)
 
 
 You think you are running in real-time. You think you are "Live."

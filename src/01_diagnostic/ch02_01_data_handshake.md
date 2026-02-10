@@ -1,7 +1,7 @@
 ---
 ### 2.1 The Data Handshake (Phassa)
 
-**[INFOGRAPHIC: The Data Handshake]**
+![Image](/assets/infographics/TPS_IMG_TheDataHandshake.jpg)
 
 You assume the simulation is running 24/7. You assume that when you leave the kitchen, the refrigerator is still there. You assume the world is "eagerly evaluated." You think it is all pre-rendered and waiting for you.
 
