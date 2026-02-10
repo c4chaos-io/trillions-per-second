@@ -1,5 +1,5 @@
 ---
-### 2.2 The GUI
+### 2.2 The GUI (Concepts vs. Reality)
 
 ![Image](/assets/infographics/TPS_IMG_TheGUI.jpg)
 
@@ -9,27 +9,37 @@ Now, what do you see?
 
 You don't see a raw stream of photons hitting your retina. You see a "Coffee Mug."
 
-This is the **Graphical User Interface (GUI)**.
+This is the Graphical User Interface (GUI).
 
 In the legacy manuals, this is called *Pannatti*. It translates to "concept" or "designation." It is the layer of abstraction that sits between you and the raw code.
 
-Think about the "Trash Can" icon on your desktop.
+Cognitive scientist Donald Hoffman calls this the "Interface Theory of Perception."
 
-It looks like a little wire bin. It has a lid. It might even make a crinkling paper sound when you use it.
+He argues that evolution didn't design our senses to show us the truth. It designed them to hide the truth.
+
+Think of it like a VR headset.
+
+If you had to navigate the actual quantum field to grab a sandwich, you would never eat. You would be paralyzed by the infinite complexity of superpositions and wave functions. You would starve to death.
+
+So the system lies to you. It renders a simple, graspable icon called "Sandwich."
+
+Hoffman uses the "Desktop Interface" analogy. Look at the blue trash can icon on your computer screen.
+
+It looks like a little wire bin. It has a lid. It might even make a satisfying *crumple* sound when you use it.
 
 But is there a tiny wire bin inside your hard drive? No.
 
-The reality is a command line string. It is a sector of magnetic storage being marked as "0" instead of "1." If the computer showed you the actual process, you would never delete a file again. It would be too complex.
+The reality is a complex sequence of magnetic charges, voltages, and software pointers. If the computer showed you the actual voltages required to delete a file, you would never get any work done.
 
-So the system lies to you. It gives you a cute icon. It creates a user-friendly fiction so you can navigate the OS without a degree in computer science.
+The icon is there to simplify your execution. It is a useful fiction.
 
-**The Map is Not the Territory**
+### The Map is Not the Territory
 
 The problem isn't the GUI. The GUI is useful. You need it to drive to work, pay taxes, and not walk into walls.
 
 The problem is that you think the GUI is the Operating System.
 
-You mistake the **Concept** (*Pannatti*) for **Ultimate Reality** (*Paramattha*).
+You mistake the Concept (*Pannatti*) for Ultimate Reality (*Paramattha*).
 
 * **Ultimate Reality:** A vibrating, changing flux of color, shape, and temperature.
 * **The GUI:** "My Car."
