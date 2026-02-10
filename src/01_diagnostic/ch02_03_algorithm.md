@@ -42,3 +42,17 @@ You cannot cheat the Algorithm. You cannot bribe the Admin.
 If you want to change the output, you have to change the input. You have to stop mashing the "Self-Destruct" button and wondering why the ship keeps exploding.
 
 Stop trying to be "good." Start writing clean code.
+
+
+---
+
+**Patch 2: Network Topology (Mesh Causality)**
+
+Critique: IF/THEN logic is too linear for the complex reality of Karma (Patthana).
+Target File: PART 1: THE DIAGNOSTIC
+Injection Point: 2.3 The Algorithm: Karma as Conditional Logic (IF/THEN)  
+• Refactor: Expand the definition of the Algorithm to include "Mesh Networking."
+• The Edit:
+• Current: 2.3 The Algorithm: Karma as Conditional Logic (IF/THEN).  
+• New Sub-bullet: • Mesh Topology: Moving beyond linear IF/THEN to Many-to-Many dependency injection (The Web of Conditions).
+

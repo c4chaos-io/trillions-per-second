@@ -108,6 +108,8 @@
 
 | TPS Terminology | Legacy Code (Pali) | System Definition (Functionality) |
 | :--- | :--- | :--- |
+| **Hot Patching** | *Sukkha Vipassana (Dry Insight)* | Live Debugging. Editing the kernel while the OS is under load. Prioritizes Wisdom (Code Quality) over Tranquility (System Stability). Fast, efficient, but prone to temporary instability.|
+| **Safe Mode** | *Samatha (Concentration)* | System Isolation. Suppressing background processes to create a stable environment. Good for rest, but you cannot delete the "Self" virus while in Safe Mode. |
 | **The Firewall** | *Sila* | Security Protocols. Rules that close "open ports" (lying/stealing) to prevent external malware infection. |
 | **Overclocking** | *Samadhi* | Boost Clock Speed. Stabilizing hardware to run at higher frequencies. |
 | **Signal Lock** | *Upacara Samadhi* | Access Threshold. The state where "Background Noise" (Hindrances) is muted, allowing the CPU to focus exclusively on the data stream. |

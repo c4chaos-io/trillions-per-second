@@ -27,3 +27,19 @@ This chapter is the virus definition file. We are going to isolate this process.
 A resource hog.
 
 Let’s open the terminal.
+
+---
+
+## Patch 3: Virus Definition Database (Cetasikas)
+
+Critique: Users need to know specific malware signatures, not just "The Virus" generally.
+
+Target File: PART 1: THE DIAGNOSTIC & BACK MATTER
+
+Injection Point: Chapter 3: THE VIRUS & APPENDIX A  
+• Refactor: Introduce the concept of signatures in Chapter 3, but store the database in the Appendix.
+• The Edit (Chapter 3):
+• Insert: • Malware Signatures: Identifying specific processes (e.g., Anxiety.exe, Torpor.dmg) versus System Processes.
+• The Edit (Appendix A):
+• Current: APPENDIX A: The Master System Lexicon (v2.6)  
+• Update: APPENDIX A: The Master System Lexicon & Virus Definitions (The 52 Cetasikas).

@@ -9,11 +9,33 @@ But reading about a refresh rate and *feeling* it are two very different things.
 
 It is time to open the terminal.
 
+## Hot Patching the Live Feed 
+
+Stop trying to hit the "Pause" button.
+
+Most people think the goal of this game is to freeze the data stream and find some quiet place to hide. That is a different protocol. The legacy manuals call it "Concentration" or *Samatha*. It is nice, but it is not hacking.
+
+In the TPS Protocol, we are performing a **Hot Patch**. We are rewriting the code while the server is still online.
+
+I do not care if your stream is chaotic. I do not care if the content is loud or weird. I only care about one thing. Is it lagging?
+
+We are running **Live Stream Analysis**. You are watching the raw data packets fly by. The ancients called these **Kalapas**. Think of them as the sub-atomic pixels of your experience. They are refreshing at trillions of times per second.
+
+There are two ways to handle this data flow.
+
+1. **The Wet Path (*Jhana*)**
+You take a screenshot. You freeze the frame to stare at the pixels. It feels stable. It feels safe. But it is low fidelity. You are looking at a static JPEG of a movie.
+
+2. **The Dry Path (TPS Protocol)**
+You watch the pixels refresh in real time. It is high fidelity. It is unstable. It feels like standing in a wind tunnel.
+
+We want the wind. We want to see the Flux in motion.
+
+If you freeze the stream, you cannot see the impermanence. You cannot see how the trick works. You have to let the data run.
+
 ### The Assignment: Packet Sniffing
 
 In network security, there is a tool called **Wireshark**. It allows an admin to intercept and log traffic passing over a digital network. It doesn't look at the pretty website; it looks at the raw packets. It sees the TCP/IP handshake. It sees the hex code.
-
-> 
 
 Right now, your brain is rendering a pretty website called "My Life." It shows you objects: "Chair," "Music," "Knee Pain," "Boredom."
 
@@ -52,8 +74,6 @@ The hacker sees the world in **Verbs**.
 * "Seeing."
 * "Feeling."
 * "Thinking."
-
-> 
 
 When you tag the traffic, you stop cementing the world into objects. You start seeing it as a process.
 
