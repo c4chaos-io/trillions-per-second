@@ -1,11 +1,17 @@
 ---
 ##  SYSTEM CONFIGURATION: THE ROSETTA STONE
 
+
 Listen. The ancient manuals were written for ox-cart drivers. You are a digital native running on high-speed silicon. You don't need poetry; you need a patch.
 
 Before we access the Kernel, we are purging the **Legacy Code** (Agricultural Metaphors) from your cache. We are installing the **TPS Protocol** (System Logic).
 
 To survive this update, you must abandon the idea that you are "practicing a lifestyle." You are optimizing a biological operating system.
+
+> **SYSTEM NOTE:**
+> This section contains the **Essential Drivers** required to run the Diagnostic in Part I.
+>
+> For the complete translation layer—including the full mapping of the Abhidhamma (System Manual) to modern logic—access **APPENDIX A: THE MASTER SYSTEM LEXICON** at the back of this manual.
 
 Update your internal dictionary. Effective immediately.
 
@@ -54,6 +60,7 @@ Update your internal dictionary. Effective immediately.
 * **System Definition:** The **Refresh Rate** of the simulation.
 * **Context:** Reality is not solid. It is a fluid stream of 3D data packets refreshing at a finite frame rate. You are just seeing the motion blur.
 
+---
 
-> **SYSTEM UPDATE COMPLETE.**
-> **INITIALIZING PART I: DIAGNOSTIC...**
+**SYSTEM UPDATE COMPLETE.**
+**INITIALIZING PART I: DIAGNOSTIC...**
