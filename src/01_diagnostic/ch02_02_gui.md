@@ -1,7 +1,7 @@
 ---
 ### 2.2 The GUI (Pannatti)
 
-*![Image](/assets/infographics/TPS_IMG_TheGUI.jpg)
+![Image](/assets/infographics/TPS_IMG_TheGUI.jpg)
 
 So the Handshake happens. The Port, the Input, and the Driver collide. The system executes the render.
 
