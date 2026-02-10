@@ -1,8 +1,27 @@
-# APPENDIX A: THE MASTER SYSTEM LEXICON (v2.7)
+# APPENDIX A: THE MASTER SYSTEM LEXICON (v3.0)
 
-**Subject:** The Master System Lexicon
-**Protocol:** Legacy Code (Pali/Abhidhamma) -> TPS Protocol (Simulation Theory)
-**Purpose:** The "Rosetta Stone" for the White Hat Hacker.
+**SUBJECT:** PROTOCOL CONVERTER (Legacy Code -> TPS Architecture)
+
+**PURPOSE:** The "Rosetta Stone" for the White Hat Hacker
+
+### THE PATCH NOTES
+
+You are holding the source code for the human mind, but the documentation is 2,500 years out of date.
+
+The original developers (The Prime User and the Lineage) were not writing poetry; they were writing strict System Architecture. But they wrote it in Pali and Sanskrit—languages designed for an agricultural society, not a digital one. They talked about "seeds" and "roots" because they didn't have words for "recursive loops" and "malware."
+
+This legacy terminology has become a barrier to entry. It turns a technical manual into a religious text. It hides the raw logic of the system behind a veil of mysticism.
+
+**We are stripping the UI.**
+
+The **Master System Lexicon** is a translation layer. It refactors the ancient *Abhidhamma* (The Psycho-Physical System Manual) into modern computational logic. We are not changing the code; we are simply updating the interface so you can read it.
+
+* **Legacy Code (Pali):** The original syntax used by the Prime User. High precision, but poor readability for modern hardware.
+* **TPS Protocol:** The "Native UI" for the Simulation. It treats reality as a data stream (The Flux) and the mind as an Operating System.
+
+Use this table to translate the glitches you feel in your daily life into the executable commands needed to fix them.
+
+**Happy Hacking.**
 
 ---
 
@@ -14,6 +33,7 @@
 | **The Simulation** | *Samsara* | The cyclical, constructed environment maintained by the Virus. The "Game World" where the user is trapped in a loop of rebooting. |
 | **The Boot Loop** | *Samsara* | Infinite Recursion. The cycle of crashing (Death) and rebooting (Rebirth) due to unresolved "Corrupted Data" in the Save File. |
 | **System Admin** | *Yogi / Meditator* | The biological user attempting to debug their own OS and gain Root Access. |
+| **Debugging / System Administration** | Meditation (Bhavana) | The active process of hunting down and deleting the "Self" malware. You are not "practicing"; you are maintaining the OS. |
 | **Aliasing** | *Ghana* | The illusion of solidity created when the brain compresses the data stream into static shapes. |
 | **Artifacts** | *Solidity* | "Buffer Bloat" that makes the Flux look like static objects. |
 | **Lazy Evaluation** | *Avijja* (Ignorance) | Frustum Culling. The system "ignores" the complex backend (Flux) to render a simple frontend (Objects). |
@@ -39,7 +59,7 @@
 | :--- | :--- | :--- |
 | **The Flux** | *Anicca* | The Native State of the simulation. Reality is a fluid stream of events arising and passing away at high speed. |
 | **The System Pulse** | *Udayabbaya* | Haptic Feedback. The sensation of the rendering engine systematically "blinking" on (Expansion) and off (Contraction). |
-| **The Refresh Rate** | *Khana* | Clock Speed. The frequency at which the Flux renders—Trillions Per Second. |
+| **The Refresh Rate (TPS)** | *Khana* | Trillions Per Second (TPS). The Clock Speed at which the Flux renders. Reality is not solid; it is a fluid stream of 3D data packets refreshing at a finite frame rate. |
 | **The Frame** | *Citta* | The Refresh Event. A discrete moment of cognizance. The system flashes distinct frames to create the illusion of continuous motion. |
 | **The Voxel** | *Kalapa* | The 3D Data Packet. The smallest irreducible unit of sensation (Volumetric Pixel) containing the 8-fold data payload. |
 | **The Payload** | *Cetasika* | Metadata. The Attribute or "flavor" of the data (e.g., Greed, Compassion) contained within the Voxel. |
@@ -108,12 +128,12 @@
 
 | TPS Terminology | Legacy Code (Pali) | System Definition (Functionality) |
 | :--- | :--- | :--- |
-| **Hot Patching** | *Sukkha Vipassana (Dry Insight)* | Live Debugging. Editing the kernel while the OS is under load. Prioritizes Wisdom (Code Quality) over Tranquility (System Stability). Fast, efficient, but prone to temporary instability.|
-| **Safe Mode** | *Samatha (Concentration)* | System Isolation. Suppressing background processes to create a stable environment. Good for rest, but you cannot delete the "Self" virus while in Safe Mode. |
+| **Hot Patching** | *Sukkha Vipassana* (Dry Insight)| **Live Debugging**. Running the exploit while the system is under load. We prioritize Code Quality (Wisdom) over Stability (Tranquility). Do not freeze the stream; debug it live.|
+| **Safe Mode** | *Samatha* (Concentration)| **System Isolation**. Suppressing background processes (Hindrances) to create a stable environment. Warning: You cannot delete the "Self" virus here because the file system is locked. |
 | **The Firewall** | *Sila* | Security Protocols. Rules that close "open ports" (lying/stealing) to prevent external malware infection. |
-| **Overclocking** | *Samadhi* | Boost Clock Speed. Stabilizing hardware to run at higher frequencies. |
-| **Signal Lock** | *Upacara Samadhi* | Access Threshold. The state where "Background Noise" (Hindrances) is muted, allowing the CPU to focus exclusively on the data stream. |
-| **Stable Overclock** | *The Jhanas* | Safe Mode. Specific, high-frequency states where the "Virus" is temporarily quarantined. The CPU is locked into a single thread. |
+| **Overclocking** | *Samadhi* | **Boost Clock Speed.** Stabilizing hardware to run at higher frequencies, allowing the user to process the high-speed Flux without crashing. |
+| **Signal Lock** | *Upacara Samadhi* | Connection Stability. The threshold where "Background Noise" drops to zero and the CPU locks onto the data stream. **Status:** Minimum System Requirement.|
+| **Sandbox Mode** | The *Jhanas* | Quarantine Environment. Deep states of Single-Threaded Processing where the "Virus" is temporarily isolated. It feels euphoric, but it is a shelter, not a solution. |
 | **The Logger** | *Vipassana* | Task Manager. "Noting" every data event to deconstruct the rendering engine. |
 | **Haptic Feedback** | *Piti* | System Vibration. Scanning the body to trigger the dissolution of solid sensations. |
 | **System Voltage** | (Chinese/Sanskrit) *Chi / Prana / Kundalini* | Operating Power. The raw current running through the hardware. When resistance (Self) drops, voltage increases, sometimes causing heat or tremors (High Amperage).|
