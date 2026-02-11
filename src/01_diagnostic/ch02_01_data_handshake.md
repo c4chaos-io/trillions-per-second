@@ -1,5 +1,5 @@
 ---
-### 2.1 The Data Handshake
+## 2.1 The Data Handshake
 
 ![Image](/assets/infographics/TPS_IMG_TheDataHandshake.jpg)
 

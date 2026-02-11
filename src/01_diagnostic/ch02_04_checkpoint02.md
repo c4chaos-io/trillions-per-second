@@ -1,5 +1,5 @@
 ---
-### 📍 CHECKPOINT 2: SPOTTING THE LAG
+## 📍 CHECKPOINT 2: SPOTTING THE LAG
 
 ![Image](/assets/infographics/TPS_IMG_Checkpoint02.jpg)
 

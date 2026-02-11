@@ -1,5 +1,5 @@
 ---
-### 3.2 THE IDLE PROCESS (BHAVANGA)
+## 3.2 The Idle Process 
 
 So, what happens when the data stream stops?
 

@@ -1,5 +1,5 @@
 ---
-### 2.2 The GUI (Concepts vs. Reality)
+## 2.2 The GUI (Concepts vs. Reality)
 
 ![Image](/assets/infographics/TPS_IMG_TheGUI.jpg)
 

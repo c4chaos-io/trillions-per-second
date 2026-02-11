@@ -1,5 +1,5 @@
 ---
-## 3.1 THE INFINITE LOOP
+## 3.1 The Infinite Loop
 
 Let's look at the source code.
 
