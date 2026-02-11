@@ -20,7 +20,7 @@ Update your internal dictionary. Effective immediately.
 ### 1. THE ACTION: DEBUGGING
 * **Legacy Code:** Meditation (*Bhavana*)
 * **TPS Protocol:** **System Administration**
-* **System Definition:** The active process of hunting down and deleting the "Self" malware.
+* **System Definition:** The active process of hunting down and deleting the "Self" malware (**The Self Rootkit**).
 * **Constraint:** You are not "relaxing." You are not "zoning out." You are the Lead Admin attempting to debug your own OS to fix **System Latency** (Suffering). If you aren't sweating, you aren't debugging.
 
 ### 2. THE STATE: SAFE MODE

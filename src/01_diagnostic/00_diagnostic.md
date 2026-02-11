@@ -16,11 +16,11 @@ In Part 1, we are popping the hood. We are going to ignore the shiny graphics an
 
 This section is your Installation Wizard. We are going to deconstruct the "Physics Engine" that generates your reality. We will look at how your sensors (your eyes, ears, and mind) take in raw data. Then we will see how the "Render Engine" takes that messy data and stitches it into a convincing 3D movie called *My Life*.
 
-Finally, we are going to hunt down the virus.
+Finally, we are going to hunt down the malware.
 
 There is a specific process running in the background. It is a resource hog. It lags the system. It overheats the CPU. It creates a feedback loop that feels like stress, anxiety, and suffering. You call this process "Me."
 
-We call it the Self Loop. And it is time to terminate the process.
+We call it **The Self Rootkit**. And it is time to terminate the process.
 
 Grab your flashlight. We are going in.
 
@@ -40,7 +40,7 @@ We analyze how the system lies to you. We separate the raw input from the "conce
 #### 📍CHECKPOINT 2: Spotting the Lag
 You will test your ability to spot the lag between reality and your thoughts.
 
-### Chapter 3: The Virus
+### Chapter 3: The Rootkit
 We isolate the "Self" malware and watch how it infects the data stream with an infinite loop.
 
 Let’s run the scan.

@@ -5,7 +5,7 @@ Finally, a word on your user permissions.
   
 **Identity Verification: The Observer Module**  
   
-If "The Self" is the malware, then who are you? You are the **Observer Module**. You are the unconstructed awareness that watches the system run. You are not the code; you are the Terminal.  
+If The Self Rootkit is the malware, then who are you? You are the **Observer Module**. You are the unconstructed awareness that watches the system run. You are not the code; you are the Terminal.  
   
 You are not reading this to become a "follower." You are reading this to become a **White Hat Hacker**.  
   

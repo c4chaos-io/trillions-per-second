@@ -9,7 +9,7 @@ This book is not a random collection of philosophical musings. The structure of 
   
 **Refactoring Axioms 1 & 2 (The Problem)**   
   
-In **Part 1**, we open the hood. We will analyze the physics engine of reality, tracing the wires from your senses (Input Ports) to your brain (The Hardware). We will hunt down the **Resource Hog** (The Self) and identify exactly where the "System Latency" is coming from. You cannot fix a bug you cannot see.  
+In **Part 1**, we open the hood. We will analyze the physics engine of reality, tracing the wires from your senses (Input Ports) to your brain (The Hardware). We will hunt down the **Resource Hog** (The Self Rootkit) and identify exactly where the "System Latency" is coming from. You cannot fix a bug you cannot see.  
   
 ### PART 2: THE CODE (Execution)
   

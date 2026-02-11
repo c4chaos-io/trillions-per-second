@@ -28,7 +28,7 @@ This is the moment the monitor flickers. You stop seeing "objects" and start see
 ### 📍CHECKPOINT 2: SPOTTING THE LAG (The Loading Icon)
 **Legacy Term:** Paccaya Pariggaha (Cause & Effect)
 
-Once you see the stream, you notice the buffer. You realize that "The Self" is not the user. It is a background process. It is a loading icon that pops up after the data hits your senses.
+Once you see the stream, you notice the buffer. You realize that **The Self Rootkit** is not the user. It is a background process. It is a loading icon that pops up after the data hits your senses.
 
 * You see a car (Data).
 * Then, a split second later, you hear a voice in your head say "That's a nice car" (The Self).
@@ -47,20 +47,20 @@ This is the fun part. Your system syncs up with the refresh rate of reality. You
 This is where most people uninstall. The Overclock ends. The screen goes dark. The system begins a deep purge of old, corrupted files.
 
 * You might feel anxious, depressed, or just weirdly "off." This is not a bug. It is a feature.
-* Your OS is deleting the malware of "The Self." It feels like you are dying because the part of you that shouldn't exist is actually dying.
+* Your OS is deleting **The Self Rootkit**. It feels like you are dying because the part of you that shouldn't exist is actually dying.
 * Keep logging.
 
 ### 📍CHECKPOINT 5: ZERO LAG (Flow State)
 **Legacy Term:** Sankhara Upekkha (Equanimity)
 
-The fans spin down. The system runs silent. You are no longer fighting the data stream; you are surfing it. The "Self" process is still there, but it's running in a minimized window. You accept whatever happens—pain, pleasure, noise, silence—without buffering. This is the definition of "Cool."
+The fans spin down. The system runs silent. You are no longer fighting the data stream; you are surfing it. **The Self Rootkit** is still there, but it's running in a minimized window. You accept whatever happens—pain, pleasure, noise, silence—without buffering. This is the definition of "Cool."
 
 ### 📍CHECKPOINT 6: THE REBOOT (Root Access)
 **Legacy Term:** Magga/Phala (Path & Fruition)
 
 The final step. The rendering engine stops. For a microsecond, the screen goes black. The simulation vanishes. No time. No space. No user. This is the System Halt.
 
-Then, the system restarts. You come back online, but the OS has been patched. The "Self" virus has been quarantined. You now have Root Access.
+Then, the system restarts. You come back online, but the OS has been patched. **The Self Rootkit** has been quarantined. You now have Root Access.
 
 ### 🔄 SYSTEM VERSIONING (The Recursive Loop)
 
@@ -72,7 +72,7 @@ This isn't a straight line. It's a spiral.
 
 * **CYCLE 1 (Stream Entry / v1.0)**
   * **Status:** **ROOT ACCESS ACQUIRED.**
-  * **Patch Notes:** **The Rootkit** (The Delusion of Self) has been permanently deleted from the Kernel. You have seen the Source Code. You know—with mathematical certainty—that the "User" is a **Null Pointer**.
+  * **Patch Notes:** **The Self Rootkit** (The Delusion of Self) has been permanently deleted from the Kernel. You have seen the Source Code. You know—with mathematical certainty—that the "User" is a **Null Pointer**.
   * **Glitch Report:** Don't get cocky. Your drivers are still trash. The *belief* in a Self is gone, but the *habit* of the Self (**The Resource Hog**) is still cached in your RAM. You will still get pissed off in traffic. You just won't take it personally.
 
 * **CYCLES 2 & 3 (The Optimization / v2.0 - v3.0)**

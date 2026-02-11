@@ -42,7 +42,7 @@ You are going to feel every single glitch as you delete it.
 
 Proceeding with this installation acknowledges a known issue. We call it the "Dark Night" Glitch.
 
-When you uninstall the "Self" driver, the system becomes unstable. You may experience a temporary period of existential vertigo.
+When you uninstall **The Self Rootkit**, the system becomes unstable. You may experience a temporary period of existential vertigo.
 
 The legacy OS is gone. The new kernel hasn't fully booted yet. You are staring at a blinking cursor in the void. This is a standard side effect during the re-partitioning of the psyche.
  
