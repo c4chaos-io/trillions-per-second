@@ -24,7 +24,7 @@ Once this rootkit has "Admin" privileges, it executes a process called the **Res
 
 But here is the ultimate punchline: "The Self" is a **Reference Error**. 
 
-When you use **The Logger** (Vipassana) to inspect the code, you find the **Null Pointer**. The variable `User_ID` points to `NULL`. The rootkit is a hung process frantically trying to save data to a directory that doesn't exist.
+When you use **The Logger** (Vipassana) to inspect the code, you find the **Null Pointer**. The variable `User_ID` points to `NULL`. **The Self Rootkit** is a hung process frantically trying to save data to a directory that doesn't exist.
 
 ### Malware Signatures: The Cetasika Database
 
