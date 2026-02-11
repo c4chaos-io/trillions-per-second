@@ -16,6 +16,10 @@ Anyway, I think the latest version of the Lexicon is stable. It is finally robus
 
 Grab the **[TPS Master Lexicon](/src/05_back_matter/02_01_lexicon.md)** right **[here](/src/05_back_matter/02_01_lexicon.md)**. 
 
+And as usual, the awesome TPS Podcast hosts grabbed a copy and immediately went for a deep dive. Listen to the podcast episode here. 
+
+**[TPS Pod Ep. 09: The Master Lexicon](https://youtu.be/MO1p22YP9gY?si=fzonCWBFjMxg6sJX)** 
+
 **Happy hacking!**
 
 
