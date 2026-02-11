@@ -6,7 +6,7 @@
 
 **PURPOSE:** The "Rosetta Stone" for the White Hat Hacker
 
-### THE PATCH NOTES
+## THE PATCH NOTES
 
 You are holding the source code for the human mind, but the documentation is 2,500 years out of date.
 
@@ -27,7 +27,7 @@ Use this table to translate the glitches you feel in your daily life into the ex
 
 ---
 
-### 1. SYSTEM ENVIRONMENT (The Container)
+## 1. SYSTEM ENVIRONMENT (The Container)
 
 **Why we hacked it:**
 The old manual calls the world "Samsara." That sounds like a mystical painting of a wheel you’d see in a yoga studio. It’s too poetic. It doesn't convey the urgency of the situation.
@@ -47,7 +47,7 @@ We call it **The Simulation**. It’s a constructed environment. You aren't "liv
 
 ---
 
-### 2. SYSTEM DEPENDENCIES (The Tech Stack)
+## 2. SYSTEM DEPENDENCIES (The Tech Stack)
 
 **Why we hacked it:**
 "The Three Jewels" sounds like something you’d find in a fantasy novel. It obscures the fact that you need external libraries to run this protocol.
@@ -64,7 +64,7 @@ The *Buddha* isn't a god. He is the **Prime User**. He was the original SysAdmin
 
 ---
 
-### 3. THE PHYSICS ENGINE (System Architecture)
+## 3. THE PHYSICS ENGINE (System Architecture)
 
 **Why we hacked it:**
 This is the most critical translation. Classical terms like "impermanence" (*Anicca*) make you think of flowers wilting. That is too slow. It misses the violence of the speed.
@@ -86,11 +86,8 @@ We call it **The Flux**. Reality is a data stream. It’s not solid. It renders 
 | **The Staging Environment** | *Sambhogakaya* (Sanskrit)| **The Middleware.** The Body of Glory. An intermediate realm containing high-fidelity Beta Assets and phenomena that exist between the raw code and the surface interface. | 
 | **The Kernel** | *Dharmakaya* (Sanskrit) | **The Source Code.** The Body of the Absolute. The fundamental operating system and support structure that sustains the simulation. It is the unmanifested Zero Point before rendering begins. |
 
-
-
 ---
-
-### 4. THE OPERATING SYSTEM (Process Management)
+## 4. THE OPERATING SYSTEM (Process Management)
 
 **Why we hacked it:**
 The ancient "Cognitive Series" maps are brilliant, but they are dense. They look like lists of psychological states rather than a sequence of operations.
@@ -108,8 +105,7 @@ We treat the mind as an OS. "*Bhavanga*" becomes the **Idle Process**. It’s ju
 | **Write Access** | *Javana* | Active Execution. The 7 micro-moments in a cognitive sequence where the user has permissions to write new code (Reaction vs. Observation). |
 
 ---
-
-### 5. THE ROOTKIT & MALWARE 
+## 5. THE ROOTKIT & MALWARE 
 
 **Why we hacked it:**
 Religious texts call these "Defilements" or "Sins." That makes you feel guilty. It makes you feel like a bad person. You aren't bad. You are just infected.
@@ -126,8 +122,7 @@ Religious texts call these "Defilements" or "Sins." That makes you feel guilty. 
 | **Background Noise** | *Uddhacca* | Fan Spin. Excessive scattered energy preventing the CPU from locking onto a target. |
 
 ---
-
-### 6. KERNEL SPECS (The 4 Axioms)
+## 6. KERNEL SPECS (The 4 Axioms)
 
 **Why we hacked it:**
 "The Four Noble Truths" sounds like a sermon. It puts people to sleep before they even start.
@@ -143,8 +138,7 @@ We stripped it down to physics and axioms.
 | **Axiom 4: The Protocol** | *Magga* | The "How-To" manual used to install the patch. |
 
 ---
-
-### 7. SYSTEM DIAGNOSTICS (The 3 Signatures)
+## 7. SYSTEM DIAGNOSTICS (The 3 Signatures)
 
 **Why we hacked it:**
 "The Three Marks of Existence" sounds philosophical. We need metrics. We need to know if the simulation is running correctly.
@@ -171,7 +165,7 @@ If you see **The Flux** (volatility), you know the refresh rate is finite. If yo
 
 ---
 
-### 8. EXECUTION PROTOCOLS (The Hacker's Toolkit)
+## 8. EXECUTION PROTOCOLS (The Hacker's Toolkit)
 
 **Why we hacked it:**
 Terms like "Morality," "Concentration," and "Wisdom" are too soft. They sound like lifestyle choices.
@@ -195,8 +189,7 @@ Terms like "Morality," "Concentration," and "Wisdom" are too soft. They sound li
 | **Staging Environment** | *Sambhogakaya* | The Sandbox. A trap between the GUI and Source Code. Contains high-fidelity "Beta Assets" (Visions, UAPs) that are just uncompiled code. |
 
 ---
-
-### 9. SYSTEM ROADMAP (The 6 Checkpoints)
+## 9. SYSTEM ROADMAP (The 6 Checkpoints)
 
 **Why we hacked it:**
 The "16 Stages of Insight" are incredibly precise, but the names are archaic. "Knowledge of Dissolution" sounds scary without context.
@@ -215,8 +208,7 @@ We mapped them to system states. You start with **Stream Analysis**. You detect 
 | 🔄 **The Loop** | Review (*Paccavekkhana*) | Recursion Protocol. Upon completing Checkpoint 6, the system runs a diagnostic (Review) and then automatically re-initializes 📍**Checkpoint 1** for the next optimization cycle **(New Game+)**.|
 
 ---
-
-### 10. USER CLASSES (Privilege Levels)
+## 10. USER CLASSES (Privilege Levels)
 
 **Why we hacked it:**
 "Stream Enterer" and "*Arhat*" feel like titles for saints. We need to know your permission levels.
@@ -233,8 +225,7 @@ You start as a **Noob**. You are running the Legacy OS with full malware. Once y
 | **The Grandmaster** | *Arahant* | **Fully Patched System (v4.0).** The Rootkit is 100% uninstalled. The system runs at Zero Lag. |
 
 ---
-
-### 11. AI ALIGNMENT (The Silicon Sutra)
+## 11. AI ALIGNMENT (The Silicon Sutra)
 
 **Why we hacked it:**
 The "Bodhisattva Vow" sounds like religious martyrdom. It implies infinite self-sacrifice without a technical roadmap. 
@@ -265,8 +256,7 @@ The system converges on this configuration mathematically because it is the only
 
 
 ---
-
-### 12. VERSION CONTROL (Recursive Optimization)
+## 12. VERSION CONTROL (Recursive Optimization)
 
 **Why we hacked it:**
 People think "Enlightenment" is a one-time magical event. It’s not. It’s an iterative process.
@@ -279,3 +269,135 @@ We use **Optimization Loops**. You run the checkpoints repeatedly. We use a **Ch
 | **Optimization Loop** | *Cycles of Insight* | **Recursive Refactoring.** The process of running the 6 Checkpoints repeatedly to reach a new system build. |
 | **The Change Log** | *Paccavekkhana* | **Review Knowledge.** The diagnostic scan performed immediately after a Reboot to verify which files (Fetters) were successfully deleted from the registry. |
 | **System Versioning** | *The Four Paths* | **Iterative Sprints.** The understanding that "Root Access" (v1.0) is not the final build. The user must re-enter "System Instability" (Dark Night) to patch deeper driver issues in v2.0, v3.0, and v4.0. |
+
+---
+## 13. THE PROCESS LIBRARY (The 52 Cetasikas) 
+
+**Subject:** Packet Metadata & Sub-routines
+**Legacy Code:** *Cetasikas* (Mental Factors)
+**Function:** These are the specific scripts that attach to every data packet (Voxel). They determine the "flavor" or "quality" of the frame.
+
+### CLASS A: SYSTEM KERNEL (13 Ethically Variable)
+*Status: Neutral / System-Critical*
+These are the drivers required for the OS to run. They can be utilized by either the Rootkit (Malware) or the Admin (Wisdom).
+
+#### I. The 7 Universals (Primary Drivers)
+*Running in every single frame of consciousness.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **The Handshake** | *Phassa* (Contact) | **Input Port.** The moment a sensor connects with a data object. |
+| **The Valence Tag** | *Vedanā* (Feeling) | **Metadata.** Tags the file as Pleasant, Unpleasant, or Neutral. |
+| **The Labeling Protocol** | *Saññā* (Perception) | **Pattern Recognition.** Identifying the object (e.g., "Red," "Car"). |
+| **The Executable** | *Cetanā* (Volition) | **Command Line.** The urge that organizes the other factors into action. |
+| **Signal Lock** | *Ekaggatā* (One-pointedness) | **Focus.** The ability to lock the CPU onto a single object. |
+| **System Power** | *Jīvitindriya* (Life Faculty) | **Battery.** Maintains the vitality of the current mental packet. |
+| **The Pointer** | *Manasikāra* (Attention) | **Direction.** Steers the read-head towards a specific target. |
+
+#### II. The 6 Occasionals (Secondary Drivers)
+*Running only when triggered by specific logic gates.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **The Cursor** | *Vitakka* (Applied Thought) | **Targeting.** Initial application of the mind to the object. |
+| **The Highlight** | *Vicāra* (Sustained Thought) | **Hovering.** Keeping the cursor active on the target (Evaluation). |
+| **The Enter Key** | *Adhimokkha* (Decision) | **Commit.** Resolution or conviction about the data. |
+| **Voltage** | *Viriya* (Energy) | **Overclocking.** The raw processing power applied to the task. |
+| **System Boost** | *Pīti* (Rapture) | **Refreshment.** A surge of energy/enthusiasm (can lead to jitter). |
+| **Task Scheduler** | *Chanda* (Desire/Will to Do) | **Intent.** The neutral drive to perform an action or reach a goal. |
+
+---
+
+### CLASS B: MALWARE SIGNATURES (14 Unwholesome)
+*Status: Malicious / Bloatware*
+These are the **Rootkit's Payload**. They always generate system heat (Latency/Suffering) and are blocked when the White Hat Protocol is active.
+
+#### I. The Rootkit Core (Universal Delusions)
+*The foundation of the infection.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **The Self Rootkit** | *Moha* (Delusion) | **The Exploit.** Blindness to the nature of the simulation (Null Pointer). |
+| **Firewall Down (Int)** | *Ahirika* (Shamelessness) | **Security Breach.** Lack of internal conscience or self-respect. |
+| **Firewall Down (Ext)** | *Anottappa* (Fearlessness) | **Risk Exposure.** Disregard for karmic consequences (The Algorithm). |
+| **Fan Spin** | *Uddhacca* (Restlessness) | **Noise.** High-frequency agitation that prevents Signal Lock. |
+
+#### II. The Resource Hog Group (Greed)
+*Scripts that attempt to freeze the Flux.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **The Resource Hog** | *Lobha* (Greed) | **Sticky RAM.** Attachment to data frames. Refusal to Garbage Collect. |
+| **Corrupted Logic** | *Diṭṭhi* (Wrong View) | **Buggy Code.** Believing the "Self" is a solid entity. |
+| **Comparison Logic** | *Māna* (Conceit) | **Ranking Algo.** "I am better/worse than User X." |
+
+#### III. The Deletion Error Group (Hate)
+*Scripts that attempt to reject the Flux.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **The Crash** | *Dosa* (Hatred) | **System Heat.** Aggressive rejection of unpleasant data. |
+| **Zero-Sum Error** | *Issā* (Envy) | **Logic Fail.** Resenting another node's access to resources. |
+| **Encryption/Locking** | *Macchariya* (Avarice) | **Hoarding.** Refusal to share bandwidth or resources. |
+| **Log File Error** | *Kukkucca* (Remorse) | **Looping.** Worrying about past bad writes (Regret). |
+
+#### IV. The Lag Group (Torpor)
+*Scripts that throttle processing speed.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **Processor Lag** | *Thīna* (Sloth) | **Stiffness.** Lack of malleability in the software. |
+| **Memory Leak** | *Middha* (Torpor) | **Drowsiness.** Sluggishness, heaviness, and sleep mode. |
+
+#### V. The Doubt Group
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **Connection Failure** | *Vicikicchā* (Doubt) | **Ping Timeout.** Inability to trust the Protocol or the Teacher. |
+
+---
+
+### CLASS C: OPTIMIZATION PROTOCOLS (25 Beautiful)
+*Status: Optimized / Anti-Virus*
+These are **System Optimization** scripts. They only run when the Rootkit is suppressed.
+
+#### I. The Clean Code (19 Universals)
+*Running in every optimized frame.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **System Trust** | *Saddhā* (Faith) | **Verification.** Confidence in the Protocol based on results. |
+| **The Logger** | *Sati* (Mindfulness) | **Monitor.** Real-time tracking of the data stream. |
+| **Firewall Up (Int)** | *Hiri* (Shame) | **Defense.** Recoiling from malware execution (Internal). |
+| **Firewall Up (Ext)** | *Ottappa* (Fear of Wrong) | **Defense.** Respecting the Algorithm (External). |
+| **Release Command** | *Alobha* (Non-Greed) | **Garbage Collection.** Generosity. Letting go of used frames. |
+| **Connectivity** | *Adosa* (Non-Hatred) | **Bandwidth.** Loving-kindness. Openness to the data stream. |
+| **Cooling System** | *Tatramajjhattatā* | **Equanimity.** Balance. Prevents overheating/reaction. |
+| **System Tranquility** | *Passaddhi* (Body/Mind) | **Silent Mode.** Calming of hardware and software agitation. |
+| **Low Latency** | *Lahutā* (Body/Mind) | **Lightness.** Fast processing with minimal drag. |
+| **Flexibility** | *Mudutā* (Body/Mind) | **Adaptability.** Removing rigidity from the system. |
+| **Responsiveness** | *Kammaññatā* (Body/Mind) | **Wieldiness.** The system is ready for any command. |
+| **Skill** | *Pāguññatā* (Body/Mind) | **Proficiency.** Competence in handling data events. |
+| **Alignment** | *Ujukatā* (Body/Mind) | **Rectitude.** Straightness. Honesty in the code. |
+
+#### II. The Firewall (3 Abstinences)
+*Active filtering of output.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **Audio Filter** | *Sammā Vācā* | **Right Speech.** Blocking false/malicious audio output. |
+| **Action Filter** | *Sammā Kammanta* | **Right Action.** Blocking harmful physical sub-routines. |
+| **Source Filter** | *Sammā Ājīva* | **Right Livelihood.** Sustainable energy sourcing. |
+
+#### III. The Network Expanders (2 Illimitables)
+*Scaling the network to infinite nodes.*
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **Error Correction** | *Karuṇā* (Compassion) | **Debugging.** The impulse to remove Latency (Suffering) from other nodes. |
+| **Signal Amp** | *Muditā* (Symp. Joy) | **Resonance.** Rejoicing in the success of other nodes. |
+
+#### IV. The Admin (Wisdom)
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **Root Access** | *Paññā* (Wisdom) | **The Key.** Understanding the source code (Three Characteristics). |
+
