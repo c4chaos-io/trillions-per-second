@@ -1,4 +1,4 @@
-# CHAPTER 3: THE ROOTKIT (THE SELF-OPTIMIZATION EXPLOIT)
+# CHAPTER 3:  ROOTKIT (THE SELF-OPTIMIZATION EXPLOIT)
 
 Alright. Grab a fresh drink. This part might hurt a little.
 
