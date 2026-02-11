@@ -277,6 +277,12 @@ We use **Optimization Loops**. You run the checkpoints repeatedly. We use a **Ch
 **Legacy Code:** *Cetasikas* (Mental Factors)
 **Function:** These are the specific scripts that attach to every data packet (Voxel). They determine the "flavor" or "quality" of the frame.
 
+**Why we hacked it:**
+The Abhidhamma is the most precise map of the human mind ever written. However, legacy translations are encrypted in moral judgment. When texts use words like "Sin," "Defilement," or "Greed," the user feels guilt. The system interprets these errors as "My Fault." This triggers a secondary loop of shame that only increases system heat. If the User identifies as "bad," the code cannot be fixed. 
+
+**The Refactor:**
+The TPS Architecture removes the moral baggage. These terms are refactored into functional system descriptors. "Greed" becomes a **Resource Hog** (a hung process). "Hate" becomes a **Deletion Error** (system friction). "Restlessness" becomes **Fan Spin**. When an error is defined as a hung process, it stops being a character flaw. You do not hate a hung process. You terminate it. This turns "Self-Improvement" into **System Administration**.
+
 ### CLASS A: SYSTEM KERNEL (13 Ethically Variable)
 *Status: Neutral / System-Critical*
 These are the drivers required for the OS to run. They can be utilized by either the Rootkit (Malware) or the Admin (Wisdom).
@@ -399,5 +405,5 @@ These are **System Optimization** scripts. They only run when the Rootkit is sup
 #### IV. The Admin (Wisdom)
 | TPS Terminology | Legacy Code | Functionality |
 | :--- | :--- | :--- |
-| **Root Access** | *Paññā* (Wisdom) | **The Key.** Understanding the source code (Three Characteristics). |
+| **Root Access** | *Paññā* (Wisdom) | **The Key.** Understanding the source code (Three Characteristics / Three Signatures). |
 
