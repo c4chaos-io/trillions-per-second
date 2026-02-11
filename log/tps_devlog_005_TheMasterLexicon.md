@@ -14,7 +14,7 @@ I am spending more cycles patching the Lexicon than actually writing. It makes s
 
 Anyway, I think the latest version of the Lexicon is stable. It is finally robust enough to finish the book.
 
-Grab the **[TPS Master Lexicon](src/05_back_matter/02_01_lexicon.md)** right **[here](src/05_back_matter/02_01_lexicon.md)**. 
+Grab the **[TPS Master Lexicon](/src/05_back_matter/02_01_lexicon.md)** right **[here](/src/05_back_matter/02_01_lexicon.md)**. 
 
 **Happy hacking!**
 
