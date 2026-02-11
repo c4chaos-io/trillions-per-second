@@ -22,7 +22,7 @@ And as usual, the awesome TPS Podcast hosts grabbed a copy and immediately went 
 
 Then it suddenly dawned on me. What started as a book project for dharma geeks and tech bros just turned into a **Universal Interface for Contemplative Technology** 🤯🙏
 
-I need a moment to reflect this while I commit this dev log into the repo.
+I need a moment to reflect on this while I commit this dev log to the repo.
 
 **Happy hacking!**
 
