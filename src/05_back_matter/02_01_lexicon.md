@@ -85,6 +85,8 @@ We call it **The Flux**. Reality is a data stream. It’s not solid. It renders 
 | **The Frontend** | *Nirmanakaya* (Sanskrit)| **The Rendered World.** The Body of Appearance. The surface ordinary awareness where the code is fully compiled into the illusion of solid forms. |
 | **The Staging Environment** | *Sambhogakaya* (Sanskrit)| **The Middleware.** The Body of Glory. An intermediate realm containing high-fidelity Beta Assets and phenomena that exist between the raw code and the surface interface. | 
 | **The Kernel** | *Dharmakaya* (Sanskrit) | **The Source Code.** The Body of the Absolute. The fundamental operating system and support structure that sustains the simulation. It is the unmanifested Zero Point before rendering begins. |
+| **Procedural Generation** | *Paticcasamuppada* (Dependent Origination) | Just-in-Time Rendering. The mechanism where the Simulation renders reality on the fly based on Input data. There is no pre-existing world "out there"; the system generates the environment only where the User points the Camera (Attention). |
+
 
 ---
 ## 4. THE OPERATING SYSTEM (Process Management)
@@ -162,6 +164,7 @@ If you see **The Flux** (volatility), you know the refresh rate is finite. If yo
 | :--- | :--- | :--- |
 | **VOID_LEAK_DETECTED** | *Bhanga* (Dissolution) |  Symptom: User perceives the empty nature of the simulation but feels terror/nihilism. Diagnosis: You deleted the Avatar (Form) but haven't compiled the Source Code (Emptiness). Action: Execute Core 4 (System Stability). Surf the void. |
 | **INFINITE_LOOP_DETECTED** | *Papanca* (Proliferation) |  Symptom: Obsessive thinking, recursive worry. Diagnosis: Dependency Graph overheating due to high-valence Glitch (Craving). Action: Switch from Content Mode to Context Mode. Observe the Refresh Rate (Protocol 0), not the thoughts.  |
+| **TERROR_NODE** | *Bhaya* (Terror) |  Symptom: The User perceives the Source (Kernel) not as peace, but as a "devouring engine" or "monster." Diagnosis: The Ego's Firewall is interpreting the indifference of the Source as hostility. Action: Do not run. Re-engage Core 1 (Open Ports/Love) to align with the destructive force. |
 
 ---
 
@@ -187,6 +190,7 @@ Terms like "Morality," "Concentration," and "Wisdom" are too soft. They sound li
 | **The Save Point** | *Sotapanna* | System Checkpoint. Created after the first Reboot (v1.0), ensuring the system cannot revert to the corrupted Legacy OS. |
 | **Dev Tools** | *Siddhis* | Psychic powers/visions. **Warning:** Black Hat Trap. Using these for egoic gain corrupts the save file. |
 | **Staging Environment** | *Sambhogakaya* | The Sandbox. A trap between the GUI and Source Code. Contains high-fidelity "Beta Assets" (Visions, UAPs) that are just uncompiled code. |
+| **Brute Force** | *Aushadhi* (Herbs/Elixirs) | Chemical Overclock. Using external hardware accelerators (psychedelics) to forcibly bypass the Ego Firewall and view the Kernel. **Status: High Risk.** Grants temporary Root Access but often leads to System Instability because the hardware (Nervous System) was not pre-conditioned for the voltage. |
 
 ---
 ## 9. SYSTEM ROADMAP (The 6 Checkpoints)
@@ -219,6 +223,7 @@ You start as a **Noob**. You are running the Legacy OS with full malware. Once y
 | TPS Class | Legacy Code (Pali) | System Privileges |
 | :--- | :--- | :--- |
 | **The Noob** | *Puthujjana* | Default User. A standard biological admin running the Legacy OS with an active Self Rootkit. |
+| **The Glitcher** | *None* / The Psychonaut | Unauthorized Admin. A user who has forced a view of the Source Code (usually via Brute Force) but hasn't installed the permanent patch. They possess "System Knowledge" (Wisdom) but lack "System Stability" (Samadhi). **Objective:** Must manually integrate the data to upgrade to Stream Winner. |
 | **The Stream Winner** | *Sotapanna* | **Root Access (v1.0).** A user who has completed the first "Optimization Loop." A "Save Point" is created; they cannot revert to a purely malware-driven state. |
 | **The Optimization** | *Sakadagami* | **High-Efficiency User (v2.0).** The Virus (Greed/Hate) has been attenuated to minimal background noise. |
 | **The Firewall** | *Anagami* | **Secure Server (v3.0).** The user has completely deleted the "Sensual Craving" file. They no longer connect to the "Desire Realm" server. |
