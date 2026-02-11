@@ -1,5 +1,7 @@
 # APPENDIX A: THE MASTER SYSTEM LEXICON (v3.0)
 
+![Image](/assets/infographics/TPS_IMG_MasterLexicon.jpg)
+
 **SUBJECT:** PROTOCOL CONVERTER (Legacy Code -> TPS Architecture)
 
 **PURPOSE:** The "Rosetta Stone" for the White Hat Hacker
