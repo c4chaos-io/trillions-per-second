@@ -78,7 +78,8 @@ We call it **The Flux**. Reality is a data stream. It’s not solid. It renders 
 | **The System Pulse** | *Udayabbaya* | Haptic Feedback. The sensation of the rendering engine systematically "blinking" on (Expansion) and off (Contraction). |
 | **The Refresh Rate (TPS)** | *Khana* | Trillions Per Second (TPS). The Clock Speed at which the Flux renders. Reality is not solid; it is a fluid stream of 3D data packets refreshing at a finite frame rate. |
 | **The Frame** | *Citta* | The Refresh Event. A discrete moment of cognizance. The system flashes distinct frames to create the illusion of continuous motion. |
-| **The Voxel** | *Kalapa* | The 3D Data Packet. The smallest irreducible unit of sensation (Volumetric Pixel) containing the 8-fold data payload. |
+| **The Voxel** | *Kalapa* | The 3D Data Packet. The smallest irreducible unit of reality (Volumetric Pixel). Heroic Dose Note: Under high-voltage observation (psychedelics/jhana), these are seen not as atoms, but as holographic artifacts—pure consciousness vibrating into form ("The Dream") rather than solid matter. |
+ | **Matter** | *Rupa* (Form) | **High-Density Voxels.** The illusion of solidity created when data packets cluster and refresh at maximum frequency. It is not "physical stuff"; it is Hard Light designed to trigger the Avatar's **collision detection** (Resistance). |
 | **The Payload** | *Cetasika* | **Malware Signatures**. The specific sub-processes or "flavors" of the data (e.g., Anxiety.exe, Compassion.dmg) loaded into the Voxel. |
 | **Input Ports** | *Salayatana* | I/O Interface. The 6 hardware interfaces (Eye, Ear, Nose, Tongue, Body, Mind) where Voxels enter the system. |
 | **The GUI** | *Pannatti* | Desktop Icons. Concepts created by the brain to mask the Flux. |
