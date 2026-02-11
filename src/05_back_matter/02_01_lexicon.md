@@ -133,7 +133,7 @@ We stripped it down to physics and axioms.
 | TPS Axiom | Legacy Code (Truths) | System Definition (Functionality) |
 | :--- | :--- | :--- |
 | **Axiom 1: Latency** | *Dukkha* | The friction (Lag) created by the hardware's inability to process The Flux in real-time. |
-| **Axiom 2: Resource Hog** | *Samudaya* | The Self Rootkit—the unauthorized Admin process running the Resource Hog. |
+| **Axiom 2: Resource Hog** | *Samudaya* | **The Cause.** The **Self Rootkit** executes the infinite loop (Craving) that attempts to "pause" the Flux, causing System Overheat. |
 | **Axiom 3: Zero Lag** | *Nirodha* | The fact that the code can run without buffering (Cessation). |
 | **Axiom 4: The Protocol** | *Magga* | The "How-To" manual used to install the patch. |
 
