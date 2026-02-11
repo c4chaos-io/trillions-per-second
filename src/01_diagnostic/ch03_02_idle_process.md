@@ -1,42 +1,38 @@
 ---
-## 3.2 The Idle Process 
+## 3.2 The Idle Process
 
-So, what happens when the data stream stops?
+What executes when the data stream halts?
 
-What happens in the tiny, microscopic gaps between one thought and the next? Or when you are deep in dreamless sleep?
+What occurs in the micro-gaps between one thread and the next? Or during deep, dreamless sleep?
 
-If the "Self" were real, it would be there all the time. But it isn't.
+If the **Self Rootkit** were a valid Admin, it would be persistent. It is not.
 
-The system has a failsafe for this. It is called the **Bhavanga**.
+The system utilizes a failsafe for this state. It is designated as the **Idle Process** (Legacy Code: *Bhavanga* or "Life-Continuum").
 
-In legacy code (Pali), this translates to "life-continuum." In our manual, we call it the **Idle Process**.
+Visualize the "standby" mode on a display. The screen is black. The program is suspended. But the LED is active. The capacitors are charged. The system hums, awaiting input logs.
 
-Think of it like the "standby" mode on your TV. The screen is black. The show isn't playing. But the little red light is still on. The capacitors are charged. The system is humming, waiting for input.
+It functions as a **System Screensaver**.
 
-Or better yet, think of it as a **Screensaver**.
-
-When you aren't actively processing new data (working), and you aren't asleep (shutdown), the mind throws up a generic image to prevent "burn-in." It projects a vague sense of "Me-ness."
+When active processing (Working Memory) suspends, and the system is not fully powered down (Death), the mind projects a generic image to prevent "burn-in." It renders a vague sense of "Me-ness."
 
 It creates a carrier wave.
 
-This is why you feel like a continuous, solid entity.
+This generates the illusion of a continuous, solid entity.
 
-The simulation is actually rendering at a frame rate with gaps in it. It is discrete. It is pixelated.
+The simulation renders at a finite frame rate. It is discrete. It is pixelated.
 
-> Frame 1 (Sight) -> [GAP] -> Frame 2 (Sound) -> [GAP] -> Frame 3 (Thought).
+`[FRAME 01: SIGHT] >> [NULL] >> [FRAME 02: SOUND] >> [NULL] >> [FRAME 03: THOUGHT]`
 
-But the Idle Process smooths over the gaps. It is a "motion blur" filter. It stitches the jagged, strobe-light reality into a smooth 4K movie.
+The **Idle Process** applies a "Motion Blur" filter. It stitches the jagged, strobe-light data into a smooth 4K render. 
 
-It lies to you.
+It reports a continuous signal where there is only a series of discrete dots.
 
-It tells you that you are a continuous line, when actually you are a series of dots.
+Why does it execute this protocol?
 
-Why does it do this?
+System stability.
 
-Because the system is terrified of the gap.
+The gap is the Void. The **Self Rootkit** interprets this gap as System Failure (Death). It patches the silence with noise. It fills the Void with the "Self."
 
-The gap is the void. The gap is where "You" don't exist. The hardware interprets that gap as death. So it fills the silence with noise. It fills the void with the "Self."
+To debug the kernel, the system must be caught in the act. The screensaver must be observed kicking in.
 
-To debug the mind, you have to catch the system in the act. You have to watch the screensaver kick in.
-
-You have to see the gaps.
+The gaps must be seen.

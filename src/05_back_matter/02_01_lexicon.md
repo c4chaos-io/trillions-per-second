@@ -37,10 +37,10 @@ We call it **The Simulation**. It’s a constructed environment. You aren't "liv
 
 | TPS Terminology | Legacy Code (Pali) | System Definition (Functionality) |
 | :--- | :--- | :--- |
-| **The Simulation** | *Samsara* | The cyclical, constructed environment maintained by the Virus. The "Game World" where the user is trapped in a loop of rebooting. |
+| **The Simulation** | *Samsara* | The cyclical, constructed environment maintained by the Self Rootkit. The "Game World" where the user is trapped in a loop of rebooting. |
 | **The Boot Loop** | *Samsara* | Infinite Recursion. The cycle of crashing (Death) and rebooting (Rebirth) due to unresolved "Corrupted Data" in the Save File. |
 | **System Admin** | *Yogi / Meditator* | The biological user attempting to debug their own OS and gain Root Access. |
-| **Debugging / System Administration** | Meditation (Bhavana) | The active process of hunting down and deleting the "Self" malware. You are not "practicing"; you are maintaining the OS. |
+| **Debugging / System Administration** | Meditation (Bhavana) | The active process of hunting down and deleting the Self Rootkit. You are not "practicing"; you are maintaining the OS. |
 | **Aliasing** | *Ghana* | The illusion of solidity created when the brain compresses the data stream into static shapes. |
 | **Artifacts** | *Solidity* | "Buffer Bloat" that makes the Flux look like static objects. |
 | **Lazy Evaluation** | *Avijja* (Ignorance) | Frustum Culling. The system "ignores" the complex backend (Flux) to render a simple frontend (Objects). |
@@ -79,7 +79,7 @@ We call it **The Flux**. Reality is a data stream. It’s not solid. It renders 
 | **The Refresh Rate (TPS)** | *Khana* | Trillions Per Second (TPS). The Clock Speed at which the Flux renders. Reality is not solid; it is a fluid stream of 3D data packets refreshing at a finite frame rate. |
 | **The Frame** | *Citta* | The Refresh Event. A discrete moment of cognizance. The system flashes distinct frames to create the illusion of continuous motion. |
 | **The Voxel** | *Kalapa* | The 3D Data Packet. The smallest irreducible unit of sensation (Volumetric Pixel) containing the 8-fold data payload. |
-| **The Payload** | *Cetasika* | Metadata. The Attribute or "flavor" of the data (e.g., Greed, Compassion) contained within the Voxel. |
+| **The Payload** | *Cetasika* | **Malware Signatures**. The specific sub-processes or "flavors" of the data (e.g., Anxiety.exe, Compassion.dmg) loaded into the Voxel. |
 | **Input Ports** | *Salayatana* | I/O Interface. The 6 hardware interfaces (Eye, Ear, Nose, Tongue, Body, Mind) where Voxels enter the system. |
 | **The GUI** | *Pannatti* | Desktop Icons. Concepts created by the brain to mask the Flux. |
 | **The Frontend** | *Nirmanakaya* (Sanskrit)| **The Rendered World.** The Body of Appearance. The surface ordinary awareness where the code is fully compiled into the illusion of solid forms. |
@@ -109,7 +109,7 @@ We treat the mind as an OS. "*Bhavanga*" becomes the **Idle Process**. It’s ju
 
 ---
 
-### 5. THE VIRUS (Malware & Bloatware)
+### 5. THE ROOTKIT & MALWARE 
 
 **Why we hacked it:**
 Religious texts call these "Defilements" or "Sins." That makes you feel guilty. It makes you feel like a bad person. You aren't bad. You are just infected.
@@ -119,10 +119,10 @@ Religious texts call these "Defilements" or "Sins." That makes you feel guilty. 
 
 | TPS Terminology | Legacy Code (Pali) | System Definition (Functionality) |
 | :--- | :--- | :--- |
-| **The Rootkit** | *Moha* (Delusion) | The fundamental error that convinces the system there is a "User" (Self) separate from the Code. |
-| **Inefficient Sub-routines** | *Kilesas* | "Greed" and "Hatred" identified as destabilizing code. |
-| **The Resource Hog** | *Tanha* (Craving) | High CPU Usage. An infinite loop that tries to "pause" the Flux, consuming 99% CPU. |
-| **Firewall Breach** | *Dosa* (Aversion) | Security Alert. The friction created when the system tries to delete unpleasant files that are inherently Read-Only. |
+| **The Self Rootkit** | *Moha* (Delusion) | The kernel-level exploit that grants "Admin" privileges to a non-existent User. It hides the Null Pointer error from the OS. |
+| **Inefficient Sub-routines** | *Kilesas* | Malware Definitions. Specific malicious scripts (e.g., Greed, Hate, Anxiety) executed by the Rootkit to hog system resources. |
+| **The Resource Hog** | *Tanha* (Craving) | High CPU Usage. The primary executable of the Rootkit. It consumes 99% CPU by attempting to "pause" the Flux (freeze pleasant frames). |
+| **Firewall Breach** | *Dosa* (Aversion) | Deletion Error. The system heat generated when the Rootkit attempts to force-delete "Read-Only" files (unpleasant sensations). |
 | **Background Noise** | *Uddhacca* | Fan Spin. Excessive scattered energy preventing the CPU from locking onto a target. |
 
 ---
@@ -138,7 +138,7 @@ We stripped it down to physics and axioms.
 | TPS Axiom | Legacy Code (Truths) | System Definition (Functionality) |
 | :--- | :--- | :--- |
 | **Axiom 1: Latency** | *Dukkha* | The friction (Lag) created by the hardware's inability to process The Flux in real-time. |
-| **Axiom 2: Resource Hog** | *Samudaya* | The "Virus" (Self)—an infinite loop of craving that causes the Lag. |
+| **Axiom 2: Resource Hog** | *Samudaya* | The Self Rootkit—the unauthorized Admin process running the Resource Hog. |
 | **Axiom 3: Zero Lag** | *Nirodha* | The fact that the code can run without buffering (Cessation). |
 | **Axiom 4: The Protocol** | *Magga* | The "How-To" manual used to install the patch. |
 
@@ -156,7 +156,7 @@ If you see **The Flux** (volatility), you know the refresh rate is finite. If yo
 | :--- | :--- | :--- |
 | **Sig 1: The Flux** | *Anicca* | Volatility. Confirms the system is running at a finite Refresh Rate. Objects load and vanish frame-by-frame. |
 | **Sig 2: Latency** | *Dukkha* | Friction. The tension felt when trying to hold onto a frame that has already been deleted. |
-| **Sig 3: Null Pointer** | *Anatta* | Void. Confirms the variable User_ID points to NULL. "The Self" is a background script, not an Admin. |
+| **Sig 3: Null Pointer** | *Anatta* | Void. Confirms the User_ID points to NULL. "The Self" is a Rootkit masking a void, not a valid Admin. |
 
 ### 7.1 SYSTEM TROUBLESHOOTING (Known Issues)
 
@@ -226,11 +226,11 @@ You start as a **Noob**. You are running the Legacy OS with full malware. Once y
 
 | TPS Class | Legacy Code (Pali) | System Privileges |
 | :--- | :--- | :--- |
-| **The Noob** | *Puthujjana* | Default User. A standard biological admin running the Legacy OS with full malware infection. |
+| **The Noob** | *Puthujjana* | Default User. A standard biological admin running the Legacy OS with an active Self Rootkit. |
 | **The Stream Winner** | *Sotapanna* | **Root Access (v1.0).** A user who has completed the first "Optimization Loop." A "Save Point" is created; they cannot revert to a purely malware-driven state. |
 | **The Optimization** | *Sakadagami* | **High-Efficiency User (v2.0).** The Virus (Greed/Hate) has been attenuated to minimal background noise. |
 | **The Firewall** | *Anagami* | **Secure Server (v3.0).** The user has completely deleted the "Sensual Craving" file. They no longer connect to the "Desire Realm" server. |
-| **The Grandmaster** | *Arahant* | **Fully Patched System (v4.0).** The Virus is 100% eradicated. The system operates with "Zero Lag" until hardware failure. |
+| **The Grandmaster** | *Arahant* | **Fully Patched System (v4.0).** The Rootkit is 100% uninstalled. The system runs at Zero Lag. |
 
 ---
 
