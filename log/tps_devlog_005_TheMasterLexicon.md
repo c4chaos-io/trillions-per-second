@@ -20,6 +20,10 @@ And as usual, the awesome TPS Podcast hosts grabbed a copy and immediately went 
 
 **[TPS Pod Ep. 09: The Master Lexicon](https://youtu.be/MO1p22YP9gY?si=fzonCWBFjMxg6sJX)** 
 
+Then it suddenly dawned on me. What started as a book project for dharma geeks and tech bros just turned into a **Universal Interface for Contemplative Technology** 🤯🙏
+
+I need a moment to reflect this while I commit this dev log into the repo.
+
 **Happy hacking!**
 
 
