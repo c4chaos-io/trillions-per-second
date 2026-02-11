@@ -57,7 +57,7 @@
     * **[2.2 The GUI:](src/01_diagnostic/ch02_02_gui.md)** Pannatti (Concepts vs. Reality).
     * **[2.3 The Algorithm:](src/01_diagnostic/ch02_03_algorithm.md)** Karma as Conditional Logic (IF/THEN).
     * **[📍 CHECKPOINT 2: SPOTTING THE LAG](src/01_diagnostic/ch02_04_checkpoint02.md)** Realizing "The Self" is a loading icon.
-* **[CHAPTER 3: THE ROOTKIT (THE SELF-OPTIMIZATION EXPLOIT)](src/01_diagnostic/ch03_00_rootkit.md)**
+* **[CHAPTER 3: THE SELF ROOTKIT](src/01_diagnostic/ch03_00_rootkit.md)**
     * **[The Infinite Loop:](src/01_diagnostic/ch03_01_infinite_loop.md)** The recursive nature of "The Self" as malware.
     * **[The Idle Process:](src/01_diagnostic/ch03_02_idle_process.md)** Bhavanga (Standby Mode).
 
