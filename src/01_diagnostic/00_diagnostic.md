@@ -1,6 +1,6 @@
 # PART 1: THE DIAGNOSTIC (System Analysis)
 
-**System Focus:** Deconstructing the Physics Engine and identifying the Virus.
+**System Focus:** Deconstructing the Physics Engine and identifying the malware.
 **Addressing Axioms:** System Latency & The Resource Hog.
 
 ---

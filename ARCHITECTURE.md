@@ -43,7 +43,7 @@
 ---
 
 ## PART 1: THE DIAGNOSTIC (System Analysis)
-**[System Focus:](src/01_diagnostic/00_diagnostic.md)** Deconstructing the Physics Engine and identifying the Virus. (Addressing Axioms 1 & 2: Latency & The Resource Hog)
+**[System Focus:](src/01_diagnostic/00_diagnostic.md)** Deconstructing the Physics Engine and identifying the malware. (Addressing Axioms 1 & 2: Latency & The Resource Hog)
 
 * **[System Roadmap:](src/01_diagnostic/ch00_system_roadmap.md)** The Installation Wizard (Map of Insight)
 * **[CHAPTER 1: THE PHYSICS ENGINE](src/01_diagnostic/ch01_00_physics_engine.md)**
