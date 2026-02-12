@@ -35,36 +35,36 @@
 * **[System Dependencies (The Stack):](src/00_introduction/02_system_dependecies.md)** The Prime User / The Protocol / The P2P Network 
 * **[System Warning: EULA:](src/00_introduction/03_EULA.md)** "WARNING: This manual involves Root Access... 
 * **[Lineage Acknowledgement:](src/00_introduction/04_lineage.md)** Honoring the Open Source Contributors 
-* **[The Kernel Specs (The Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Self) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
+* **[The Kernel Specs (The Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Cause) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
 * **[Meta-Structure:](src/00_introduction/06_meta_structure.md)** Fractal Architecture of the Axioms
 * **[User Role:](src/00_introduction/07_user_role.md)** The White Hat Operator
 * **[System Configuration:](src/00_introduction/08_system_configuration.md)** The Rosetta Stone
 
 ---
 
-## PART 1: THE DIAGNOSTIC (System Analysis)
-**[System Focus:](src/01_diagnostic/00_diagnostic.md)** Deconstructing the Physics Engine and identifying the malware. (Addressing Axioms 1 & 2: Latency & The Resource Hog)
+## [PART 1: THE DIAGNOSTIC (System Analysis)](src/01_diagnostic/00_diagnostic.md)
+Deconstructing the Physics Engine and identifying the malware. (Addressing Axioms 1 & 2: Latency & The Resource Hog)
 
-* **[System Roadmap:](src/01_diagnostic/ch00_system_roadmap.md)** The Installation Wizard (Map of Insight)
+* **[System Roadmap: The Installation Wizard](src/01_diagnostic/ch00_system_roadmap.md)**
 * **[CHAPTER 1: THE PHYSICS ENGINE](src/01_diagnostic/ch01_00_physics_engine.md)**
-    * **[1.1 System Specs:](src/01_diagnostic/ch01_01_system_specs.md)** Voxels (Kalapas) / Refresh Rate (Khana)
-    * **[1.2 Hardware Specs:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports (Salayatana) 
-    * **[1.3 Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux (Anicca), System Latency (Dukkha), The Null Pointer (Anatta)
+    * **[1.1 System Specs:](src/01_diagnostic/ch01_01_system_specs.md)** Voxels / Refresh Rate 
+    * **[1.2 Hardware Specs:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports  
+    * **[1.3 Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux, System Latency, The Null Pointer
     * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** A Note on Dilution
-    * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects.
+    * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects
 * **[CHAPTER 2: THE RENDER ENGINE](src/01_diagnostic/ch02_00_render_engine.md)**
-    * **[2.1 The Data Handshake:](src/01_diagnostic/ch02_01_data_handshake.md)** Phassa (Contact).
-    * **[2.2 The GUI:](src/01_diagnostic/ch02_02_gui.md)** Pannatti (Concepts vs. Reality).
-    * **[2.3 The Algorithm:](src/01_diagnostic/ch02_03_algorithm.md)** Karma as Conditional Logic (IF/THEN).
-    * **[📍 CHECKPOINT 2: SPOTTING THE LAG](src/01_diagnostic/ch02_04_checkpoint02.md)** Realizing "The Self" is a loading icon.
+    * **[2.1 The Data Handshake:](src/01_diagnostic/ch02_01_data_handshake.md)** 
+    * **[2.2 The GUI:](src/01_diagnostic/ch02_02_gui.md)** Concepts vs. Reality
+    * **[2.3 The Algorithm:](src/01_diagnostic/ch02_03_algorithm.md)** Karma as Conditional Logic (IF/THEN)
+    * **[📍 CHECKPOINT 2: SPOTTING THE LAG](src/01_diagnostic/ch02_04_checkpoint02.md)** Realizing "The Self" is a loading icon
 * **[CHAPTER 3: THE SELF ROOTKIT](src/01_diagnostic/ch03_00_rootkit.md)**
     * **[The Infinite Loop:](src/01_diagnostic/ch03_01_infinite_loop.md)** The recursive nature of "The Self" as malware.
-    * **[The Idle Process:](src/01_diagnostic/ch03_02_idle_process.md)** Bhavanga (Standby Mode).
+    * **[The Idle Process:](src/01_diagnostic/ch03_02_idle_process.md)** 
 
 ---
 
-## PART 2: THE CODE (Execution)
-*Focus: The "How-To" Manual for the Hack.*
+## [PART 2: THE CODE (Execution)](src/02_code/00_code.md)
+The How-To Manual for the hack. It is the specific set of instructions required to gain **Root Access**.
 
 * **Chapter 4: The Firewall (Sila & Ethics)**
     * **User Permissions:** White Hat (Compassion) vs. Black Hat (Power).
@@ -74,9 +74,9 @@
     * **Staging Environment:** Warning against "Black Hat" traps (Siddhis/Powers).
     * **📍 CHECKPOINT 3: THE OVERCLOCK.** High energy, lucid dreams, "God Mode".
 * **Chapter 6: The Toolkit (System Utilities)**
-    * **Tool 1:** Rapid Noting (The Logger).
-    * **Tool 2:** Feel the Vibration (Haptic Feedback).
-    * **Tool 3:** Gone (Gone, Gone).
+    * **Tool 1: Rapid Noting (The Logger)**
+    * **Tool 2: Feel the Vibration (Haptic Feedback)**
+    * **Tool 3: Gone (Gone, Gone)**
     * **📍 CHECKPOINT 4: THE DEFRAG (System Instability).** The "Dark Night" data purge.
 
 ---

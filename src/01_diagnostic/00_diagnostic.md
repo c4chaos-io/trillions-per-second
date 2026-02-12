@@ -27,17 +27,20 @@ Grab your flashlight. We are going in.
 
 This is your map of the territory. It guides you through the theory (The Chapters) and forces you to stop and verify your progress at specific markers (**Checkpoints**). You cannot proceed to the next level until you pass the test.
 
-### Chapter 1: The Physics Engine
+### CHAPTER 1: THE PHYSICS ENGINE
+
 We look at the hardware specs. We break experience down into pixels (**Voxels**) and refresh rates.
 
-**📍 CHECKPOINT 1: Stream Analysis** - You will verify you can see the raw data stream.
+**📍 CHECKPOINT 1: STREAM ANALYSIS** - You will verify you can see the raw data stream.
 
-### Chapter 2: The Render Engine
+### CHAPTER 2: THE RENDER ENGINE
+
 We analyze how the system lies to you. We separate the raw input from the "concept" overlay.
 
-**📍 CHECKPOINT 2: Spotting the Lag** - You will test your ability to spot the lag between reality and your thoughts.
+**📍 CHECKPOINT 2: SPOTTING THE LAG** - You will test your ability to spot the lag between reality and your thoughts.
 
-### Chapter 3: The Self Rootkit
+### CHAPTER 3: THE SELF ROOTKIT
+
 We isolate the "Self" malware and watch how it infects the data stream with an infinite loop.
 
 #### Let’s run the scan.

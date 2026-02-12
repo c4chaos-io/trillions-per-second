@@ -9,7 +9,7 @@ This manual is built on the specific "Open Source" branch of the protocol known 
 
 **Contribution:** *The Visuddhimagga (The Path of Purification)* / The Legacy Manual
 
-Before we run the modern scripts, we have to respect the original documentation. In the 5th century, a developer named Buddhaghosa took the Prime User's scattered patch notes and compiled them into a massive system manual called the Visuddhimagga.
+Before we run the modern scripts, we have to respect the original documentation. In the 5th century, a developer named Buddhaghosa took the Prime User's scattered patch notes and compiled them into a massive system manual called the *Visuddhimagga*.
 Think of this text as the "Linux Kernel Archives" of our practice. It is dense. It is technical. It covers every edge case in the system. While the language is dated, the architecture is flawless. The chapters ahead rely heavily on the system map he preserved. We are simply refactoring his source code for modern hardware.
 
 ### U Ba Khin (The Clock Speed Optimizer)
@@ -22,7 +22,7 @@ In the mid-20th century U Ba Khin realized that modern users didn't have decades
   
 **Contribution:** *The Progress of Insight (16 Stages)*   
   
-If you are going to explore deep operating systems, you need a map. Mahasi Sayadaw provided the most detailed diagnostic manual available. He broke down the "User Experience" of the path into 16 distinct stages of insight, allowing users to track their progress from the first data packet to the final reboot. His "Noting" technique is the primary logging tool we will use in this book.  
+If you are going to explore deep operating systems, you need a map. Mahasi Sayadaw provided the most detailed diagnostic manual available. He broke down the "User Experience" of the path into 16 distinct *Stages of Insight*, allowing users to track their progress from the first data packet to the final reboot. His "Noting" technique is the primary logging tool we will use in this book.  
   
 ### S.N. Goenka (The Hardware Scanner)  
   
@@ -34,7 +34,7 @@ A student of U Ba Khin, Goenka scaled the protocol for global enterprise deploym
   
 **Contribution:** *Mastering the Core Teachings of the Buddha* / The Hardcore Dharma Movement   
   
-For a long time, the advanced features of the system were hidden behind NDAs and secrecy. Daniel Ingram leaked the dev notes. He founded the "Hardcore Dharma" movement (also known as Pragmatic Dharma) by openly discussing high-level attainments and demanding transparency in the community. He proved that "God Mode" (Arhatship) is technically possible for modern people if they follow the instructions precisely.  
+For a long time, the advanced features of the system were hidden behind NDAs and secrecy. Daniel Ingram leaked the dev notes. He founded the "Hardcore Dharma" movement (also known as Pragmatic Dharma) by openly discussing high-level attainments and demanding transparency in the community. He proved that "God Mode" (*Arhatship*) is technically possible for modern people if they follow the instructions precisely.  
   
 ### Shinzen Young (The Science Liaison)  
   

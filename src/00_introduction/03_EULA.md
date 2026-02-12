@@ -31,7 +31,7 @@ You will be doing this work while you argue with your boss. You will do it while
 
 You are going to feel every single glitch as you delete it.
 
-> This manual involves Root Access. Debugging the mind can cause temporary System Instability. Do not execute if unprepared.
+> This manual involves **Root Access**. Debugging the mind can cause temporary **System Instability**. Do not execute if unprepared.
 
 ---
 
@@ -62,7 +62,7 @@ You need backup. You need the P2P Network.
 
 This is not proprietary software.
 
-The Prime User wasn't the only one who worked on this project. Over the centuries, thousands of developers have maintained the code. They optimized the algorithms. They kept the servers running.
+**The Prime User** wasn't the only one who worked on this project. Over the centuries, thousands of developers have maintained the code. They optimized the algorithms. They kept the servers running.
 
 Before we boot up the kernel, we need to credit the Open Source Contributors. Specifically, we look to the "Clock Speed Optimizers" and "Map Makers" who refined the techniques we are about to use.
 

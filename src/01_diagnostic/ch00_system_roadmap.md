@@ -15,10 +15,10 @@ So, I have compressed the 16 stages into a modern "User Experience" map. We are 
 
 Here are the **6 Checkpoints** you will hit during the installation process for **v1.0 (Stream Entry)**.
 
-**System Note:** This map is recursive. In the "Hardcore Dharma" protocol, these are known as *Cycles of Insight*. You will run this script multiple times (upgrading from v1.0 to v4.0) until the system reaches a permanent Stable State.
+> **System Note:** This map is recursive. In the "Hardcore Dharma" protocol, these are known as *Cycles of Insight*. You will run this script multiple times (upgrading from v1.0 to v4.0) until the system reaches a permanent **Stable State**.
 
 ### 📍CHECKPOINT 1: STREAM ANALYSIS (The Matrix Code)
-**Legacy Term:** Nama-Rupa Pariccheda (Mind & Matter)
+**Legacy Term:** *Nama-Rupa Pariccheda* (Mind & Matter)
 
 This is the moment the monitor flickers. You stop seeing "objects" and start seeing the data stream.
 * You look at your hand, and instead of a solid "hand," you notice a vibrating cloud of sensations.
@@ -26,7 +26,7 @@ This is the moment the monitor flickers. You stop seeing "objects" and start see
 * The solidity is a lie. The flux is real.
 
 ### 📍CHECKPOINT 2: SPOTTING THE LAG (The Loading Icon)
-**Legacy Term:** Paccaya Pariggaha (Cause & Effect)
+**Legacy Term:** *Paccaya Pariggaha* (Cause & Effect)
 
 Once you see the stream, you notice the buffer. You realize that **The Self Rootkit** is not the user. It is a background process. It is a loading icon that pops up after the data hits your senses.
 
@@ -35,14 +35,14 @@ Once you see the stream, you notice the buffer. You realize that **The Self Root
 * You realize the "I" is just system latency.
 
 ### 📍CHECKPOINT 3: THE OVERCLOCK (God Mode)
-**Legacy Term:** Udayabbaya (Arising & Passing Away)
+**Legacy Term:** *Udayabbaya* (Arising & Passing Away)
 
 This is the fun part. Your system syncs up with the refresh rate of reality. You have tons of energy. Your dreams become lucid. You might feel like you can read minds or see the future.
 
-**Warning:** Do not let this crash your build. These are just "Developer Tools". Enjoy the high frame rate, but do not stop here. If you cling to this state, you are just playing with the screensaver.
+> **Warning:** Do not let this crash your build. These are just **Developer Tools**. Enjoy the high frame rate, but do not stop here. If you cling to this state, you are just playing with the screensaver.
 
 ### 📍CHECKPOINT 4: THE DEFRAG (System Instability)
-**Legacy Term:** Bhanga (Dissolution) & The Dukkha Nanas (The Dark Night)
+**Legacy Term:** *Bhanga* (Dissolution) & *The Dukkha Nanas* (The Dark Night)
 
 This is where most people uninstall. The Overclock ends. The screen goes dark. The system begins a deep purge of old, corrupted files.
 
@@ -51,7 +51,7 @@ This is where most people uninstall. The Overclock ends. The screen goes dark. T
 * Keep logging.
 
 ### 📍CHECKPOINT 5: ZERO LAG (Flow State)
-**Legacy Term:** Sankhara Upekkha (Equanimity)
+**Legacy Term:** *Sankhara Upekkha* (Equanimity)
 
 The fans spin down. The system runs silent. You are no longer fighting the data stream; you are surfing it. **The Self Rootkit** is still there, but it's running in a minimized window. You accept whatever happens—pain, pleasure, noise, silence—without buffering. This is the definition of "Cool."
 
@@ -102,6 +102,12 @@ For the developers in the audience who want to see exactly how we are refactorin
 
 ## Note on Deployment
 
-Do not stress about memorizing this changelog right now. We are going to hit these checkpoints in real-time. As we progress through the manual, I will flag exactly which stage you are currently debugging. I will tell you when to look for the "Stream Analysis" and how to survive "The Defrag." For now, just know the route exists.
+Do not stress about memorizing this changelog right now. We are going to hit these checkpoints in real-time. As we progress through the manual, I will flag exactly which stage you are currently debugging. I will tell you when to look for the **Stream Analysis** and how to survive **The Defrag**. For now, just know the route exists.
 
-That is the roadmap. Now put it away. You cannot navigate the territory by staring at the map. You have to look at the ground. To run this update, you need to understand the machine you are operating. We need to pop the hood and look at the specs. It is time to inspect your hardware.
+That is the roadmap. Now put it away. 
+
+You cannot navigate the territory by staring at the map. You have to look at the ground. 
+
+To run this update, you need to understand the machine you are operating. We need to pop the hood and look at the specs. 
+
+It is time to inspect the simulation and your hardware.
