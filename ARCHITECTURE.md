@@ -111,7 +111,7 @@
 **Directory:** `/src/back_matter/`
 
 * **[AFTERWORD](src/05_back_matter/01_afterword.md)** - *"I prompted it into existence!"*
-* **[APPENDIX A: The Master System Lexicon (v2.6)](src/05_back_matter/02_01_lexicon.md)**
+* **[APPENDIX A: The Master System Lexicon](src/05_back_matter/02_01_lexicon.md)**
 * **[APPENDIX B: Deep Dive on Voxels of Experience](src/05_back_matter/02_02_voxels.md)**
 * **[APPENDIX C: Server-Side Architecture (Read Only)](src/05_back_matter/02_03_server_side_architecture.md)**
 * **[APPENDIX D: The Silicon Sutra (AI Alignment Protocol)](src/05_back_matter/02_04_ai_alignment_protocol.md)**

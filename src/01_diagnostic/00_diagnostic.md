@@ -1,12 +1,11 @@
 # PART 1: THE DIAGNOSTIC (System Analysis)
 
-## *System Focus: Deconstructing the Physics Engine and identifying the Virus.*
+**System Focus:** Deconstructing the Physics Engine and identifying the Virus.
+**Addressing Axioms:** System Latency & The Resource Hog.
 
-## *Addressing Axioms: System Latency & The Resource Hog.*
+---
 
-***
-
-Welcome to the machine room.
+### Welcome to the machine room.
 
 Before we can start rewriting code or patching glitches, we have to understand what we are dealing with. You cannot hack a system you do not understand. If you try to gain root access without knowing the architecture, you will just crash the server.
 
@@ -26,21 +25,19 @@ Grab your flashlight. We are going in.
 
 ### System Roadmap: The Installation Wizard
 
-This is your map of the territory. It guides you through the theory (The Chapters) and forces you to stop and verify your progress at specific markers (The Checkpoints). You cannot proceed to the next level until you pass the test.
+This is your map of the territory. It guides you through the theory (The Chapters) and forces you to stop and verify your progress at specific markers (**Checkpoints**). You cannot proceed to the next level until you pass the test.
 
 ### Chapter 1: The Physics Engine
-We look at the hardware specs. We break experience down into pixels (Voxels) and refresh rates.
+We look at the hardware specs. We break experience down into pixels (**Voxels**) and refresh rates.
 
-#### 📍CHECKPOINT 1: Stream Analysis
-You will verify you can see the raw data stream.
+**📍 CHECKPOINT 1: Stream Analysis** - You will verify you can see the raw data stream.
 
 ### Chapter 2: The Render Engine
 We analyze how the system lies to you. We separate the raw input from the "concept" overlay.
 
-#### 📍CHECKPOINT 2: Spotting the Lag
-You will test your ability to spot the lag between reality and your thoughts.
+**📍 CHECKPOINT 2: Spotting the Lag** - You will test your ability to spot the lag between reality and your thoughts.
 
-### Chapter 3: The Rootkit
+### Chapter 3: The Self Rootkit
 We isolate the "Self" malware and watch how it infects the data stream with an infinite loop.
 
-Let’s run the scan.
+#### Let’s run the scan.
