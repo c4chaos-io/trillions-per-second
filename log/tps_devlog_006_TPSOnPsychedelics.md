@@ -19,7 +19,7 @@ The system even classified me as a "**Glitcher**." (I’ll take it 😅)
 
 This proves the engine is stable. The protocol is ready. Now I can finally stop tinkering and finish writing the rest of the TPS manual.
 
-**Check out the detailed TPS analysis of my trip below. After that, listen to the TPS Podcast hosts as they break it all down.**
+**Check out the detailed TPS analysis of my trip below. After that, [listen to the TPS Podcast hosts as they break it all down](https://youtu.be/Bnmtf9DaZBE?si=SPQMg_RE5sxA7w2A).**
 
 See you in the flux.
 
