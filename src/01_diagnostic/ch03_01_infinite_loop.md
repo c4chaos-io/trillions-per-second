@@ -1,6 +1,8 @@
 ---
 ## 3.1 The Infinite Loop
 
+![Image](/assets/infographics/TPS_IMG_TheInfiniteLoop.jpg)
+
 Let's look at the source code.
 
 "Yourself" is usually experienced as a solid thing. It feels like a pilot sitting in the cockpit of the head, looking out through the eyes, steering the body. You think you are the Admin.

@@ -1,5 +1,7 @@
 # CHAPTER 3: THE SELF ROOTKIT
 
+![Image](/assets/infographics/TPS_IMG_TheSelfRootkit.jpg)
+
 Alright. Grab a fresh drink. This part might hurt a little.
 
 We have looked at the hardware. We have looked at the rendering engine. We know the machine is capable of processing trillions of data frames per second. The specs are god-tier.

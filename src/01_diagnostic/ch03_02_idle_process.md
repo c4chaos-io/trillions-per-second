@@ -1,6 +1,8 @@
 ---
 ## 3.2 The Idle Process
 
+![Image](/assets/infographics/TPS_IMG_TheIdleProcess.jpg)
+
 What executes when the data stream halts?
 
 What occurs in the micro-gaps between one thread and the next? Or during deep, dreamless sleep?
