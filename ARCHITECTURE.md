@@ -50,7 +50,7 @@ Deconstructing the Physics Engine and identifying the malware. (Addressing Axiom
     * **[1.1 System Specs:](src/01_diagnostic/ch01_01_system_specs.md)** Voxels / Refresh Rate 
     * **[1.2 The Avatar: Hardware & Input Ports:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports  
     * **[1.3 Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux, System Latency, The Null Pointer
-    * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** A Note on Dilution
+    * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** The Map is Not the Territory
     * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects
 * **[CHAPTER 2: THE RENDER ENGINE](src/01_diagnostic/ch02_00_render_engine.md)**
     * **[2.1 The Data Handshake:](src/01_diagnostic/ch02_01_data_handshake.md)** The exact moment the "real world" comes online
