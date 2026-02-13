@@ -12,7 +12,7 @@ I am absolutely stripping this down. Why? Because the original documentation is 
 
 The Buddha was not a poet. He was a **Systems Architect**. He was the **Prime User**. He saw the source code of reality. But he had to explain recursive loops to people who only understood ox carts and seeds.
 
-He talked about "Earth" and "Water" because that was the best physics model available in 500 BC. If he were teaching today, he wouldn't talk about ox carts. He would talk about information theory.
+He talked about "Earth" and "Water" because that was the best physics model available in 500 BC. If he were teaching today, he wouldn't talk about ox carts. He would talk about Information Theory.
 
 ### THE WORKING HYPOTHESIS
 
@@ -22,7 +22,7 @@ We are using the **Simulation Hypothesis** as a **Map**.
 
 Why? Because it is a higher-resolution map.
 
-In the ancient manuals, the smallest unit of matter is called a *Kalapa*. It is defined as a tiny particle that arises and passes away billions of times per second.
+In the ancient manuals, the smallest unit of matter is called a *Kalapa*. It is defined as a tiny particle that arises and passes away trillion times per second.
 
 To a modern engineer, that is not a particle. That is a **Voxel**. That is a 3D pixel refreshing at a specific clock speed.
 
