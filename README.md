@@ -81,7 +81,7 @@ This project is distributed across four layers. Choose your interface:
 
 This is a "Passthrough" entity. We use the capitalist rail (book sales) to fund the optimization rail (Protocol research). 100% of royalties are assigned to:
 
-1.  [**EPRC (Emergent Phenomenology Research Consortium):**](https://theeprc.org/donations-friends/) Bringing high-dose **Debugging** into the clinical mainstream.
+1.  [**Emergence Benefactors:**](https://ebenefactors.org) An incorporated nonprofit 501(c)(3) tax-exempt charity organization supporting the science of emergence. **[Emergent Phenomenology Research Consortium (EPRC)](https://theeprc.org)** is supported through donations to Emergence Benefactors. 
 2.  [**Buddhist Geeks:**](https://www.buddhistgeeks.org/about) The **P2P Network**.
 3.  [**SEMA Lab (Shinzen Young):**](https://cbs.arizona.edu/news/visit-sema-lab-shinzen-young) The science of **System Optimization**.
 
