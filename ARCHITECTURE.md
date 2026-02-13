@@ -32,7 +32,7 @@
 ## INTRODUCTION
 
 * **[Waking Up in the Flux:](src/00_introduction/01_waking_up.md)** Personal account of sleep paralysis...
-* **[System Dependencies (The Stack):](src/00_introduction/02_system_dependecies.md)** The Prime User / The Protocol / The P2P Network 
+* **[System Dependencies (The Protocol Stack):](src/00_introduction/02_system_dependecies.md)** The Prime User / The Protocol / The P2P Network 
 * **[System Warning: EULA:](src/00_introduction/03_EULA.md)** "WARNING: This manual involves Root Access... 
 * **[Lineage Acknowledgement:](src/00_introduction/04_lineage.md)** Honoring the Open Source Contributors 
 * **[The Kernel Specs (The Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Cause) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
@@ -48,7 +48,7 @@ Deconstructing the Physics Engine and identifying the malware. (Addressing Axiom
 * **[System Roadmap: The Installation Wizard](src/01_diagnostic/ch00_system_roadmap.md)**
 * **[CHAPTER 1: THE PHYSICS ENGINE](src/01_diagnostic/ch01_00_physics_engine.md)**
     * **[1.1 System Specs:](src/01_diagnostic/ch01_01_system_specs.md)** Voxels / Refresh Rate 
-    * **[1.2 Hardware Specs:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports  
+    * **[1.2 The Avatar: Hardware & Input Ports:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports  
     * **[1.3 Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux, System Latency, The Null Pointer
     * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** A Note on Dilution
     * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects
@@ -76,7 +76,7 @@ The How-To Manual for the hack. It is the specific set of instructions required 
 * **Chapter 6: The Toolkit (System Utilities)**
     * **Tool 1: Rapid Noting (The Logger)**
     * **Tool 2: Feel the Vibration (Haptic Feedback)**
-    * **Tool 3: Gone (Gone, Gone)**
+    * **Tool 3: The Null Frame (Gone)**
     * **📍 CHECKPOINT 4: THE DEFRAG (System Instability).** The "Dark Night" data purge.
 
 ---

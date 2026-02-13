@@ -1,6 +1,6 @@
 # This file adds the "Sponsor" button to your repo
 github: # Leave empty
 custom: 
-  - "https://theeprc.org/donations-friends/" # Emergent Phenomenology Research Consortium (Official Giving Page)
+  - "https://ebenefactors.org" # Emergence Benefactors
   - "https://www.buddhistgeeks.org/about" # Buddhist Geeks (Substack)
   - "https://cbs.arizona.edu/news/visit-sema-lab-shinzen-young" # SEMA Lab / Neuroenhancement Lab (Shinzen Young)
