@@ -1,6 +1,6 @@
 ---
 
-## 1.4 The Hardcore Ethos: The Map is not the Territory
+## 1.4 The Hardcore Ethos: The Map is Not the Territory
 
 I can hear the purists screaming at the page.
 
