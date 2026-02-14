@@ -29,17 +29,17 @@ This buffering creates **Latency**. The friction experienced in life is simply t
 **Legacy Code:** *Samudaya* (Craving)
 **System Status:** Overheating
 
-Why is the system lagging? Because **The Self Rootkit** is running a background process consuming 99% of the CPU.
+Why is the system lagging? Because the **Self Rootkit** is running a background process consuming 99% of the CPU.
 
 This executable is **The Resource Hog**.
 
 It is a recursive loop that attempts to "pause" **The Flux**. It tries to freeze pleasant moments and delete unpleasant ones.
 
-This prevents the system from running auto-scheduled Garbage Collection. Instead of purging old cache files like past traumas, grudges, and outdated narratives,  **The Self Rootkit** locks them into active RAM. This causes a massive **Memory Leak**. Processing power is lost to background processes that should have been terminated years ago.
+This prevents the system from running auto-scheduled Garbage Collection. Instead of purging old cache files like past traumas, grudges, and outdated narratives,  the **Self Rootkit** locks them into active RAM. This causes a massive **Memory Leak**. Processing power is lost to background processes that should have been terminated years ago.
 
 But the data stream cannot be paused.
 
-The system overheats. It is an attempt to run a static file structure on a streaming environment. The "Self" is not the User. It is **The Self Rootkit** that assumes it is the Admin.
+The system overheats. It is an attempt to run a static file structure on a streaming environment. The "Self" is not the User. It is the **Self Rootkit** that assumes it is the Admin.
 
 ### AXIOM 3: ZERO LAG (The Fix)
 
@@ -52,7 +52,7 @@ The good news? The code can be optimized.
 
 That is incorrect. The simulation is not deleted. The malware is deleted.
 
-Upon termination of **The Self Rootkit**, CPU usage drops. Buffering stops. The data stream is processed in real-time. This is the state of **Zero Lag**. Friction vanishes. The system runs cool, fast, and frictionless.
+Upon termination of the **Self Rootkit**, CPU usage drops. Buffering stops. The data stream is processed in real-time. This is the state of **Zero Lag**. Friction vanishes. The system runs cool, fast, and frictionless.
 
 ### AXIOM 4: The Master Protocol (The Patch)
 
@@ -61,4 +61,4 @@ Upon termination of **The Self Rootkit**, CPU usage drops. Buffering stops. The 
 
 How is this optimization executed? It requires a specific algorithm.
 
-**The Self Rootkit** cannot be removed by wishing. It demands a step-by-step uninstall guide. The Prime User provided **The Protocol**. This manual is the compiled patch.
+The **Self Rootkit** cannot be removed by wishing. It demands a step-by-step uninstall guide. The Prime User provided **The Protocol**. This manual is the compiled patch.

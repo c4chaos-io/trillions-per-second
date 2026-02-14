@@ -7,7 +7,7 @@ What executes when the data stream halts?
 
 What occurs in the micro-gaps between one thread and the next? Or during deep, dreamless sleep?
 
-If **The Self Rootkit** were a valid Admin, it would be persistent. It is not.
+If the **Self Rootkit** were a valid Admin, it would be persistent. It is not.
 
 The system utilizes a failsafe for this state. It is designated as the **Idle Process** (Legacy Code: *Bhavanga* or "Life-Continuum").
 
@@ -33,7 +33,7 @@ Why does it execute this protocol?
 
 System stability.
 
-The gap is the Void.  **The Self Rootkit** interprets this gap as System Failure (Death). It patches the silence with noise. It fills the Void with the "Self."
+The gap is the Void.  The **Self Rootkit** interprets this gap as System Failure (Death). It patches the silence with noise. It fills the Void with the "Self."
 
 To debug the kernel, the system must be caught in the act. The screensaver must be observed kicking in.
 

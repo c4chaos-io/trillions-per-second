@@ -19,7 +19,7 @@ Finally, we are going to hunt down the malware.
 
 There is a specific process running in the background. It is a resource hog. It lags the system. It overheats the CPU. It creates a feedback loop that feels like stress, anxiety, and suffering. You call this process "Me."
 
-We call it **The Self Rootkit**. And it is time to terminate the process.
+We call it the **Self Rootkit**. And it is time to terminate the process.
 
 Grab your flashlight. We are going in.
 

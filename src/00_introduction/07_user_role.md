@@ -3,7 +3,7 @@
   
 Finally, a word on your user permissions.
 
-If **The Self Rootkit** is the malware, then who are you? 
+If the **Self Rootkit** is the malware, then who are you? 
 
 You are **The Observer Module**. You are the unconstructed awareness that watches the system run. You are not the code; you are the **Terminal**.  
   

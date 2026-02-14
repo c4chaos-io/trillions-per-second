@@ -3,7 +3,7 @@
 
 ![Image](/assets/infographics/TPS_IMG_WakingUpInTheFlux.jpg)
 
-It was 3:00 a.m.This is the witching hour for insomniacs and coders.  
+It was 3:00 a.m. This is the witching hour for insomniacs and coders.  
   
 I woke up, but I couldn't move. My body felt heavy. I was pinned to the mattress by a gravity well. It was sleep paralysis. Usually, this is where the panic sets in. The lizard brain starts screaming about aliens or monsters in the dark.  
   

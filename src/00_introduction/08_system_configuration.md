@@ -7,10 +7,12 @@ Before we access the **Kernel**, we are purging the **Legacy Code** (Agricultura
 
 To survive this update, you must abandon the idea that you are "practicing a lifestyle." You are optimizing a biological operating system.
 
-> **SYSTEM NOTE:**
-> This section contains the **Essential Drivers** required to run the Diagnostic in Part I.
->
-> For the complete translation layer—including the full mapping of the Abhidhamma (System Manual) to modern logic—access **[APPENDIX A: THE MASTER SYSTEM LEXICON](/src/05_back_matter/02_01_lexicon.md)** at the back of this manual.
+---
+
+**SYSTEM NOTE:**
+This section contains the **Essential Drivers** required to run the Diagnostic in Part I.
+
+For the complete translation layer—including the full mapping of the Abhidhamma (System Manual) to modern logic—access **[APPENDIX A: THE MASTER SYSTEM LEXICON](/src/05_back_matter/02_01_lexicon.md)** at the back of this manual.
 
 Update your internal dictionary. Effective immediately.
 
@@ -68,4 +70,6 @@ Update your internal dictionary. Effective immediately.
 ---
 
 **SYSTEM UPDATE COMPLETE.**
-**INITIALIZING PART I: DIAGNOSTIC...**
+**INITIALIZING PART 1: DIAGNOSTIC...**
+
+

@@ -26,7 +26,7 @@
 * **File: [`src/MANIFEST.md`](src/MANIFEST.md)** - Dedication / Epigraph 
 * **File: [`src/TOC.md`](src/TOC.md)** - Table of Contents
 * **File: [`src/SOURCE_CODE.md`](src/SOURCE_CODE.md)** - Reality-as-Code
-* **File: [`src/SECURITY_CERTIFICATES.md`](src/SECURITY_CERTIFICATES.md)** - Foreword / Endorsements from "Verified Developers" (Guest Authors)
+* **File: [`src/SECURITY_CERTIFICATES.md`](src/SECURITY_CERTIFICATES.md)** - Foreword / Endorsements from "Verified Developers" 
 
 ---
 

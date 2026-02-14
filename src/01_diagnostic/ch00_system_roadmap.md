@@ -15,7 +15,11 @@ So, I have compressed the 16 stages into a modern "User Experience" map. We are 
 
 Here are the **6 Checkpoints** you will hit during the installation process for **v1.0 (Stream Entry)**.
 
-> **System Note:** This map is recursive. In the "Hardcore Dharma" protocol, these are known as *Cycles of Insight*. You will run this script multiple times (upgrading from v1.0 to v4.0) until the system reaches a permanent **Stable State**.
+---
+
+**SYSTEM NOTE:** This map is recursive. In the **Hardcore Dharma** protocol, these are known as *Cycles of Insight*. You will run this script multiple times (upgrading from v1.0 to v4.0) until the system reaches a permanent **Stable State**.
+
+---
 
 ### 📍CHECKPOINT 1: STREAM ANALYSIS (The Matrix Code)
 **Legacy Term:** *Nama-Rupa Pariccheda* (Mind & Matter)
@@ -47,13 +51,13 @@ This is the fun part. Your system syncs up with the refresh rate of reality. You
 This is where most people uninstall. The Overclock ends. The screen goes dark. The system begins a deep purge of old, corrupted files.
 
 * You might feel anxious, depressed, or just weirdly "off." This is not a bug. It is a feature.
-* Your OS is deleting **The Self Rootkit**. It feels like you are dying because the part of you that shouldn't exist is actually dying.
+* Your OS is deleting the **Self Rootkit**. It feels like you are dying because the part of you that shouldn't exist is actually dying.
 * Keep logging.
 
 ### 📍CHECKPOINT 5: ZERO LAG (Flow State)
 **Legacy Term:** *Sankhara Upekkha* (Equanimity)
 
-The fans spin down. The system runs silent. You are no longer fighting the data stream; you are surfing it. **The Self Rootkit** is still there, but it's running in a minimized window. You accept whatever happens—pain, pleasure, noise, silence—without buffering. This is the definition of "Cool."
+The fans spin down. The system runs silent. You are no longer fighting the data stream; you are surfing it. The **Self Rootkit** is still there, but it's running in a minimized window. You accept whatever happens—pain, pleasure, noise, silence—without buffering. This is the definition of "Cool."
 
 ### 📍CHECKPOINT 6: THE REBOOT (Root Access)
 **Legacy Term:** Magga/Phala (Path & Fruition)
@@ -72,7 +76,7 @@ This isn't a straight line. It's a spiral.
 
 * **CYCLE 1 (Stream Entry / v1.0)**
   * **Status:** **ROOT ACCESS ACQUIRED.**
-  * **Patch Notes:** **The Self Rootkit** (The Delusion of Self) has been permanently deleted from the Kernel. You have seen the Source Code. You know—with mathematical certainty—that the "User" is a **Null Pointer**.
+  * **Patch Notes:** The **Self Rootkit** (The Delusion of Self) has been permanently deleted from the Kernel. You have seen the Source Code. You know—with mathematical certainty—that the "User" is a **Null Pointer**.
   * **Glitch Report:** Don't get cocky. Your drivers are still trash. The *belief* in a Self is gone, but the *habit* of the Self (**The Resource Hog**) is still cached in your RAM. You will still get pissed off in traffic. You just won't take it personally.
 
 * **CYCLES 2 & 3 (The Optimization / v2.0 - v3.0)**
