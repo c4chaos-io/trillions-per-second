@@ -18,7 +18,7 @@ That is how **[`/src/SOURCE_CODE.md`](/src/SOURCE_CODE.md)** landed in the repo.
 
 Check out the TPS Podcast for the deep dive breakdown. I highly recommend it. The podcast hosts did an awesome job, as usual.
 
-**📺 [TPS Pod Ep. 11: Reality as Source Code](https://youtu.be/1PAR4HkRmo0?si=TCq9VZd6uMuWZu5G)**
+**📺 [TPS Pod Ep. 11: Reality as Code](https://youtu.be/1PAR4HkRmo0?si=TCq9VZd6uMuWZu5G)**
 
 
 Hack the simulation. See you in the Flux.
