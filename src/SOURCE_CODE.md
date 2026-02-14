@@ -40,7 +40,7 @@ The System is architected for **Zero Lag**—a direct line from The Kernel to th
 ## 5. The Admin (Observer Module)
 The critical error most units make is confusing the Self Rootkit with the User.
 
-* **The Imposter**: "The Self" is not the User; it is the virus hijacking the Avatar.
+* **The Imposter**: "The Self" is not the User; it is the malware hijacking the Avatar.
 * **The True User**: The actual Sysadmin is the **Observer Module**.
 * **Diagnostic Protocol**: This is the diagnostic protocol capable of watching the data stream without tagging it.
 * **Permissions**: The Observer Module is the only function with the permissions to audit the Rootkit.
