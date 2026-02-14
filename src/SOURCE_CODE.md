@@ -1,6 +1,6 @@
 # THE SOURCE CODE (Reality-as-Code)
 
-![Image](/assets/images/TPS_IMG_SourceCode.jpg)
+![Image](/assets/infographics/TPS_IMG_SourceCode.jpg)
 
 ## 1. The Kernel (Source Code)
 In the beginning, there is only The Kernel. It is the central processing unit of the Master System. It is not a physical object; it is the Source Code itself—pure, unconditioned logic running the Master Protocol.
