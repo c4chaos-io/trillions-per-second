@@ -1,9 +1,27 @@
 ---
 ## Lineage Acknowledgement: Honoring the Open Source Contributors  
-  
+
+![Image](/assets/infographics/TPS_IMG_Lineage.jpg)
+
 The code we are running wasn't written in a vacuum. While the Prime User established the kernel, the interface has been refined over centuries by dedicated developers who optimized the system for different hardware.  
   
 This manual is built on the specific "Open Source" branch of the protocol known as **Hardcore Dharma**. We honor the following lead developers who stripped away the bloatware to reveal the raw code underneath.  
+
+### Sariputta (The System Architect)
+
+**Contribution:** *The Abhidhamma Pitaka* / The Core Database Structure
+
+While the Prime User (The Buddha) discovered the exploit, it was his Chief Engineer, Sariputta, who built the database schema. Tradition holds that the Prime User transmitted the raw "Matrices" (*Matika*) of the system to Sariputta, who then compiled them into the seven massive volumes of the *Abhidhamma Pitaka*.  
+
+Sariputta was the first to successfully categorize the "Atomic Data Units" (*Dhammas*) of the simulation. He moved the project away from "User Stories" (Suttas/Parables) and established the rigid, table-based architecture of mind and matter that we still use today. Without his structural engineering, the kernel specs would be unreadable.
+
+### Anuruddha (The Code Minifier)
+
+**Contribution:** *Abhidhammattha Sangaha* / The Quick-Start Guide
+
+By the 10th century, the original System Documentation (the seven books of the Pitaka) had become too massive for the average user to process—it was terabytes of raw logs. Anuruddha wrote the compression algorithm.  
+
+He authored the manual we are effectively reading now: the *Abhidhammattha Sangaha*. He took the sprawling, complex code of the original system and "minified" it into a concise, executable summary. He mapped the 89 types of Consciousness and the 52 Mental Factors into a clean, single-page interface. If Sariputta built the server, Anuruddha wrote the `README.md`.
 
 ### Buddhaghosa (The Lead Archivist)
 
