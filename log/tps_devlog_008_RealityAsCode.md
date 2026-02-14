@@ -1,4 +1,4 @@
-# TPS Log 08: Reality as Source Code
+# TPS Log 08: Reality as  Code
 
 **Date:** Feb 14, 2026
 **Status:**  👍
