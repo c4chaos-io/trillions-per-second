@@ -1,4 +1,5 @@
 ---
+
 ## System Dependencies (The Protocol Stack)  
 
 ![Image](/assets/infographics/TPS_IMG_SystemDependencies.jpg)
