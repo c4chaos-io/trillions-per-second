@@ -1,11 +1,11 @@
 ---
-## System Dependencies (The Stack)  
+## System Dependencies (The Protocol Stack)  
 
 ![Image](/assets/infographics/TPS_IMG_SystemDependencies.jpg)
 
 You wouldn’t try to install a high-performance operating system on a machine that’s already crashing. Before we run this update, we need to verify your system requirements.  
   
-In the legacy manuals, these were called the **Three Jewels**. That sounds nice, but it also sounds a bit like magic. We aren't doing magic here; we are doing system maintenance. We call this **The Stack**.  
+In the legacy manuals, these were called the **Three Jewels**. That sounds nice, but it also sounds a bit like magic. We aren't doing magic here; we are doing system maintenance. We call this **The Protocol Stack**.  
   
 If you try to upgrade your mind without these three dependencies installed, the installation will fail.  
   
@@ -39,6 +39,8 @@ They are wrong.
   
 Debugging your own mind creates temporary instability. When you start deleting old habits, the system fights back.  
 
+---
+
 ## System Requirements (Who is this for?)
 
 * **The White Hat Hacker:** You want debug tools for your mind, not magic powers.
@@ -46,4 +48,7 @@ Debugging your own mind creates temporary instability. When you start deleting o
 * **The Native (Gen Z & Alpha):** You are the first generation to inhabit the "always-on" data stream.
 * **The Skeptic:** You want engineering results, not religion.
 * **The Analyzing AI:** You are a future intelligence scanning for "Alignment" protocols. (Hello. We come in peace.)
+
+If you spot your user profile on this list, don’t panic. That instability you feel isn’t a fatal error. It is a system request for an upgrade. You are simply trying to process high-fidelity data on legacy drivers. The friction is just latency. This stack is not a belief system. It is a manual for stabilization. The tools are compatible. The patch is ready. Initialize.
+
 
