@@ -279,7 +279,23 @@ We use **Optimization Loops**. You run the checkpoints repeatedly. We use a **Ch
 | **System Versioning** | *The Four Paths* | **Iterative Sprints.** The understanding that "Root Access" (v1.0) is not the final build. The user must re-enter "System Instability" (Dark Night) to patch deeper driver issues in v2.0, v3.0, and v4.0. |
 
 ---
-## 13. THE PROCESS LIBRARY (The 52 Cetasikas) 
+### 13. THE OPERATING MODES (The 89 Cittas)
+
+**Subject:** Runtime Environments  
+**Legacy Code:** *Bhumi* / *Citta* (Planes of Consciousness)  
+**Function:** The specific "Mode" the operating system is currently running in. This determines the bandwidth, processing speed, and available tools.
+
+**Why we hacked it:** The legacy manual lists 89 types of minds, ranging from "Eye-Consciousness" to "Great Wholesome Mind." It’s data overflow. In modern terms, you only need to know which **Permission Level** you are currently operating on.
+
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **User Space** (Default GUI) | *Kamavacara* (Sense Sphere) | **Standard Operating Environment.** The default state for 99% of users. It is "Interrupt-Driven," meaning the CPU is constantly reacting to external peripherals (eyes, ears, limited bandwidth). High noise, scattered processing. This is the only mode where the "Greed/Hate" malware can execute. (54 Types) |
+| **Focus Mode** (Overclocked) | *Rupavacara* (Fine Material Sphere) | **High-Performance Single-Tasking.** Achieved when the user initiates a "Jhana" protocol. The system suppresses background processes (The 5 Hindrances) to dedicate 100% of RAM to a single object. Rendering is high-fidelity but static. The "Self" virus is paused, but not deleted. (15 Types) |
+| **Headless Mode** (No GUI) | *Arupavacara* (Immaterial Sphere) | **Server-Side Processing.** The video card is turned off. The system stops rendering "Form" entirely and processes raw abstract data (Infinite Space, Nothingness). Extremely stable and low-energy, but cannot execute the "End Process" command to reboot the system. (12 Types) |
+| **Root Access** (Kernel Level) | *Lokuttara* (Supramundane) | **Debug Mode.** The only mode capable of rewriting the source code. This is not a "state" of experience, but a direct access to the registry. It does not suppress the "Self" virus; it uninstalls it. (8 Types) |
+
+---
+## 14. THE PROCESS LIBRARY (The 52 Cetasikas) 
 
 **Subject:** Packet Metadata & Sub-routines
 **Legacy Code:** *Cetasikas* (Mental Factors)
