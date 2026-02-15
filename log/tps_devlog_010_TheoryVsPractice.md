@@ -10,7 +10,7 @@
 
 I have a confession. If there was a 12-step program for Theory Junkies, I’d be the guy making the coffee.
 
-We built the TPS Protocol to be bare metal. Zero bloatware. But I know how the user works. You need to see the schematic before you trust the engine. That is why we patched in the Theory vs. Practice section.
+We built the TPS Protocol to be bare metal. Zero bloatware. But I know how the user works. You need to see the schematic before you trust the engine. That is why we patched in the **[Theory vs. Practice](/src/00_introduction/04_lineage.md)** section.
 
 Let’s get the hierarchy straight. We do not use these theories to validate the TPS Protocol. It works the other way around. We use the protocol to validate the physics.
 
