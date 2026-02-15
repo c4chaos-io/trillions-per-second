@@ -1,5 +1,7 @@
 ---
-##  SYSTEM CONFIGURATION: THE ROSETTA STONE
+##  System Configuration: The Rosetta Stone
+
+![Image](/assets/infographics/TPS_IMG_MasterLexicon.jpg)
 
 Listen. The ancient manuals were written for ox-cart drivers. You are a digital native running on high-speed silicon. You don't need poetry; you need a patch.
 
