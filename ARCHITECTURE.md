@@ -37,9 +37,10 @@
 * **[System Warning: EULA:](src/00_introduction/03_EULA.md)** "WARNING: This manual involves Root Access... 
 * **[Lineage Acknowledgement:](src/00_introduction/04_lineage.md)** Honoring the Open Source Contributors 
 * **[The Kernel Specs (The Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Cause) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
-* **[Meta-Structure:](src/00_introduction/06_meta_structure.md)** Fractal Architecture of the Axioms
+* **[Theory vs. Practice:](src/00_introduction/06_theory_vs_practice.md)** The Hierarchy of Truth / Compatibility Layer
 * **[User Role:](src/00_introduction/07_user_role.md)** The White Hat Operator
-* **[System Configuration:](src/00_introduction/08_system_configuration.md)** The Rosetta Stone
+* **[Meta-Structure:](src/00_introduction/08_meta_structure.md)** Fractal Architecture of the Axioms
+* **[System Configuration:](src/00_introduction/09_system_configuration.md)** The Rosetta Stone
 
 ---
 

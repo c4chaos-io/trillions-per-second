@@ -1,4 +1,4 @@
-# TPS Log 09: Honoring the Open Source Lineage
+# TPS Log 009: Honoring the Open Source Lineage
 
 **Date:** Feb 15, 2026
 **Status:**  🙌
@@ -18,6 +18,10 @@ This manual runs on that same ethos. Information wants to be free. That is why w
 
 **[Lineage Acknowledgement: Honoring the Open Source Contributors](/src/00_introduction/04_lineage.md)**
 
+
+TPS Pod Ep.12: 
+
+
 **A Note on the Architecture**
 
 For the hardcore Buddhist geeks in the back row, listen up. You will spot that this lineage is heavy on the Theravada. Good eye.
@@ -29,6 +33,8 @@ I went with the earliest teachings because they are the v1.0 kernel. It is the c
 If you want to refactor Zen, Tibetan, or Pure Land flavors, be my guest. Please. Fork this project. The more forks, the better. Let's build a massive **P2P network**.
 
 Happy hacking. See you in the Flux 🌀
+
+~C4Chaos
 
 
 

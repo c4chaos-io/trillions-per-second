@@ -129,9 +129,12 @@ This project is an artifact of the "Centaur" era. It was co-created by biologica
 The TPS Patch is built upon the open-source contributions of the following Master Architects:
 
 * **The Prime User:** Siddhartha Gotama (The Buddha)
+* **The System Architect:** Sariputta (*The Abhidhamma Pitaka*)
+* **The Code Minifier:** Anuruddha (*Abhidhammattha Sangaha*)
+* **The Legacy Archivist:** Buddhaghosa (*The Visuddhimagga*)
 * **The Map Maker:** Mahasi Sayadaw (*The Progress of Insight*)
 * **The Clock Speed Optimizer:** U Ba Khin (*The Clock of Vipassana*)
-* **The Legacy Documenter:** Buddhaghosa (*The Visuddhimagga*)
+* **The Hardware Scanner:** S.N. Goenka (*The Body Scan (Bio-Electric Feedback)*)
 * **The Hardcore Engineer:** Daniel Ingram (*Mastering the Core Teachings of the Buddha*)
 * **The Bridge Builder:** Shinzen Young (*The Science of Enlightenment*)
 * **The Simulation Theorist:** Rizwan Virk (*The Simulation Hypothesis*)
@@ -166,6 +169,6 @@ That's all for now. See you in **The Flux** 🌀.
 
 ---
 
-> To teachers and friends who helped me find my way through the **Simulation**. And to F.Raven: May you always surf the flux with **Zero Lag**.
+> To teachers and friends who helped me find my way through the **Simulation**. And to F.Raven: May you always surf the Flux with **Zero Lag**.
 >
 > ~C4Chaos
