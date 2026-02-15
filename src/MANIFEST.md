@@ -7,16 +7,23 @@
 # // EPIGRAPH
 
 > BOOT_SEQUENCE: INITIATED...
-> LOADING KERNEL: "TRUTH" [v1.0]...
+> LOADING KERNEL: TPS PROTOCOL [v1.0]...
 > DECODING VISUAL DRIVERS...
 
-*"Form is emptiness; emptiness is form. Form is not other than emptiness; Emptiness is not other than form. The same is true of feeling, perception, mental formations, and consciousness."*
+*"Form is emptiness, emptiness is form.
+Form is not other than emptiness, emptiness is not other than form."*
 
-**The Heart Sutra (Source Code, v. -2000)**
+**~The Heart Sutra (hard-coded 661 CE)**
+
+*"The past mind cannot be grasped,
+the future mind cannot be grasped,
+and the present mind cannot be grasped."*
+
+**~The Diamond Sutra (printed 868 CE)**
 
 ----------------------------------------------------
 
-> EXECUTING: "NIRODHA_PROTOCOL"
+> EXECUTING: "ZERO_LAG_PROTOCOL"
 > RENDER ENGINE: STOPPED
 > STATUS: UNCONDITIONED...
 
@@ -24,7 +31,7 @@
  
 *I call it neither a coming, nor a going, nor a standing still. It is without support, without occurrence, without object. Just this is the end of suffering."*
 
-**The Prime User (Buddha)**
+**~The Prime User (Buddha)**
 **(System Log: Udāna, 8.1)**
 
 ----------------------------------------------------
