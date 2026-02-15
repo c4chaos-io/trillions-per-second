@@ -18,9 +18,9 @@ This manual runs on that same ethos. Information wants to be free. That is why w
 
 **[Lineage Acknowledgement: Honoring the Open Source Contributors](/src/00_introduction/04_lineage.md)**
 
+Listen to the TPS Podcast for the deep dive.
 
-TPS Pod Ep.12: 
-
+**[📺 TPS Pod Ep.12: The Lineage](https://youtu.be/eJwecVYR-FY?si=yrOAhXtNrNfwfVUd)**
 
 **A Note on the Architecture**
 
