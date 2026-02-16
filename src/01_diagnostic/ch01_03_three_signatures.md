@@ -1,6 +1,6 @@
 ---
 
-## 1.3 System Diagnostics: The Three Signatures
+## 1.3 The Three Signatures
 
 ![Image](/assets/infographics/TPS_IMG_ThreeSignatures.jpg)
 

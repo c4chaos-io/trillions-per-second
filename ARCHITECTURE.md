@@ -36,7 +36,7 @@
 * **[System Dependencies (The Protocol Stack):](src/00_introduction/02_system_dependecies.md)** The Prime User / The Protocol / The P2P Network 
 * **[System Warning: EULA:](src/00_introduction/03_EULA.md)** "WARNING: This manual involves Root Access... 
 * **[Lineage Acknowledgement:](src/00_introduction/04_lineage.md)** Honoring the Open Source Contributors 
-* **[The Kernel Specs (The Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Cause) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
+* **[The Kernel Specs (Four Axioms):](src/00_introduction/05_kernel_specs.md)** Axiom 1: System Latency (The Glitch) / Axiom 2: The Resource Hog (The Cause) / Axiom 3: Zero Lag (The Fix) / Axiom 4: The Master Protocol (The Patch)
 * **[Theory vs. Practice:](src/00_introduction/06_theory_vs_practice.md)** The Hierarchy of Truth / Compatibility Layer
 * **[User Role:](src/00_introduction/07_user_role.md)** The White Hat Operator
 * **[Meta-Structure:](src/00_introduction/08_meta_structure.md)** Fractal Architecture of the Axioms
@@ -51,7 +51,7 @@ Deconstructing the Physics Engine and identifying the malware. (Addressing Axiom
 * **[CHAPTER 1: THE PHYSICS ENGINE](src/01_diagnostic/ch01_00_physics_engine.md)**
     * **[1.1 System Specs:](src/01_diagnostic/ch01_01_system_specs.md)** Voxels / Refresh Rate 
     * **[1.2 The Avatar: Hardware & Input Ports:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports  
-    * **[1.3 Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux, System Latency, The Null Pointer
+    * **[1.3 The Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux, System Latency, The Null Pointer
     * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** The Map is Not the Territory
     * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects
 * **[CHAPTER 2: THE RENDER ENGINE](src/01_diagnostic/ch02_00_render_engine.md)**

@@ -7,7 +7,7 @@ The Prime User didn’t deal in philosophy. He dealt in **System Architecture**.
   
 In the legacy documentation, a massive library exists called the *Abhidhamma*. It is a dense, dry technical manual that breaks reality down into its smallest data packets. Most users find it unreadable. This manual refactors it into modern logic.
   
-The core of the Master Protocol rests on four immutable laws. Legacy documentation labels these the *Four Noble Truths*. This manual defines them as **The Kernel Specs (The Four Axioms)**. 
+The core of the Master Protocol rests on four immutable laws. Legacy documentation labels these the *Four Noble Truths*. This manual defines them as **The Kernel Specs (Four Axioms)**. 
 
 ### Axiom 1: System Latency (The Glitch)
 

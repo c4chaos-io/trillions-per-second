@@ -114,3 +114,4 @@ That is a glitch. That is a direct look at the code.
 
 **Keep the terminal open. We are moving to the Render Engine.**
 
+***[PATCH NOTE: Specify that the protocol is Silent (Mental) Noting. Optional one syllable labeling once you get faster. Shinzen's labeling. Gamify option: FPS Shooting Aliens Game pew pew.]***
