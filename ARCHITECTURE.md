@@ -105,7 +105,7 @@ The How-To Manual for the hack. It is the specific set of instructions required 
 
 * **Chapter 9: My Path Through the Flux**
     * **Author Log:** Logs of system failures and breakthroughs.
-    * **Dev Logs:** Logs about the development of the TPS project. 
+    * **[Dev Logs:](log/)** Logs about the development of the TPS project and other hardcore geeky stuff too bloated to include in the book.
 
 ---
 
