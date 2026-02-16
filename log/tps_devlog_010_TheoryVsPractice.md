@@ -14,7 +14,7 @@ We built the TPS Protocol to be bare metal. Zero bloatware. But I know how the u
 
 Let’s get the hierarchy straight. We do not use these theories to validate the TPS Protocol. It works the other way around. We use the protocol to validate the physics.
 
-To run this code, you only need to accept one system requirement. Reality is not Solid. The Abhidhamma monks mapped this out centuries ago. They just didn't have C++.
+To run this code, you only need to accept one system requirement. **Reality is not Solid.** The Abhidhamma monks mapped this out centuries ago. They just didn't have C++.
 
 We brought in the heavy hitters to keep your logic brain busy.
  * **Donald Hoffman** handles the Interface. He explains why the "icon" isn't the file.

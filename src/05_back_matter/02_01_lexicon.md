@@ -84,10 +84,20 @@ We call it **The Flux**. Reality is a data stream. It’s not solid. It renders 
 | **The Payload** | *Cetasika* | **Malware Signatures**. The specific sub-processes or "flavors" of the data (e.g., Anxiety.exe, Compassion.dmg) loaded into the Voxel. |
 | **Input Ports** | *Salayatana* | I/O Interface. The 6 hardware interfaces (Eye, Ear, Nose, Tongue, Body, Mind) where Voxels enter the system. |
 | **The GUI** | *Pannatti* | Desktop Icons. Concepts created by the brain to mask the Flux. |
+| **The GUI (Icons)** | *Paññatti (Concepts)* | Desktop Shortcuts. The "Folder Names" (e.g., "Leg," "Pain," "Man") created by the OS to mask the raw code. Warning: Do not mistake the Icon for the Data. |
+| **> Active Tagging** | *Vijjamāna-paññatti* | Temporary Filenames. Using text labels (e.g., "Rising," "Sitting") to stabilize the cursor. These are valid pointers to real data.. |
+| **The Hex Code** | *Paramattha (Ultimate Reality)* | Raw Binary. The uncompiled data stream (Heat, Pressure, Vibration) existing behind the Icon. This is the only level where "Debugging" can occur. |
 | **The Frontend** | *Nirmanakaya* (Sanskrit)| **The Rendered World.** The Body of Appearance. The surface ordinary awareness where the code is fully compiled into the illusion of solid forms. |
 | **The Staging Environment** | *Sambhogakaya* (Sanskrit)| **The Middleware.** The Body of Glory. An intermediate realm containing high-fidelity Beta Assets and phenomena that exist between the raw code and the surface interface. | 
 | **The Kernel** | *Dharmakaya* (Sanskrit) | **The Source Code.** The Body of the Absolute. The fundamental operating system and support structure that sustains the simulation. It is the unmanifested Zero Point before rendering begins. |
 | **Procedural Generation** | *Paticcasamuppada* (Dependent Origination) | Just-in-Time Rendering. The mechanism where the Simulation renders reality on the fly based on Input data. There is no pre-existing world "out there"; the system generates the environment only where the User points the Camera (Attention). |
+| **System Drivers (The 4 Elements)** | *Mahābhūta* | The Physics Engine’s core rendering types. The raw haptic data before the GUI renders it as a "body." |
+| **> Pneumatic Actuators** | *Vāyo-dhātu (Wind)* | The "Rising/Falling" Anchor. Breath. Pressure, vibration, and oscillation. The expansion and contraction of the chassis. Protocol: Use this as the "Home Button" for the Cursor. |
+| **> Thermal Sensors** | *Tejo-dhātu (Fire)* | Heat Regulation. Data packets registering as "Hot" or "Cold." |
+| **> Structural Integrity** | *Pathavī-dhātu (Earth)* | Collision Detection. The sensation of hardness, softness, or resistance. |
+| **> Fluid Dynamics** | *Āpo-dhātu (Water)* | Cohesion. The binding force that holds the Voxels together (detected only via inference/wetness). |
+| **Relocatable Pointer** | *Adhitthana (Refined)* | The Home Directory. Allows the user to map the Cursor to specific hardware sensors based on lineage-specific drivers (e.g., /root/nostrils for Goenka or /root/abdomen for Mahasi). |
+
 
 
 ---
@@ -187,8 +197,15 @@ Terms like "Morality," "Concentration," and "Wisdom" are too soft. They sound li
 | **Signal Lock** | *Upacara Samadhi* | Connection Stability. The threshold where "Background Noise" drops to zero and the CPU locks onto the data stream. **Status:** Minimum System Requirement.|
 | **Sandbox Mode** | The *Jhanas* | Quarantine Environment. Deep states of Single-Threaded Processing where the "Virus" is temporarily isolated. It feels euphoric, but it is a shelter, not a solution. |
 | **The Logger** | *Vipassana* | Task Manager. "Noting" every data event to deconstruct the rendering engine. |
+| **Logger Level 1 (Verbose)** | *Sallakkhana (Noting/Labeling)* | Active Tagging. Explicitly naming packets (e.g., "Rising," "Thinking") to prevent the Rootkit from running background scripts. Use when Latency (Dukkha) is high. |
+| **Logger Level 0 (Silent)** | *Diṭṭhe diṭṭhamattaṃ (Just the seen)* | Direct Stream Access. Stopping the naming process to watch raw binary flow. Use when TPS exceeds verbal bandwidth. |
+| **Adaptive Logging** | *Sampajanna (Dynamic)* | Context-Switching. The protocol for "Hot-Swapping" between Level 1 and Level 0 based on CPU load and refresh rate. |
+| **The Pre-Fetch** | *Paccaya-pariggaha (Discernment of Cause & Effect)* | Command Line Interception. The active protocol of logging the "Executable" (Intention) before the hardware acts. This creates a split-second latency between the Command (Move Arm) and the Event (Arm Moves), verifying that the User is distinct from the Bio-Chassis. |
+| **Cursor Stabilization** | *Vitakka / Vicara (Aiming / Rubbing)* | Target Lock. Vitakka is moving the mouse to the file. Vicara is hovering over the file to read the tooltip. |
+| **Packet-Switching Stability** | *Khanika Samadhi (Momentary Concentration)* | Dynamic Locking. Unlike "Safe Mode" (Jhana), which locks the CPU onto a single static file, this protocol allows the cursor to jump between millions of different files (Sights, Sounds, Pains) per second while maintaining 100% System Stability. Note: Required for "Hot Patching." |
 | **Haptic Feedback** | *Piti* | System Vibration. Scanning the body to trigger the dissolution of solid sensations. |
 | **The Null Frame (aka "Gone")** | *Bhanga* / *Nirodha* (Dissolution / Cessation) | The Gap in the Render. The practice of logging the precise millisecond when a data packet vanishes from the interface. The Mechanism: Derived from Shinzen Young's "Gone" technique. The system renders reality at Trillions Per Second. Most users focus on the "On" state (Appearance). This tool tracks the "Off" state (Disappearance). You are not deleting the file; you are witnessing its automatic expiration. System Result: Figure-Ground Reversal. As the User logs more Null Frames, the "Gaps" become more prominent than the "Content." The Void (Null) shifts from being the background to being the Primary Platform, while the "Self" is exposed as just a flickering waveform passing through it. |
+| **The Speedometer** | Viriya-Samadhi Balance | MCTB Metrics. Actively measuring the Refresh Rate in TPS. Validates entry into The Overclock (Checkpoint 3) by detecting high-frequency vibrations (>40Hz). |
 | **System Voltage** | (Chinese/Sanskrit) *Chi / Prana / Kundalini* | Operating Power. The raw current running through the hardware. When resistance (Self) drops, voltage increases, sometimes causing heat or tremors (High Amperage).|
 | **The Save Point** | *Sotapanna* | System Checkpoint. Created after the first Reboot (v1.0), ensuring the system cannot revert to the corrupted Legacy OS. |
 | **Dev Tools** | *Siddhis* | Psychic powers/visions. **Warning:** Black Hat Trap. Using these for egoic gain corrupts the save file. |
@@ -431,3 +448,13 @@ These are **System Optimization** scripts. They only run when the Rootkit is sup
 | :--- | :--- | :--- |
 | **Root Access** | *Paññā* (Wisdom) | **The Key.** Understanding the source code (Three Characteristics / Three Signatures). |
 
+#### V. System Diagnostics (Runtime Scripts)
+| TPS Terminology | Legacy Code | Functionality |
+| :--- | :--- | :--- |
+| **Data Logging** | *Noting (Sati-Sampajanna)* | The active script of registering an event. Input [TIMESTAMP] and [TYPE] for every packet entering the Input Ports. |
+| **Tagging** | *Labeling (Vohara/Pannatti)* | Assigning metadata tags (e.g., "Hearing," "Thinking") to a file to prevent auto-execution of the content. |
+| **System Pulse** | *Rising / Falling (Vayo-Dhatu)* | The default haptic rhythm of the Bio-Chassis (abdomen). Used as the "Ping" command to verify system status. |
+| **The Anchor** | *Primary Object (Mulakamma)* | The "Home Directory" where the Observer Module rests when no specific error data is present. |
+| **Micro-Ack (Patch)** | < No Direct Legacy Term > | INTEGRITY PATCH: High-frequency binary tagging (e.g., rapid "clicks" of attention) used when the Data Stream exceeds the speed of verbal Labeling. |
+| **Spam / Pop-ups** | *Distraction (Uddhacca)* | Unsolicited background processes attempting to hijack CPU cycles from the Observer Module. |
+| **Global Signal Lock** | *Samadhi (Universal)* | The Connection. The universal capability to lock the CPU onto a target, whether that target is a Goenka-style body-scan or a Mahasi-style rising-falling event. |
