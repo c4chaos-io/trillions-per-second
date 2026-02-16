@@ -1,5 +1,5 @@
 ---
-## The Kernel Specs (The Axioms)  
+## The Kernel Specs (The Four Axioms)  
   
 ![Image](/assets/infographics/TPS_IMG_KernelSpecs.jpg)
 
@@ -7,14 +7,14 @@ The Prime User didn’t deal in philosophy. He dealt in **System Architecture**.
   
 In the legacy documentation, a massive library exists called the *Abhidhamma*. It is a dense, dry technical manual that breaks reality down into its smallest data packets. Most users find it unreadable. This manual refactors it into modern logic.
   
-The core of the Master Protocol rests on four immutable laws. Legacy documentation labels these the *Four Noble Truths*. This manual defines them as **The Kernel Specs** with **4 Axioms**. 
+The core of the Master Protocol rests on four immutable laws. Legacy documentation labels these the *Four Noble Truths*. This manual defines them as **The Kernel Specs (The Four Axioms)**. 
 
-### AXIOM 1: System Latency (The Glitch)
+### Axiom 1: System Latency (The Glitch)
 
 **Legacy Code:** *Dukkha* (Suffering)
 **System Status:** Buffering
 
-Here is the hard truth. Reality is not solid. It is a procedural generation engine rendering at Trillions Per Second.
+Here is the hard truth. **Reality is not solid**. It is a procedural generation engine rendering at trillions per second.
 
 The universe is a stream of raw data events arising and passing away at incredible speed. This is **The Flux**. The problem is the hardware. The biological brain cannot process the data stream in real-time. It undersamples the signal.
 
@@ -24,7 +24,7 @@ The world appears solid. It is merely the "motion blur" of a high-speed system.
 
 This buffering creates **Latency**. The friction experienced in life is simply the lag between the live feed and the buffered render.
 
-### AXIOM 2: The Resource Hog (The Cause)
+### Axiom 2: The Resource Hog (The Cause)
 
 **Legacy Code:** *Samudaya* (Craving)
 **System Status:** Overheating
@@ -41,7 +41,7 @@ But the data stream cannot be paused.
 
 The system overheats. It is an attempt to run a static file structure on a streaming environment. The "Self" is not the User. It is the **Self Rootkit** that assumes it is the Admin.
 
-### AXIOM 3: ZERO LAG (The Fix)
+### Axiom 3: Zero Lag (The Fix)
 
 **Legacy Code:** *Nirodha* (Cessation)
 **System Status:** Optimized
@@ -54,11 +54,11 @@ That is incorrect. The simulation is not deleted. The malware is deleted.
 
 Upon termination of the **Self Rootkit**, CPU usage drops. Buffering stops. The data stream is processed in real-time. This is the state of **Zero Lag**. Friction vanishes. The system runs cool, fast, and frictionless.
 
-### AXIOM 4: The Master Protocol (The Patch)
+### Axiom 4: The Master Protocol (The Patch)
 
 **Legacy Code:** *Magga* (The Path)
 **System Status:** Installing Update...
 
 How is this optimization executed? It requires a specific algorithm.
 
-The **Self Rootkit** cannot be removed by wishing. It demands a step-by-step uninstall guide. The Prime User provided **The Protocol**. This manual is the compiled patch.
+The **Self Rootkit** cannot be removed by wishing. It demands a step-by-step uninstall guide. The Prime User provided **The Master Protocol**. This manual is the compiled patch.

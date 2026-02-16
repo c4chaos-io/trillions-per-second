@@ -6,9 +6,9 @@
 
 **The Hierarchy of Truth**
 
-You are going to see some heavy science in this manual. I’m talking about Information Theory. Neuroscience. Self-Model Theory of Subjectivity.
+You are going to see some heavy science in this manual. We are talking about Information Theory. Neuroscience. Self-Model Theory of Subjectivity.
 
-I didn’t put it there to impress you. I put it there to distract your logical mind.
+We did not put it there to impress you. We put it there to distract your logical mind.
 
 Your intellect is a guard dog. It barks at anything it doesn’t understand. We throw it a bone. We give it Donald Hoffman’s math or Nick Bostrom’s probability stats. This keeps the dog busy.
 
@@ -20,19 +20,19 @@ To run this code, you only need to accept one thing.
 
 **Reality is not solid.**
 
-Nick Bostrom calls it a Simulation. Rizwan Virk calls it a Multiplayer Game. The Buddha called it Emptiness.
+Nick Bostrom calls it a **"Simulation"**. Rizwan Virk calls it a **"Multiplayer Game"**. The Buddha called it **"Emptiness"**.
 
 The label doesn't matter. The mechanics are the same. The world is a render. It is data. It can be hacked.
 
 **2. The Optional Drivers**
 
-I am also deploying the heavy hitters. We use Donald Hoffman, Claude Shannon, Thomas Metzinger, and Giulio Tononi.
+We are also deploying the heavy hitters. We use Donald Hoffman, Claude Shannon, Thomas Metzinger, and Giulio Tononi.
 
 These guys are the system analysts. They mapped the wiring of the simulation. They explain *why* the glitch exists.
 
 But let’s be clear. **They did not write this exploit.**
 
-The TPS Protocol stands alone. It is the jailbreak. It runs on its own kernel.
+The TPS Protocol stands by itself. It is the jailbreak. It runs on its own kernel.
 
 **The Safety Warning**
 
@@ -40,12 +40,11 @@ Do not confuse the documentation with the code.
 
 If a physicist proves Hoffman wrong tomorrow, it doesn’t matter. The TPS Protocol still runs.
 
-We don't use this book to prove their theories. We use their theories to explain the glitches you are about to feel.
+We do not use this book to prove their theories. We use their theories to explain the glitches you are about to feel.
 
 The scientist looks at the schematic. You hold the soldering iron.
 
-***
-
+---
 ### System Specs: The Compatibility Layer
 
 Use this table to translate the science into the hack.

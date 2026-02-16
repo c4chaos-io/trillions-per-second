@@ -7,11 +7,11 @@ Before we start messing with your kernel, you need to know what the progress bar
 
 ## The Legacy Code vs. The Native UI
 
-The original System Architect for this specific patch was a Burmese genius named Mahasi Sayadaw. He mapped the "Progress of Insight" with brutal precision. He identified 16 distinct stages of debugging.
+The original System Architect for this specific patch was a Burmese genius named **Mahasi Sayadaw**. He mapped the "*Progress of Insight*" with brutal precision. He identified 16 distinct stages of debugging.
 
 Mahasi's map is the "Man Page" for enlightenment. It is dense. It is technical. It is 100% accurate. But you are not a monk in a Rangoon monastery in 1950. You are a biological admin trying to run a high-performance OS in a world of constant notification spam.
 
-So, I have compressed the 16 stages into a modern "User Experience" map. We are simplifying the interface, not the code. 
+So, we have compressed the 16 stages into a modern "User Experience" map. We are simplifying the interface, not the code. 
 
 Here are the **6 Checkpoints** you will hit during the installation process for **v1.0 (Stream Entry)**.
 
@@ -32,7 +32,7 @@ This is the moment the monitor flickers. You stop seeing "objects" and start see
 ### 📍CHECKPOINT 2: SPOTTING THE LAG (The Loading Icon)
 **Legacy Term:** *Paccaya Pariggaha* (Cause & Effect)
 
-Once you see the stream, you notice the buffer. You realize that **The Self Rootkit** is not the user. It is a background process. It is a loading icon that pops up after the data hits your senses.
+Once you see the stream, you notice the buffer. You realize that the **Self Rootkit** is not the user. It is a background process. It is a loading icon that pops up after the data hits your senses.
 
 * You see a car (Data).
 * Then, a split second later, you hear a voice in your head say "That's a nice car" (The Self).
@@ -62,21 +62,21 @@ The fans spin down. The system runs silent. You are no longer fighting the data 
 ### 📍CHECKPOINT 6: THE REBOOT (Root Access)
 **Legacy Term:** Magga/Phala (Path & Fruition)
 
-The final step. The rendering engine stops. For a microsecond, the screen goes black. The simulation vanishes. No time. No space. No user. This is the System Halt.
+The final step. The rendering engine stops. For a microsecond, the screen goes black. The simulation vanishes. No time. No space. No user. This is the **System Halt**.
 
-Then, the system restarts. You come back online, but the OS has been patched. **The Self Rootkit** has been quarantined. You now have Root Access.
+Then, the system restarts. You come back online, but the OS has been patched. The **Self Rootkit** has been quarantined. You now have **Root Access**.
 
 ### 🔄 SYSTEM VERSIONING (The Recursive Loop)
 
 **SYSTEM ALERT:** Check your expectations at the door. Hitting **Checkpoint 6** isn't the end credits. There is no "Game Over." The map is fractal.
 
-In the Hardcore Dharma underground, we call this **Cycles of Insight**. In this protocol, we call it **Recursive Refactoring**. You don't run this script once; you sprint it. You iterate through the 6 Checkpoints repeatedly to hunt down the deep-seated, legacy malware that wasn't accessible in the previous build.
+In the Hardcore Dharma underground, we call this *Cycles of Insight*. In this protocol, we call it **Recursive Refactoring**. You don't run this script once; you sprint it. You iterate through the 6 Checkpoints repeatedly to hunt down the deep-seated, legacy malware that wasn't accessible in the previous build.
 
 This isn't a straight line. It's a spiral.
 
 * **CYCLE 1 (Stream Entry / v1.0)**
   * **Status:** **ROOT ACCESS ACQUIRED.**
-  * **Patch Notes:** The **Self Rootkit** (The Delusion of Self) has been permanently deleted from the Kernel. You have seen the Source Code. You know—with mathematical certainty—that the "User" is a **Null Pointer**.
+  * **Patch Notes:** The **Self Rootkit** (The Delusion of Self) has been permanently deleted from the Kernel. You have seen the Source Code. You know, with mathematical certainty, that "the Self" is a **Null Pointer**.
   * **Glitch Report:** Don't get cocky. Your drivers are still trash. The *belief* in a Self is gone, but the *habit* of the Self (**The Resource Hog**) is still cached in your RAM. You will still get pissed off in traffic. You just won't take it personally.
 
 * **CYCLES 2 & 3 (The Optimization / v2.0 - v3.0)**
@@ -106,7 +106,7 @@ For the developers in the audience who want to see exactly how we are refactorin
 
 ## Note on Deployment
 
-Do not stress about memorizing this changelog right now. We are going to hit these checkpoints in real-time. As we progress through the manual, I will flag exactly which stage you are currently debugging. I will tell you when to look for the **Stream Analysis** and how to survive **The Defrag**. For now, just know the route exists.
+Do not stress about memorizing this changelog right now. We are going to hit these checkpoints in real-time. As we progress through the manual, we will flag exactly which stage you are currently debugging. We will tell you when to look for the **Stream Analysis** and how to survive **The Defrag**. For now, just know the route exists.
 
 That is the roadmap. Now put it away. 
 
@@ -114,4 +114,4 @@ You cannot navigate the territory by staring at the map. You have to look at the
 
 To run this update, you need to understand the machine you are operating. We need to pop the hood and look at the specs. 
 
-It is time to inspect the simulation and your hardware.
+**It is time to inspect the simulation and your hardware.**

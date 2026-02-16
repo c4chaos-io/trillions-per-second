@@ -136,7 +136,7 @@ Religious texts call these "Defilements" or "Sins." That makes you feel guilty. 
 | **Background Noise** | *Uddhacca* | Fan Spin. Excessive scattered energy preventing the CPU from locking onto a target. |
 
 ---
-## 6. KERNEL SPECS (The 4 Axioms)
+## 6. KERNEL SPECS (The Four Axioms)
 
 **Why we hacked it:**
 "The Four Noble Truths" sounds like a sermon. It puts people to sleep before they even start.
@@ -152,7 +152,7 @@ We stripped it down to physics and axioms.
 | **Axiom 4: The Protocol** | *Magga* | The "How-To" manual used to install the patch. |
 
 ---
-## 7. SYSTEM DIAGNOSTICS (The 3 Signatures)
+## 7. SYSTEM DIAGNOSTICS (The Three Signatures)
 
 **Why we hacked it:**
 "The Three Marks of Existence" sounds philosophical. We need metrics. We need to know if the simulation is running correctly.

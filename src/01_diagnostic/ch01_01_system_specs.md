@@ -1,5 +1,6 @@
 ---
-## 1.1 The System Specs: The Refresh Rate
+
+## 1.1 System Specs: The Refresh Rate
 
 ![Image](/assets/infographics/TPS_IMG_PhysicsTickRate.jpg)
 
@@ -17,7 +18,7 @@ The **Simulation Hypothesis** is the modern framework for this glitch. It sugges
 
 Oxford philosopher Nick Bostrom laid the groundwork. He didn't just get high and wonder "what if." He used probability theory. His argument is brutally simple: It relies on "substrate independence." This just means consciousness doesn't need squishy biological brains. It just needs the right architecture.
 
-If a civilization ever reaches the tech level to run "ancestor simulations" (sims of their own history), they won't just run one. They will run billions. Statistically, you are almost certainly inside the matrix. Bostrom is the actuary. He doesn't ask if it's real; he asks if it's probable.
+If a civilization ever reaches the tech level to run "ancestor simulations" (sims of their own history), they won't just run one. They will run billions. Statistically, you are **not** in **base reality**. You are almost certainly inside a simulation. Bostrom is the actuary. He doesn't ask if it's real; he asks if it's probable.
 
 **The Engineer: Rizwan Virk (The Mechanics)**
 
@@ -27,9 +28,9 @@ He argues that you cannot render a universe this complex atom-by-atom. It would 
 
 In a video game like *World of Warcraft*, the computer does not render the world behind your head. It deletes it to save memory. It only renders the pixels you are looking at right now. Virk suggests this mirrors the "Observer Effect" in quantum mechanics. The particle doesn't exist until you measure it. Why? Because the system is optimizing resources.
 
-If reality is a simulation, it cannot be continuous. It must be discrete. A computer cannot handle infinite numbers. It needs zeros and ones. It needs a limit to resolution.
+If reality is a simulation, it cannot be continuous. **It must be discrete.** A computer cannot handle infinite numbers. It needs zeros and ones. It needs a limit to resolution.
 
-This means there is a minimum unit of time and a minimum unit of space. When we talk about "trillions per second," we are not using hyperbole. We are talking about the **Refresh Rate**.
+This means there is a minimum unit of time and a minimum unit of space. When we talk about "**trillions per second**," we are not using hyperbole. We are talking about the **Refresh Rate** of the simulation. 
 
 ### Data Packets: The Kalapa Octad
 
@@ -39,13 +40,13 @@ Long before *The Matrix*, there was the *Abhidhamma*. Think of the Abhidhamma no
 
 They called it the **kalapa**.
 
-This is the smallest indivisible unit of matter, or *rupa*. A kalapa is not a singular particle. It is a "cluster" or "bundle" (the literal translation). Think of it as a Data Packet or an Object Class. It is an "octad" containing eight inseparable qualities: solidity, cohesion, temperature, motion, color, odor, taste, and nutritive essence.
+This is the smallest indivisible unit of matter, or *rupa*. A kalapa is not a singular particle. It is a "cluster" or "bundle" (the literal translation). Think of it as a **Data Packet** or an **Object Class**. It is an "octad" containing eight inseparable qualities: *solidity, cohesion, temperature, motion, color, odor, taste,* and *nutritive essence*.
 
-These packets are not static. They are high-frequency events. They arise and dissolve at a rate described as "trillion times per second" (10<sup>12</sup> Hz). Or, as Burmese meditation master U Ba Khin put it, "the life-span of a kalapa is termed a 'moment,' and a trillion such moments are said to elapse during the wink of a man's eye."
+These packets are not static. They are high-frequency **events**. They arise and dissolve at a rate described as "trillion times per second" (10<sup>12</sup> Hz). Or, as Burmese meditation master U Ba Khin put it, *"the life-span of a kalapa is termed a 'moment,' and a trillion such moments are said to elapse during the wink of a man's eye."*
 
 ### The Netflix Protocol
 
-Stop thinking of your body as hardware. It isn't a solid brick of meat. It is a high-speed stream of data bits.
+Stop thinking of your body as solid. It isn't a brick of meat. It is a **high-speed stream of data bits**.
 
 Think of reality like a Netflix show streaming in 4K. It looks smooth and solid from the couch, but that is just a trick of the bandwidth. Underneath the drama, it is just a stream of information. These kalapas are basically pixels.
 
@@ -57,13 +58,13 @@ When you finally hack the cognitive buffer, you start to see the digital artifac
 
 Rizwan Virk points out that a simulated reality implies a hard limit on resolution. It is just like zooming in on a JPEG until the smooth lines break into jagged squares.
 
-But we aren't living in a 2D side-scroller. We perceive our reality as 3D. Because the kalapa is a cluster of qualities (the octad), you aren't just seeing flat dots. You are feeling **voxels**.
+But we aren't living in a 2D side-scroller. We perceive our reality as 3D. Because the kalapa is a cluster of qualities (the octad), you aren't just seeing flat dots. You are feeling **Voxels**.
 
 > **Definition: Voxels of Experience**
 >
-> In this manual, we define **kalapas** as the **"voxels of experience."** A voxel (volumetric pixel) represents a value in 3D space. But unlike a static block in Minecraft, a Kalapa is a Temporal Voxel. It has a refresh rate. It flashes in and out of existence. It is a 4D event (3D Space + Time). Unlike a flat pixel, a voxel has depth. It has texture. It is the building block of the holographic simulation you call "the world."
+> In this manual, we define **kalapas** as the **"Voxels of Experience."** A voxel (volumetric pixel) represents a value in 3D space. But unlike a static block in Minecraft, a Kalapa is a Temporal Voxel. It has a refresh rate. It flashes in and out of existence. It is a 4D event (3D Space + Time). Unlike a flat pixel, a voxel has depth. It has texture. It is the building block of the holographic simulation you call "the world."
 
-While we often say 'pixel' for simplicity, 'voxel' is the accurate term. We are dealing with depth here. Not a flat screen. Think less *Pac-Man* and more *Minecraft*.
+While we often say "pixel" for simplicity, "voxel" is the accurate term. We are dealing with depth here. Not a flat screen. Think less *Pac-Man* and more *Minecraft*.
 
 ### The Packet vs. The Payload (Object vs. Attribute)
 
@@ -75,5 +76,5 @@ Not quite. If you know basic coding, this is Object-Oriented Programming 101.
 2.  **Qualia (The Attribute):** This is the variable defined within the object that provides the specific flavor of the data, such as  `kalapa.color = "red"` or `kalapa.texture = "hard"`.
 
 
-The kalapa is the subjective event. Qualia is the subjective feeling. Together, they compile into the only thing you have ever truly known: The moment.
+The kalapa is the subjective event. Qualia is the subjective feeling. Together, they compile into the only thing you have ever truly known: **The moment**.
 

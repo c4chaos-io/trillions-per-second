@@ -13,7 +13,7 @@ Most people live entirely in the User Interface. They stare at the screen. They 
 
 In Part 1, we are popping the hood. We are going to ignore the shiny graphics and look directly at the raw code scrolling past. We need to run a full system diagnostic.
 
-This section is your Installation Wizard. We are going to deconstruct the "Physics Engine" that generates your reality. We will look at how your sensors (eyes, ears, and mind) take in raw data. Then we will see how the "Render Engine" takes that messy data and stitches it into a convincing 3D movie called *My Life*.
+This section is your Installation Wizard. We are going to deconstruct the **Physics Engine** that generates your reality. We will look at how your sensors (eyes, ears, and mind) take in raw data. Then we will see how the **Render Engine** takes that messy data and stitches it into a convincing 3D movie called *My Life*.
 
 ### The Malware Hunt
 
@@ -34,7 +34,7 @@ Grab your flashlight. We are going in.
 This is your map of the territory. It guides you through the theory (The Chapters) and forces you to stop and verify your progress at specific markers (**Checkpoints**). You cannot proceed to the next level until you pass the test.
 
 **CHAPTER 1: THE PHYSICS ENGINE**
-We look at the hardware specs. We break experience down into pixels (**Voxels**) and refresh rates.
+We look at the hardware specs (your **Avatar**) . We break experience down into pixels (**Voxels**) and refresh rates.
 
 **📍 CHECKPOINT 1: STREAM ANALYSIS**
 You will verify you can see the raw data stream.
@@ -48,4 +48,4 @@ You will test your ability to spot the lag between reality and your thoughts.
 **CHAPTER 3: THE SELF ROOTKIT**
 We isolate the "Self" malware and watch how it infects the data stream with an infinite loop.
 
-#### Let’s run the scan.
+**Let’s run the scan.**

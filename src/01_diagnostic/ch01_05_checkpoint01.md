@@ -1,15 +1,16 @@
 ---
+
 ## 📍CHECKPOINT 1: STREAM ANALYSIS
 
-![Image](/assets/infographics/TPS_IMG_Checkpoint01.jpg)
+**Enough theory.**
 
-Enough theory. You have read the documentation. You know the hardware specs. You know the refresh rate is there.
+You have read the documentation. You know the hardware specs. You know the refresh rate is there.
 
 But reading about a refresh rate and *feeling* it are two very different things. Reading the manual doesn't make you a hacker. Typing the code makes you a hacker.
 
 It is time to open the terminal.
 
-## Hot Patching the Live Feed 
+### Hot Patching the Live Feed  
 
 Stop trying to hit the "Pause" button.
 
@@ -17,40 +18,50 @@ Most people think the goal of this game is to freeze the data stream and find so
 
 In the TPS Protocol, we are performing a **Hot Patch**. We are rewriting the code while the server is still online.
 
-I do not care if your stream is chaotic. I do not care if the content is loud or weird. I only care about one thing. Is it lagging?
+We do not care if your stream is chaotic. We do not care if the content is loud or weird. We only care about one thing. Is it lagging?
 
-We are running **Live Stream Analysis**. You are watching the raw data packets fly by. The ancients called these **Kalapas**. Think of them as the sub-atomic pixels of your experience. They are refreshing at trillions of times per second.
+We are running a live **Stream Analysis**. You are watching the raw data packets fly by. The ancients called these **kalapas**. Think of them as the sub-atomic voxels of your experience. They are refreshing at trillions of times per second.
 
 There are two ways to handle this data flow.
 
 1. **The Safe Mode (The Wet Path)**
-You take a screenshot. You freeze the frame to stare at the pixels. It feels stable. It feels safe. But it is low fidelity. You are looking at a static JPEG of a movie.
+You pause the game. Take a screenshot. You freeze the frame to stare at the voxels. It feels stable. It feels safe. But it is low fidelity. You are looking at a static 3D image of a game.
 
 2. **Hot Patching (The Dry Path)**
-You watch the pixels refresh in real time. It is high fidelity. It is unstable. It feels like standing in a wind tunnel.
+You watch the voxels refresh in real time. It is high fidelity. It is unstable. It feels like standing in a wind tunnel.
 
-We want the wind. We want to see the Flux in motion. If you freeze the stream, you cannot see the impermanence. You cannot see how the trick works. You have to let the data run.
+We want the wind. We want to see it in motion. If you freeze the stream, you cannot see the Flux. You cannot see how the trick works. You have to let the data run.
 
-If you freeze the stream, you cannot see the impermanence. You cannot see how the trick works. You have to let the data run.
+---
 
 ### The Assignment: Packet Sniffing
 
-In network security, there is a tool called **Wireshark**. It allows an admin to intercept and log traffic passing over a digital network. It doesn't look at the pretty website; it looks at the raw packets. It sees the TCP/IP handshake. It sees the hex code.
+In network security, there is a tool called **Wireshark**. It allows an admin to intercept and log traffic passing over a digital network. It doesn't look at the pretty website; it looks at the **raw packets**. It sees the **TCP/IP handshake**. It sees the **hex code**.
 
 Right now, your brain is rendering a pretty website called "My Life." It shows you objects: "Chair," "Music," "Knee Pain," "Boredom."
 
 Your assignment is to stop looking at the website and start looking at the packets. We are going to run a **Stream Analysis**.
 
+---
 ### The Protocol
 
+![Image](/assets/infographics/TPS_IMG_Checkpoint01.jpg)
+
+Look at the infographic above. It is the schematic of this protocol. Below are the detailed instructions. 
+
 **1. Boot Up (The Setup)**
-Sit down. Anywhere. You don't need a lotus cushion or incense. You just need to be relatively still so the accelerometer (your inner ear) settles down. Close your eyes to shut down the Video Port (Input Port 1). This frees up RAM.
+
+Sit down. Anywhere. You don't need a lotus cushion or incense. You just need to be relatively still so the accelerometer (your inner ear) settles down. 
+
+Close your eyes to shut down the **Video Port** (Input Port 1). This frees up RAM.
 
 **2. Open the Logs (The Anchor)**
-Focus your attention on the **Haptic Port** (the body). Specifically, find a sensation that is constant, like the pressure of your butt on the chair or the movement of your breath. This is your "Home" directory.
+
+Focus your attention on the **Haptic Port** (the body). Specifically, find a sensation that is constant, like the pressure of your butt on the chair or the **rising and falling** movement of your breath. This is your "Home" directory.
 
 **3. Tag the Traffic (The Noting Technique)**
-Data is going to start hitting your ports. Your job is to simply acknowledge the packet type. Do not open the packet. Do not read the email. Just tag the header.
+
+Data is going to start hitting your Input Ports. Your job is to simply acknowledge the packet type. Do not open the packet. Do not read the email. Just tag the header.
 
 * **If you hear a sound:** Don't think "That's a car." That’s rendering. Just tag it: **"Hearing."**
 * **If you feel an itch:** Don't scratch it. Don't think "My leg itches." Tag it: **"Feeling."**
@@ -75,7 +86,7 @@ The hacker sees the world in **Verbs**.
 * "Feeling."
 * "Thinking."
 
-When you tag the traffic, you stop cementing the world into objects. You start seeing it as a process.
+When you tag the traffic, you stop cementing the world into objects. You start seeing it as a **process**.
 
 * The "Pain" isn't a solid block of misery. It is a rapid-fire stream of sharp haptic data packets: *Stabbing... Burning... Pulsing...*
 * The "Anger" isn't a character trait. It is a temporary surge of heat and mental chatter: *Tightening... Heating... Shouting...*
@@ -95,10 +106,11 @@ You will try to filter the packets. You'll think, "Peaceful thoughts are good. A
 
 ### Exit Criteria
 
-You pass this checkpoint when you experience the **Noun-to-Verb Shift**.
+You pass this checkpoint when you experience the **Noun-to-Verb shift**.
 
-It might happen for just a split second. You will hear a sound, but for a micro-moment, there will be no "car" and no "listener." There will just be the event of *Hearing*.
+It might happen for just a split second. You will hear a sound, but for a micro-moment, there will be no "car" and no "listener." There will just be the event of ***Hearing***.
 
 That is a glitch. That is a direct look at the code.
 
-Keep the terminal open. We are moving to the Render Engine.
+**Keep the terminal open. We are moving to the Render Engine.**
+
