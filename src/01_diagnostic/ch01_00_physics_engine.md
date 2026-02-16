@@ -32,9 +32,9 @@ Look at the diagram above. This is the **Physics Engine** of your reality. It is
 
 ### THE ILLUSION OF SOLIDITY
 
-The critical error most units make is mistaking the **Frontend** for the **Code**.
+The critical error most people make is mistaking the **Frontend** for the **Code**.
 
-You think you are seeing a solid world. But you are actually experiencing a "lazy evaluation". Your brain ignores the complex backend (The Flux) to render a simple frontend (Objects). It does this to save processing power. It is just buffer bloat.
+You think you are seeing a solid world. But you are actually experiencing a **Lazy Evaluation**. Your brain ignores the complex backend (The Flux) to render a simple frontend (Objects). It does this to save processing power. It is just buffer bloat.
 
 We are here to debug that error. By breaking the simulation down into its component parts, we can stop reacting to the "User Interface." We can start interacting with the **Observer Module**.
 
@@ -47,6 +47,6 @@ In this chapter, we will deconstruct the engine piece by piece.
 * **1.3 Three Signatures:** We will identify the three metrics that prove you are in a simulation. We will look at the volatility of the data (**The Flux**), the drag on the system (**Latency**), and the empty variable at the center (**The Null Pointer**).
 * **1.4 Hardcore Ethos:** We will explain why we use this tech stack metaphor. We do not do it to dehumanize you. We do it to give you the precise tools needed to gain Root Access.
 
-**Warning:** This is not philosophy. We are not asking "if" the world is real. We are taking the system apart to see how it handles data. It might feel disorienting at first. That is normal. You have been staring at the optical illusion for a long time.
+> **Warning:** This is not philosophy. We are not asking "if" the world is real. We are taking the system apart to see how it handles data. It might feel disorienting at first. That is normal. You have been staring at the optical illusion for a long time.
 
-Let’s see what this machine is actually made of.
+**Let’s see what this machine is actually made of.**

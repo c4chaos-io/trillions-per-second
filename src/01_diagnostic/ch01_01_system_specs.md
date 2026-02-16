@@ -11,7 +11,7 @@ But standard physics and ancient meditation tech agree on one thing. It isn't.
 
 ### The Physics: The Tick Rate
 
-The "Simulation Hypothesis" is the modern framework for this glitch. It suggests that our reality is not a physical base layer. Instead, it is a computed environment. To understand the machine code, you need to understand the two different ways we diagnose the simulation: The Philosopher and The Engineer.
+The **Simulation Hypothesis** is the modern framework for this glitch. It suggests that our reality is not a physical base layer. Instead, it is a computed environment. To understand the machine code, you need to understand the two different ways we diagnose the simulation: The Philosopher and The Engineer.
 
 **The Philosopher: Nick Bostrom (The Odds)**
 
@@ -23,7 +23,7 @@ If a civilization ever reaches the tech level to run "ancestor simulations" (sim
 
 Then comes Rizwan Virk, a computer scientist from MIT. While Bostrom looks at the probability, Virk looks at the rendering engine.
 
-He argues that you cannot render a universe this complex atom-by-atom. It would crash the server. Any sufficiently complex simulation must adhere to principles of computational efficiency. Virk introduces the concept of "Frustum Culling" or "Lazy Evaluation".
+He argues that you cannot render a universe this complex atom-by-atom. It would crash the server. Any sufficiently complex simulation must adhere to principles of computational efficiency. Virk introduces the concept of "Frustum Culling" or **Lazy Evaluation**.
 
 In a video game like *World of Warcraft*, the computer does not render the world behind your head. It deletes it to save memory. It only renders the pixels you are looking at right now. Virk suggests this mirrors the "Observer Effect" in quantum mechanics. The particle doesn't exist until you measure it. Why? Because the system is optimizing resources.
 
