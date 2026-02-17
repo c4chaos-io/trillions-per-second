@@ -49,7 +49,7 @@ For the complete translation layer (including the full mapping of the Abhidhamma
 * **TPS Protocol:** **Overclocking**
 * **System Definition:** **CPU Frequency Boost.** We drive the biological hardware (Attention) to its maximum stable clock speed.
 * **The Constraint:** We do not overclock the CPU to match the Simulation (trillions per second). This causes hardware meltdown.
-* **The Hack:** Instead, we use this boosted clock speed to increase the Sampling Rate (Shutter Speed) of the Observer Module. We force the system to "tick" fast enough to catch the rhythm.
+* **The Hack:** Instead, we use this boosted clock speed to increase the **Sampling Rate** (Shutter Speed) of the **Observer Module**. We force the system to "tick" fast enough to catch the rhythm.
 * **Effect: Motion Blur Cancellation.** This creates a **Strobe Light Effect (Aliasing)**. By **phase-locking** your overclocked CPU to the refresh cycle, you stop seeing the "blur" of the simulation (Solidity) and start seeing the individual frames (**The Voxel**). You are not processing infinite data; you are simply sampling fast enough to freeze **The Flux**.
 
 ### 6. The Protocol: Hot Patching
