@@ -1,4 +1,3 @@
-
 ---
 
 ## 📍CHECKPOINT 1: STREAM ANALYSIS
@@ -37,6 +36,8 @@ We want the wind. We want to see it in motion. If you freeze the stream, you can
 
 ### The Assignment: Packet Sniffing
 
+![Image](/assets/infographics/TPS_IMG_Checkpoint01.jpg)
+
 In network security, there is a tool called **Wireshark**. It allows an admin to intercept and log traffic passing over a digital network. It doesn't look at the pretty website; it looks at the **raw packets**. It sees the **TCP/IP handshake**. It sees the **hex code**.
 
 Right now, your brain is rendering a pretty website called "My Life." It shows you objects: "Chair," "Music," "Knee Pain," "Boredom."
@@ -44,9 +45,8 @@ Right now, your brain is rendering a pretty website called "My Life." It shows y
 Your assignment is to stop looking at the website and start looking at the packets. We are going to run a **Stream Analysis**.
 
 ---
-### The Protocol
 
-![Image](/assets/infographics/TPS_IMG_Checkpoint01.jpg)
+### The Protocol
 
 Look at the infographic above. It is the schematic of this protocol. Below are the detailed instructions. 
 
@@ -108,7 +108,9 @@ You will try to filter the packets. You'll think, "Peaceful thoughts are good. A
 
 ---
 
-### EXIT CRITERIA
+### 🎯 EXIT CRITERIA
+
+![Image](/assets/infographics/TPS_IMG_Checkpoint01Exit.jpg)
 
 You pass this checkpoint when you experience the **Noun-to-Verb shift**.
 
@@ -118,7 +120,7 @@ That is a glitch. That is a direct look at the code.
 
 ### The Technical Breakdown: What to Look For
 
-**1. The Partitioning of the Stack**
+#### 1. The Partitioning of the Stack
 
 You no longer experience a unified "Me." You clearly see the **Bio-Chassis** (Matter) and **The OS** (Mind) as two different layers of the stack.
 
@@ -128,7 +130,7 @@ You no longer experience a unified "Me." You clearly see the **Bio-Chassis** (Ma
 
 **The Sign:** You feel like a technician watching a monitor rather than a character inside the game.
 
-**2. The Noun-to-Verb Collapse**
+#### 2. The Noun-to-Verb Collapse
 
 This is the big one. Usually, you have a **Subject** (The Listener) acting on an **Object** (The Sound). This is "Noun Logic."
 
@@ -136,7 +138,7 @@ This is the big one. Usually, you have a **Subject** (The Listener) acting on an
 
 **The Sign:** For a micro-second, the "Me" that owns the experience goes offline. There is no one home. There is just the raw processing of the audio packet.
 
-**3. The End of Ownership**
+#### 3. The End of Ownership
 
 You begin to see "Thoughts" and "Sensations" as unsolicited data packets.
 
@@ -148,14 +150,16 @@ You begin to see "Thoughts" and "Sensations" as unsolicited data packets.
 
 You are ready to exit Checkpoint 1  when you can confirm these three system states:
 
-**A. Zero Interiority:** You look at the **Bio-Chassis** and realize it is "empty" of a person. It is just a complex piece of biological hardware running on the **Physics Engine**.
+#### A. Zero Interiority
+You look at the **Bio-Chassis** and realize it is "empty" of a person. It is just a complex piece of biological hardware running on the **Physics Engine**.
 
-**B. Data Transparency:** You can see the gap between a **Voxel** (the raw sensation of heat or pressure) and the Metadata Tag (the label "Pain" or "Hot"). You see the tag as a software addition, not an inherent property of the data.
+#### B. Data Transparency
+You can see the gap between a **Voxel** (the raw sensation of heat or pressure) and the Metadata Tag (the label "Pain" or "Hot"). You see the tag as a software addition, not an inherent property of the data.
 
-**C. The Observer Module Lock:** You can keep the **Observer Module** online even when the **Self Rootkit** tries to reboot. You watch the "I" feeling arise as just another data packet and you don't buy the lie.
+#### C. The Observer Module Lock
+You can keep the **Observer Module** online even when the **Self Rootkit** tries to reboot. You watch the "I" feeling arise as just another data packet and you don't buy the lie.
 
 If you've seen the "Car" and the "Listener" dissolve into a single "Hearing Event," you've successfully bypassed the UI. You are looking at the **Source Code**. 
-
 
 ### How does the hack actually feel? 
 
