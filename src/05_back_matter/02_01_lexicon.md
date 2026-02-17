@@ -125,14 +125,13 @@ We treat the mind as an OS. "*Bhavanga*" becomes the **Idle Process**. It’s ju
 Religious texts call these "Defilements" or "Sins." That makes you feel guilty. It makes you feel like a bad person. You aren't bad. You are just infected.
 
 **The Refactor:**
-"Delusion" is a **Rootkit**. It convinces the system there is a "User" separate from the code. "Craving" isn't a moral failing. It’s a **Resource Hog**. It’s an infinite loop that tries to pause the Flux. This consumes 99% of your CPU. "Aversion" is just a **Firewall Breach**. It’s the friction of trying to delete Read-Only files.
+"Delusion" is a **Rootkit**. It convinces the system there is a "User" separate from the code. "Craving" and "Aversion" aren't moral failings. They're **Resource Hog**. It’s an infinite loop that tries to pause the Flux. This consumes 99% of your CPU. 
 
 | TPS Terminology | Legacy Code (Pali) | System Definition (Functionality) |
 | :--- | :--- | :--- |
 | **The Self Rootkit** | *Moha* (Delusion) | The kernel-level exploit that grants "Admin" privileges to a non-existent User. It hides the Null Pointer error from the OS. |
-| **Inefficient Sub-routines** | *Kilesas* | Malware Definitions. Specific malicious scripts (e.g., Greed, Hate, Anxiety) executed by the Rootkit to hog system resources. |
-| **The Resource Hog** | *Tanha* (Craving) | High CPU Usage. The primary executable of the Rootkit. It consumes 99% CPU by attempting to "pause" the Flux (freeze pleasant frames). |
-| **Firewall Breach** | *Dosa* (Aversion) | Deletion Error. The system heat generated when the Rootkit attempts to force-delete "Read-Only" files (unpleasant sensations). |
+| **The Resource Hog** | *Tanha* (Craving) *Dosa* (Aversion) | High CPU Usage / Thrashing. The unauthorized process of Resistance. It manifests as a bidirectional infinite loop: 1. The Pull (Craving): Attempting to "Freeze" pleasant frames. 2. The Push (Aversion): Attempting to "Force-Delete" unpleasant frames. The system ignores the Read-Only nature of the Flux and burns energy trying to Write (Control) the stream. |
+| **Inefficient Sub-routines** | *Kilesas* | Malware Definitions. Specific flavors of the Resource Hog (e.g., Lust, Anger, Fear). These are just the specific .exe files; the **Resource Hog** is the parent process running them. |
 | **Background Noise** | *Uddhacca* | Fan Spin. Excessive scattered energy preventing the CPU from locking onto a target. |
 
 ---
@@ -147,7 +146,7 @@ We stripped it down to physics and axioms.
 | TPS Axiom | Legacy Code (Truths) | System Definition (Functionality) |
 | :--- | :--- | :--- |
 | **Axiom 1: Latency** | *Dukkha* | The friction (Lag) created by the hardware's inability to process The Flux in real-time. |
-| **Axiom 2: Resource Hog** | *Samudaya* | **The Cause.** The **Self Rootkit** executes the infinite loop (Craving) that attempts to "pause" the Flux, causing System Overheat. |
+| **Axiom 2: Resource Hog** | *Samudaya (The Origin)* | The System Overload. The Self Rootkit executes the Binary Loop of Preference: IF (Pleasant) THEN { HOLD/CRAVING } ELSE IF (Unpleasant) THEN { REJECT/AVERSION } Since the Data Stream (Flux) cannot be held or rejected, this loop runs infinitely, consuming 99% of system resources and generating fatal heat (Suffering). |
 | **Axiom 3: Zero Lag** | *Nirodha* | The fact that the code can run without buffering (Cessation). |
 | **Axiom 4: The Protocol** | *Magga* | The "How-To" manual used to install the patch. |
 

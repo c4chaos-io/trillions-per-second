@@ -1,5 +1,5 @@
 ---
-## The Kernel Specs (The Four Axioms)  
+## The Kernel Specs (Four Axioms)  
   
 ![Image](/assets/infographics/TPS_IMG_KernelSpecs.jpg)
 
@@ -18,7 +18,7 @@ Here is the hard truth. **Reality is not solid**. It is a procedural generation 
 
 The universe is a stream of raw data events arising and passing away at incredible speed. This is **The Flux**.
 
-The problem is the hardware. The biological brain (The Avatar) runs at roughly 200 Hz. It cannot see the individual frames. It is overwhelmed by the bandwidth.
+The problem is the hardware. The CPU (Brain) of **The Avatar** runs at roughly 200 Hz. It cannot see the individual frames. It is overwhelmed by the bandwidth.
 
 To make sense of the chaos, the System **Buffers**. It captures the live stream and smears the frames together to create a smooth, continuous image. In signal processing, this is called **Persistence of Vision**.
 
@@ -30,39 +30,42 @@ This buffering creates **System Latency**. The friction you feel in life is simp
 
 ### Axiom 2: The Resource Hog (The Cause)
 
-**Legacy Code:** *Samudaya* (Craving)
+**Legacy Code:** *Samudaya* (Origin) / *Tanha* (Craving) & *Dosa* (Aversion)
 **System Status:** Overheating
 
 Why is the system lagging? Because the **Self Rootkit** is running a background process consuming 99% of the CPU.
 
 This executable is **The Resource Hog**.
 
-It is a recursive loop that attempts to "pause" **The Flux**. It tries to freeze pleasant moments and delete unpleasant ones.
+It is a recursive loop that attempts to control **the Flux**. It acts as a bidirectional valve that tries to freeze pleasant moments (Craving) and force-delete unpleasant ones (Aversion).
 
-This prevents the system from running auto-scheduled Garbage Collection. Instead of purging old cache files like past traumas, grudges, and outdated narratives,  the **Self Rootkit** locks them into active RAM. This causes a massive **Memory Leak**. Processing power is lost to background processes that should have been terminated years ago.
+This prevents the system from running auto-scheduled Garbage Collection. Instead of purging old cache files like past traumas, grudges, and outdated narratives, the Self Rootkit locks them into active RAM. This causes a massive **Memory Leak**. Processing power is lost to background processes that should have been terminated years ago.
 
 But the data stream cannot be paused.
-
 The system overheats. It is an attempt to run a static file structure on a streaming environment. The "Self" is not the User. It is the **Self Rootkit** that assumes it is the Admin.
 
 ### Axiom 3: Zero Lag (The Fix)
 
 **Legacy Code:** *Nirodha* (Cessation)
-**System Status:** Optimized
+**System Status:** Pass-Through 
 
-The good news? The code can be optimized.
+The good news? The code is fixable.
 
-"Enlightenment" is often mistaken for deleting the simulation or escaping reality.
+Most people think "Enlightenment" means deleting the Simulation. They think you escape the Matrix and float off into a void.
 
-That is incorrect. The simulation is not deleted. The malware is deleted.
+That is incorrect. You do not delete the Simulation. You delete the Malware.
 
-Upon termination of the **Self Rootkit**, CPU usage drops. Buffering stops. The data stream is processed in real-time. This is the state of **Zero Lag**. Friction vanishes. The system runs cool, fast, and frictionless.
+Upon termination of the Self Rootkit, the system stops Buffering. You stop trying to cache the pleasant frames (Craving). You stop trying to firewall the painful ones (Aversion).
+
+You are no longer "processing" the data. You are streaming it.
+
+The data moves through the Avatar without sticking. The friction vanishes. The drag disappears. The System runs cool, fast, and completely frictionless.
 
 ### Axiom 4: The Master Protocol (The Patch)
 
 **Legacy Code:** *Magga* (The Path)
 **System Status:** Installing Update...
 
-How is this optimization executed? It requires a specific algorithm.
+How is this pass-through optimization executed? It requires a specific algorithm.
 
 The **Self Rootkit** cannot be removed by wishing. It demands a step-by-step uninstall guide. The Prime User provided **The Master Protocol**. This manual is the compiled patch.
