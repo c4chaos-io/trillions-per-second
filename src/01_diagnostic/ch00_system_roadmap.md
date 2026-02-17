@@ -41,7 +41,17 @@ Once you see the stream, you notice the buffer. You realize that the **Self Root
 ### 📍CHECKPOINT 3: THE OVERCLOCK (God Mode)
 **Legacy Term:** *Udayabbaya* (Arising & Passing Away)
 
-This is the fun part. Your system syncs up with the refresh rate of reality. **[PATCHNOTE: on syncing]** You have tons of energy. Your dreams become lucid. You might feel like you can read minds or see the future.
+This is the fun part. You engage the **Strobe Effect**.
+
+You have successfully **Overclocked** your attention. You aren't running at trillions per second, but you have pushed your sampling rate fast enough to **Phase-Lock** with the refresh rhythm of reality.
+
+Just as a strobe light makes a spinning fan look like it is standing still, your high-speed noting freezes **the Flux**. 
+
+You stop seeing the blur (Solidity) and start seeing the individual frames (Vibrations).
+
+* **Unlimited Energy:** You have tons of it. You barely need sleep. The system is running on pure voltage.
+* **Lucid Dreams:** The high refresh rate bleeds into your sleep cycle. You become Admin in your own dreams.
+* **God Mode:** You feel invincible. You might feel like you can read minds or see the future. (Spoiler Alert: You can’t. Don’t bet the house. It’s just the dopamine hitting the prefrontal cortex.)
 
 > **Warning:** Do not let this crash your build. These are just **Developer Tools**. Enjoy the high frame rate, but do not stop here. If you cling to this state, you are just playing with the screensaver.
 
@@ -81,7 +91,7 @@ This isn't a straight line. It's a spiral.
 
 * **CYCLES 2 & 3 (The Optimization / v2.0 - v3.0)**
   * **Status:** **DRIVER UPDATE.**
-  * **Patch Notes:** We go back into the loop. This time, we are hunting the "Big Game"—the deep-seated algorithms of **The Resource Hog (Craving)** and **Firewall Breaches (Aversion)**.
+  * **Patch Notes:** We go back into the loop. This time, we are hunting the "Big Game"—the deep-seated algorithms of **The Resource Hog (Craving/Aversion)**.
   * **Result:** The system becomes highly efficient. The friction of the simulation drops by 50-90%. You are no longer fighting the **Flux**; you are surfing it.
 
 * **CYCLE 4 (Stable State / v4.0)**
