@@ -41,7 +41,7 @@ Once you see the stream, you notice the buffer. You realize that the **Self Root
 ### 📍CHECKPOINT 3: THE OVERCLOCK (God Mode)
 **Legacy Term:** *Udayabbaya* (Arising & Passing Away)
 
-This is the fun part. Your system syncs up with the refresh rate of reality. You have tons of energy. Your dreams become lucid. You might feel like you can read minds or see the future.
+This is the fun part. Your system syncs up with the refresh rate of reality. **[PATCHNOTE: on syncing]** You have tons of energy. Your dreams become lucid. You might feel like you can read minds or see the future.
 
 > **Warning:** Do not let this crash your build. These are just **Developer Tools**. Enjoy the high frame rate, but do not stop here. If you cling to this state, you are just playing with the screensaver.
 

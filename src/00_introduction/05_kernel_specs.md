@@ -16,13 +16,17 @@ The core of the Master Protocol rests on four immutable laws. Legacy documentati
 
 Here is the hard truth. **Reality is not solid**. It is a procedural generation engine rendering at trillions per second.
 
-The universe is a stream of raw data events arising and passing away at incredible speed. This is **The Flux**. The problem is the hardware. The biological brain cannot process the data stream in real-time. It undersamples the signal.
+The universe is a stream of raw data events arising and passing away at incredible speed. This is **The Flux**.
 
-To make sense of the chaos, the brain buffers the data. It takes the fluid stream and stitches it together into static "objects" and "people." In graphics programming, these are **Aliasing Artifacts**. Just as a spinning car wheel looks like it is moving backward on video due to frame rate lag, life looks solid only because the brain's refresh rate is too slow to see the atoms vibrating.
+The problem is the hardware. The biological brain (The Avatar) runs at roughly 200 Hz. It cannot see the individual frames. It is overwhelmed by the bandwidth.
+
+To make sense of the chaos, the System **Buffers**. It captures the live stream and smears the frames together to create a smooth, continuous image. In signal processing, this is called **Persistence of Vision**.
+
+Just as a ceiling fan looks like a solid disk when spinning at max speed, the world looks solid only because your brain’s refresh rate is too slow to see the empty space between the frames. You are not seeing reality; you are seeing **Motion Blur**.
 
 The world appears solid. It is merely the "motion blur" of a high-speed system.
 
-This buffering creates **Latency**. The friction experienced in life is simply the lag between the live feed and the buffered render.
+This buffering creates **System Latency**. The friction you feel in life is simply the lag between the **Live Feed** (The Flux) and your **Buffered Render** (The "Solid" World).
 
 ### Axiom 2: The Resource Hog (The Cause)
 

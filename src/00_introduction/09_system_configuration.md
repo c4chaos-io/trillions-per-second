@@ -47,8 +47,8 @@ For the complete translation layer (including the full mapping of the Abhidhamma
 ### 5. The Boost: Overclocking
 * **Legacy Code:** Absorption (*Samadhi*)
 * **TPS Protocol:** **Overclocking**
-* **System Definition:** **Boost Clock Speed.** Stabilizing the hardware to run at higher frequencies.
-* **Effect:** Once you have **Signal Lock**, you Overclock the CPU. This allows you to process the data stream at the speed of the simulation (Trillions Per Second) without crashing. ***[PATCH NOTE: The CPU (Brain) is only capable of 40 hz. We need to clarify that the goal is not to sync with the TPS Refresh Rate. We can explain this by using the strobe light effect and also clarifying that it's the Observer Module "syncs" with the refresh rate of the Simulation.]***
+* **System Definition:** **Shutter Speed Adjustment.** We **do not** overclock the biological CPU (Brain) to match the **Refresh Rate** of Simulation (trillions per second). This causes hardware meltdown. Instead, we increase the **Sampling Rate** of the **Observer Module**.
+* **Effect: Motion Blur Cancellation.** This creates a "strobe light" effect (Aliasing). By phase-locking your attention to the refresh cycle, you stop seeing the "blur" of the simulation and start seeing the individual frames (the **Voxels**). You are not processing infinite data; you are simply snapping the shutter fast enough to **freeze the Flux**. 
 
 ### 6. The Protocol: Hot Patching
 * **Legacy Code:** Dry Insight (*Sukkha Vipassana*)
@@ -59,8 +59,8 @@ For the complete translation layer (including the full mapping of the Abhidhamma
 ### 7. The Goal: Zero Lag
 * **Legacy Code:** Enlightenment (*Nirodha/Nibbana*)
 * **TPS Protocol:** **Zero Lag**
-* **System Definition:** **Optimization.** The state where the system processes **The Flux** in real-time without buffering (Craving/Aversion).
-* **Result:** The friction vanishes. The loop ends. The system runs cool, fast, and completely frictionless.
+* **System Definition:** **Optimization / Latency Elimination.** The state where the system **streams** the data without **Buffering** (Craving/Aversion). **Clarification:** "Buffering" is the system's attempt to cache pleasant files (Craving) or firewall unpleasant ones (Aversion). This creates drag. **Zero Lag** means shifting from "Store and Forward" to "Direct Pass-Through."
+* **Result: Total Throughput.** The friction vanishes. The recursive loop of "Self" stops checking every packet. The data stream moves through the Avatar without sticking. The system runs cool, fast, and completely frictionless.
 
 ### 8. The Metric: TPS
 * **Legacy Code:** Momentary Concentration (*Khana*)

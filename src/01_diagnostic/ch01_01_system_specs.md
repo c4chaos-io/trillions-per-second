@@ -42,7 +42,7 @@ They called it the **kalapa**.
 
 This is the smallest indivisible unit of matter, or *rupa*. A kalapa is not a singular particle. It is a "cluster" or "bundle" (the literal translation). Think of it as a **Data Packet** or an **Object Class**. It is an "octad" containing eight inseparable qualities: *solidity, cohesion, temperature, motion, color, odor, taste,* and *nutritive essence*.
 
-These packets are not static. They are high-frequency **events**. They arise and dissolve at a rate described as "trillion times per second" (10<sup>12</sup> Hz). Or, as Burmese meditation master U Ba Khin put it, *"the life-span of a kalapa is termed a 'moment,' and a trillion such moments are said to elapse during the wink of a man's eye."*
+These packets are not static. They are high-frequency **events**. They arise and dissolve at a rate described as "trillions per second." Or, as Burmese meditation master U Ba Khin put it, *"the life-span of a kalapa is termed a 'moment,' and a trillion such moments are said to elapse during the wink of a man's eye."*
 
 ### The Netflix Protocol
 
