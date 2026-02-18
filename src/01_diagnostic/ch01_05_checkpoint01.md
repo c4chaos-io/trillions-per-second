@@ -60,7 +60,7 @@ Close your eyes to shut down the **Video Port** (Input Port 1). This frees up RA
 
 #### 2. Open the Logs (The Anchor)
 
-Focus your attention on the **Haptic Port** (the body). Specifically, find a sensation that is constant, like the pressure of your butt on the chair or the **rising and falling** movement of your breath. This is your "Home" directory.
+Focus your attention on the **Haptic Port** (the body). Specifically, find the **System Pulse**: the physical expansion and contraction of the abdomen (Rising/Falling). Do not visualize 'lungs' or 'air.' Detect the raw **Pneumatic pressure**. This is your 'Home' directory."
 
 #### 3. Tag the Traffic (The Noting Technique)
 
@@ -107,6 +107,11 @@ You will try to tag a thought, but then you'll open the packet.
 You will try to filter the packets. You'll think, "Peaceful thoughts are good. Anxious thoughts are bad."
 * **The Fix:** Wireshark doesn't care if the data is a love letter or a virus. It just logs the traffic. Be like Wireshark. Equanimity is just technical neutrality.
 
+**Error 3: Thermal Throttling (Physical Pain)**
+You will feel heat, burning, or stiffness in the knees or back.
+* **Legacy User:** "My knee hurts. I need to move."
+* **SysAdmin:** "Thermal sensors are registering high voltage in Sector [Right Knee]."
+* **The Fix:** Do not move. Pain is just high-density information. **Tag it: "Burning... Burning..."** Watch the packets vibrate. If you hold still, the "Knee" (Solid Object) will eventually dissolve into a stream of heat (Raw Data).
 
 ---
 
@@ -131,6 +136,8 @@ You no longer experience a unified "Me." You clearly see the **Bio-Chassis** (Ma
 **The OS:** You see the "Knowing" as a separate software process. It is a stream of frames rushing to read the hardware data.
 
 **The Sign:** You feel like a technician watching a monitor rather than a character inside the game.
+
+**Note:** Do not try to "find" the Observer. The Observer is not an object you can see; it is the camera lens itself. If you try to look at the lens, you just create a mirror loop. Just let the recording happen.
 
 #### 2. The Noun-to-Verb Collapse
 
