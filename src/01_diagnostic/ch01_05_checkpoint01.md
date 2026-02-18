@@ -38,7 +38,7 @@ We want the wind. We want to see it in motion. If you freeze the stream, you can
 
 ### The Assignment: Packet Sniffing
 
-![Image](/assets/infographics/TPS_IMG_Checkpoint01.jpg)
+![Image](/assets/infographics/TPS_IMG_PacketSniffing.jpg)
 
 In network security, there is a tool called **Wireshark**. It allows an admin to intercept and log traffic passing over a digital network. It doesn't look at the pretty website; it looks at the **raw packets**. It sees the **TCP/IP handshake**. It sees the **hex code**.
 
@@ -49,6 +49,8 @@ Your assignment is to stop looking at the website and start looking at the packe
 ---
 
 ### The Protocol
+
+![Image](/assets/infographics/TPS_IMG_Checkpoint01.jpg)
 
 Look at the infographic above. It is the schematic of this protocol. Below are the detailed instructions. 
 
