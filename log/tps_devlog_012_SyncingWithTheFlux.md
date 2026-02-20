@@ -44,6 +44,10 @@ Zero Lag just means you stop caching. You let the stream rip right through you.
 
 See updated **[System Configuration](/src/00_introduction/09_system_configuration.md)**.
 
+Also check out TPS Podcast deep dive for the full break down. 
+
+📺 **[TPS Pod Ep. 15: Syncing with The Flux](https://youtu.be/UHFEJplTOi0?si=3HiViQtJk-GbXdao)**
+
 Bug squashed. Logic holds.
 
 Hack the simulation. See you in the Flux.
