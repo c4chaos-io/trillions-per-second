@@ -14,7 +14,11 @@ This isn't your standard "sit quietly and watch your breath" manual. Aurobindo i
 
 I fed his entire metaphysics into the TPS Protocol. I wanted to see if our rig could handle the voltage. Or if it would melt the motherboard.
 
-Here is the breakdown.
+Check out the TPS Podcast for the deep dive.
+
+📺 **[TPS Pod Ep. 14: Stress Testing the Divine](https://youtu.be/sjr3FrELeG4?si=jqjmpgDA9P8T7oQT)**
+
+Here is the full breakdown.
 
 ### 1. The Legacy Code (Aurobindo’s Thesis)
 

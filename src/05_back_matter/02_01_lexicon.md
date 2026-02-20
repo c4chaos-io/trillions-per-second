@@ -1,4 +1,4 @@
-# APPENDIX A: THE MASTER SYSTEM LEXICON (v4.0)
+# APPENDIX A: THE MASTER SYSTEM LEXICON (v4.1)
 
 ![Image](/assets/infographics/TPS_IMG_MasterLexicon.jpg)
 
@@ -458,3 +458,43 @@ These are **System Optimization** scripts. They only run when the Rootkit is sup
 | **Micro-Ack (Patch)** | < No Direct Legacy Term > | INTEGRITY PATCH: High-frequency binary tagging (e.g., rapid "clicks" of attention) used when the Data Stream exceeds the speed of verbal Labeling. |
 | **Spam / Pop-ups** | *Distraction (Uddhacca)* | Unsolicited background processes attempting to hijack CPU cycles from the Observer Module. |
 | **Global Signal Lock** | *Samadhi (Universal)* | The Connection. The universal capability to lock the CPU onto a target, whether that target is a Goenka-style body-scan or a Mahasi-style rising-falling event. |
+
+### ADDENDUM: SYSTEM ANOMALIES & THE BLACK HAT TRAP
+
+Do not confuse the **Server-Side** with **the Kernel**. As you optimize your refresh rate and log out of the physical Client-Side, you will inevitably encounter the **Staging Environment**. Be warned: the Server-Side is seductive. Because the lag between input and output is near zero, you will see visions and feel god-like. You will discover you can toggle "God Mode," play with console commands, and spawn items. 
+
+Do not take the bait. In simulation terms, getting stuck in **Dev Mode** is the path of the **Black Hat**. 
+
+We are only providing this map of system exploits so you do not panic if you stumble into these zones. You might need to translate your experiences as you move past these checkpoints, but you must treat this information strictly like a fire extinguisher. It is good to have in an emergency, but you do not go looking for a fire just to use it. Your ultimate objective is not to play with the server logs. Your goal is to penetrate past the Server. Go past the logic. Go straight to the Kernel.
+
+#### 1. Psi Modules (Dev Mode Exploits)
+
+**The Refactor (Why we hacked it):** The Server-Side of the simulation is highly seductive. When users stumble into these zones, they see visions, feel god-like, and get stuck in "Dev Mode". We added this section as a "fire extinguisher". It is crucial to map these legacy *Abhiññā* abilities so users recognize them as mere system exploits, not the final goal. The ultimate objective is to bypass the Server logic entirely and reach the Kernel.
+
+| Legacy Code (Pali) | Native UI (TPS Protocol) | System Definition / Mechanics |
+| :--- | :--- | :--- |
+| **Abhiññā** | **Dev Mode Exploits** | The overarching category for unsupported console commands that manipulate Server-Side logic. |
+| **Iddhividhā** | **Script Injection / Coordinate Hack** | **Magick:** Using ritual (syntax) and will (compile command) to execute custom macros to override local probability. <br><br>**Telekinesis:** Using a console command to modify an object's position data (`obj.pos.x`) without interacting with the physics engine's gravity or friction. |
+| **Dibbasota** | **Direct P2P Messaging** | **Telepathy:** Bypassing the slow, lossy "Language" driver to transfer data packets directly between two Client nodes. |
+| **Pubbenivāsānussati** | **Global System Logs** | **Akashic Records:** Accessing the immutable, read-only cloud database containing the history of every keystroke and transaction ever executed. |
+| **Dibbacakkhu / Anāgatamsa** | **Remote Desktop / Buffer Read** | **Clairvoyance:** Tapping into remote video feeds. <br><br>**Precognition:** Accessing the server's event queue to see commands processed by the logic layer before they render on the Client screen. |
+
+#### 2. Altered States (Offline & Sandbox Modes)
+
+**The Refactor (Why we hacked it):** Users frequently trigger hardware/software anomalies that disrupt the standard First-Person Shooter perspective. If a user experiences an ego-death on psychedelics or flies in a dream, they might mistake it for Root Access (*Nibbana*). This section classifies these events as temporary UI resets or offline modes so the user understands they are still within the simulation's broader architecture. 
+
+| Legacy Code | Native UI (TPS Protocol) | System Definition / Mechanics |
+| :--- | :--- | :--- |
+| **Subconscious States** | **Local Sandbox Mode** | **Lucid Dreams:** Gaining admin privileges within a temporary, offline instance where changes do not save to the persistent world server. |
+| **Manomaya-kaya (Mind-made body)** | **Camera Decoupling** | **Out of Body Experience (OBE):** The consciousness unit detaches from the Avatar mesh, shifting the user from a locked First-Person view to a Free-Roaming Camera. |
+| **Chemical Jhana / Hardware Override** | **UI Reset** | **Psychedelics:** Substances that strip away the user interface; desktop icons disappear, revealing the raw code and wireframes beneath. |
+
+#### 3. The Staging Environment (Cross-Platform Patch)
+
+**The Refactor (Why we hacked it):** The core legacy code of the Abhidhamma insists on a "zero ping" respawn—relinking consciousness happens instantaneously at death. However, to account for deep *samadhi* states and the transition phases reported by sensitives, we had to patch in a cross-platform concept from Vajrayana/Tibetan Buddhism (the *Bardo*). This allows us to explain the backend architecture where raw data and logic are processed outside the Client-Side physics engine.
+
+| Legacy Code (Tibetan/Vajrayana) | Native UI (TPS Protocol) | System Definition / Mechanics |
+| :--- | :--- | :--- |
+| **Bardo / Antarabhāva** | **The Staging Environment** | **The Afterlife:** A Zero-Render Environment and server lobby where performance metrics are reviewed after a session ends. You are interacting directly with the code, making experiences feel fluid and dreamlike with near-zero lag between input and output. |
+| **Punarjanma / Samsara** | **Respawning** | **Reincarnation:** Selecting a new avatar class and queuing for a new session based on previous gameplay stats. |
+| **Karmic Traces / Ghosts** | **Corrupted Cache Files** | **Entities & Foreign Users:** A hung process or a glitch in the logout sequence that leaves a corrupted file in the local cache. |
