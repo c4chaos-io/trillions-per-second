@@ -32,6 +32,10 @@ These sections are now available:
 
 **[📍CHECKPOINT 01: STREAM ANALYSIS](/src/01_diagnostic/ch01_05_checkpoint01.md)**
 
-It is time to start hacking the simulation.
+Also check out TPS Podcast for a deep dive on the System Roadmap.
+
+**📺 [TPS Pod Ep. 16: System Roadmap (Installation Wizard)](https://youtu.be/6APGzla1GlE?si=r_8yUdYXYhN-AXZa)**
+
+Stop the Boot Loop. View the Roadmap. Hack the Simulation. 
 
 ~C4Chaos
