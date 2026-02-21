@@ -14,7 +14,23 @@ We finally squashed the bugs and pushed the hotfixes. Now I can tackle the rest 
 
 Enough talk. **Chapter 1** is deployed. **Checkpoint 01** is live.
 
-See: https://github.com/c4chaos-io/trillions-per-second/tree/main/src/01_diagnostic
+These sections are now available:
+
+**[PART 1: DIAGNOSTIC](/src/01_diagnostic/00_diagnostic.md)**
+
+**[System Roadmap: The Installation Wizard](/src/01_diagnostic/ch00_system_roadmap.md)**
+
+**[CHAPTER 1: THE PHYSICS ENGINE](/src/01_diagnostic/ch01_00_physics_engine.md)**
+
+**[1.1 System Specs: The Refresh Rate](/src/01_diagnostic/ch01_01_system_specs.md)**
+
+**[1.2 Hardware Specs: Input Ports](/src/01_diagnostic/ch01_02_hardware_specs.md)**
+
+**[1.3 The Three Signatures](/src/01_diagnostic/ch01_03_three_signatures.md)**
+
+**[1.4 The Hardcore Ethos: The Map is Not the Territory](/src/01_diagnostic/ch01_04_hardcore_ethos.md)**
+
+**[📍CHECKPOINT 01: STREAM ANALYSIS](/src/01_diagnostic/ch01_05_checkpoint01.md)**
 
 It is time to start hacking the simulation.
 
