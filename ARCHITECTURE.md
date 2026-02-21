@@ -50,7 +50,7 @@ Deconstructing the Physics Engine and identifying the malware. (Addressing Axiom
 * **[System Roadmap: The Installation Wizard](src/01_diagnostic/ch00_system_roadmap.md)**
 * **[CHAPTER 1: THE PHYSICS ENGINE](src/01_diagnostic/ch01_00_physics_engine.md)**
     * **[1.1 System Specs:](src/01_diagnostic/ch01_01_system_specs.md)** Voxels / Refresh Rate 
-    * **[1.2 The Avatar: Hardware & Input Ports:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports  
+    * **[1.2 The Avatar: Hardware and Input Ports:](src/01_diagnostic/ch01_02_hardware_specs.md)** Input Ports  
     * **[1.3 The Three Signatures:](src/01_diagnostic/ch01_03_three_signatures.md)** The Flux, System Latency, The Null Pointer
     * **[1.4 Hardcore Ethos:](src/01_diagnostic/ch01_04_hardcore_ethos.md)** The Map is Not the Territory
     * **[📍 CHECKPOINT 1: STREAM ANALYSIS](src/01_diagnostic/ch01_05_checkpoint01.md)** - Seeing "events" instead of objects

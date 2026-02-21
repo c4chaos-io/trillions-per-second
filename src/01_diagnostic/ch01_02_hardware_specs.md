@@ -1,6 +1,6 @@
 ---
 
-## 1.2 The Hardware Specs: Input Ports 
+## 1.2 The Avatar: Hardware and Input Ports 
 
 ![Image](/assets/infographics/TPS_IMG_HardwareSpecs.jpg)
 

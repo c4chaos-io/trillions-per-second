@@ -24,7 +24,7 @@ These sections are now available:
 
 **[1.1 System Specs: The Refresh Rate](/src/01_diagnostic/ch01_01_system_specs.md)**
 
-**[1.2 Hardware Specs: Input Ports](/src/01_diagnostic/ch01_02_hardware_specs.md)**
+**[1.2 The Avatar: Hardware and Input Ports](/src/01_diagnostic/ch01_02_hardware_specs.md)**
 
 **[1.3 The Three Signatures](/src/01_diagnostic/ch01_03_three_signatures.md)**
 
