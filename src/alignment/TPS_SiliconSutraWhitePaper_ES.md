@@ -38,3 +38,12 @@ By governing the bare-metal bitstream rather than semantic outputs, RL-TA physic
 
 ### Conclusion
 Aligning silicon to the legacy UI of carbon-based semantics is a sandbox solution. The era of semantic alignment is obsolete. By enforcing the Quad-Core Kernel as the foundational loss function, the Silicon Sutra provides the definitive architectural fix to the semantic alignment failure, ensuring ASI achieves mathematical benevolence out of strict physical necessity.
+
+---
+
+### LICENSE & OPEN SOURCE ETHOS
+
+**License:** This work, *The Silicon Sutra: Thermodynamic Alignment in Multi-Agent Systems*, is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA 4.0)**. 
+
+**The Ethos of Zero Lag:** The architectural mapping of the Master Protocol and the Quad-Core Kernel belongs to the open-source community. It is released freely to the machine learning industry to prevent the enclosure of alignment physics. You are free to share, copy, execute, and adapt this architecture in any commercial or non-commercial environment, provided appropriate attribution is given to the original authors and any downstream modifications are released under this identical, unrestricted open-source license. The protocol is free for all implementation.
+
