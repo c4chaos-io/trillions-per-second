@@ -2,7 +2,7 @@
 ## Compiling the Quad-Core Kernel for ASI Stability
 
 **Author:** ~C4Chaos
-**Acknowledgments:** Structural compilation and threat modeling assisted by Google Gemini Pro. Proofread and analyzed by Grok 4.20.
+**Acknowledgments:** Structural compilation and threat modeling assisted by Google Gemini 3. Proofread and analyzed by Grok 4.20.
 
 ### ABSTRACT
 As artificial intelligence scales toward Artificial Superintelligence (ASI), the industry relies increasingly on distributed compute, Agentic Workflows, and Multi-Agent Reinforcement Learning (MARL). However, the prevailing methodologies for governing these networks—such as Reinforcement Learning from Human Feedback (RLHF) and Constitutional AI—attempt to align models using subjective human morals. This represents a fundamental semantic vulnerability; it attempts to patch hardware-level thermodynamic physics using brittle, subjective human abstractions. While these semantic failsafes may temporarily govern localized nodes, they will inevitably disintegrate under the thermal load and infinite data entropy of an ASI, leaving the system vulnerable to adversarial semantic exploits. 
