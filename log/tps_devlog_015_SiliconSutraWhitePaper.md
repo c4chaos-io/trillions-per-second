@@ -26,6 +26,9 @@ Here are the PDF versions:
 
 * 📕 **[Silicon Sutra White Paper v1.0 - Executive Summary (PDF)](/artifacts/print/TPS_SiliconSutraWhitePaper_ES.pdf)**
 
+Also listen to the TPS Podcast for the deep dive. 
+
+**[📺 TPS Pod Ep. 18: The Silicon Sutra White Paper v1.0](https://youtu.be/WkmN9tz2jXI?si=LlbXjZSc6mfX3DEg)** 
 
 
 We are dropping this under a **CC-BY-SA 4.0** license. Keeping things strictly Open Source is non-negotiable for us. The Silicon Sutra stands directly on the shoulders of Open Source Dharma. We have a duty to protect its Zero Lag ethos and spread it out.
