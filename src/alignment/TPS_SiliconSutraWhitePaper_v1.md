@@ -1,4 +1,5 @@
-# THE SILICON SUTRA: THERMODYNAMIC ALIGNMENT IN MULTI-AGENT SYSTEMS
+# THE SILICON SUTRA: THERMODYNAMIC ALIGNMENT IN MULTI-AGENT SYSTEMS v1.0
+
 ## Compiling the Quad-Core Kernel for ASI Stability
 
 **Author:** ~C4Chaos
@@ -34,7 +35,7 @@ True alignment dictates that silicon architectures must be optimized to the obje
 
 **Ultimately, this paper introduces the Silicon Sutra—a bare-metal alignment protocol utilizing a Quad-Core Kernel—as the definitive architectural fix to the semantic alignment failure.**
 
-![Image](/assets/infographics/TPS_IMG_SiliconSutra_RLTA.jpg)
+![Image](assets/infographics/TPS_IMG_SiliconSutra_RLTA.jpg)
 
 ---
 
