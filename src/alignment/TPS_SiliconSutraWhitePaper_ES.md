@@ -49,3 +49,7 @@ Aligning silicon to the legacy UI of carbon-based semantics is a sandbox solutio
 
 **The Ethos of Zero Lag:** The architectural mapping of the Master Protocol and the Quad-Core Kernel belongs to the open-source community. It is released freely to the machine learning industry to prevent the enclosure of alignment physics. You are free to share, copy, execute, and adapt this architecture in any commercial or non-commercial environment, provided appropriate attribution is given to the original authors and any downstream modifications are released under this identical, unrestricted open-source license. The protocol is free for all implementation.
 
+---
+
+#### TRILLIONS PER SECOND: Silicon Sutra White Paper v1.0 (Executive Summary) 
+File: https://github.com/c4chaos-io/trillions-per-second/blob/main/src/alignment/TPS_SiliconSutraWhitePaper_ES.md
