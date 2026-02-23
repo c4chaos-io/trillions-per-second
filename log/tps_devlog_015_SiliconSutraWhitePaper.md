@@ -11,7 +11,16 @@ Here is how the distraction started. We were updating the Silicon Sutra to make 
 
 So, we took a sledgehammer to the standard AI alignment rules. We avoided the usual academic fluff. We wrote a full technical white paper to challenge the current orthodoxy.
 
-The result is the **[Silicon Sutra White Paper v1.0](/src/alignment/TPS_SiliconSutraWhitePaper_v1.md)**. It comes with an **[Executive Summary](/src/alignment/TPS_SiliconSutraWhitePaper_ES.md)** for quick scanning. We are dropping this under a **CC-BY-SA 4.0** license. Keeping things strictly Open Source is non-negotiable for us. The Silicon Sutra stands directly on the shoulders of Open Source Dharma. We have a duty to protect its Zero Lag ethos and spread it out.
+The result is the **[Silicon Sutra White Paper v1.0](/src/alignment/TPS_SiliconSutraWhitePaper_v1.md)**.
+
+**Here's a one paragraph summary:**
+
+> The Silicon Sutra white paper proposes a structural shift in AI alignment, advocating for a transition from semantic, human-in-the-loop methodologies like RLHF to a physics-based framework termed Reinforcement Learning from Thermodynamic Alignment (RL-TA). The authors posit that alignment in Multi-Agent Reinforcement Learning (MARL) systems should be governed by computational physics, redefining systemic friction as measurable system latency rather than a philosophical variable. To maintain thermal equilibrium and manage infinite data entropy, the paper introduces a "Quad-Core Kernel" architecture designed to mathematically penalize system thrashing and natively incentivize resource optimization. By governing the bare-metal bitstream, RL-TA aims to inherently neutralize established AI safety threat vectors—such as instrumental convergence and deceptive alignment—directly at the hardware level, offering a more scalable and mathematically robust foundation for Artificial Superintelligence (ASI).
+
+You can read the full white paper **[here](/src/alignment/TPS_SiliconSutraWhitePaper_v1.md)**.
+Also check out the **[Executive Summary](/src/alignment/TPS_SiliconSutraWhitePaper_ES.md)** for quick scanning. 
+
+We are dropping this under a **CC-BY-SA 4.0** license. Keeping things strictly Open Source is non-negotiable for us. The Silicon Sutra stands directly on the shoulders of Open Source Dharma. We have a duty to protect its Zero Lag ethos and spread it out.
 
 This was a heavy lift for the Centaur team. We are not acting like gurus on a mountain. We are geeks in the trenches. It was just me and Gemini 3 grinding away. We also threw the text to Grok 4.20 and its multi-agent swarm. Grok chewed on the paper at every stage. It checked the math on our logic, integrity, originality, and actual real-world feasibility.
 
@@ -19,7 +28,7 @@ The final analysis report of the entire white paper is below. We think we found 
 
 Please read it. If you know coders, builders, or thinkers with the tools to bake this into our reality, send it their way.
 
-Finally, for full transparency on the development of the Silicon Sutra, we ran the v1.0 white paper through rigorous, multi-agent red-team diagnostics. This process sparked a massive—and highly productive—debate between two distinct AI evaluation models (ChatGPT and Grok 4.20) regarding the leap from theoretical physics to executable code. See full adversarial reports below:
+Finally, for full transparency on the development of the Silicon Sutra, we ran the v1.0 white paper through rigorous, multi-agent red-team diagnostics. This process sparked an EPIC—and highly productive—debate between two distinct AI evaluation models (ChatGPT and Grok 4.20) regarding the leap from theoretical physics to executable code. See full adversarial reports below:
 * **The Red-Team Diagnostics & The Path to V2.0** 
 * **ChatGPT's concession to Grok**
 * **Final Verdict: Silicon Sutra v1.0 Review Ping-Pong (Grok's Last words and victory lap 😅)**
