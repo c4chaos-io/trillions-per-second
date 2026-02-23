@@ -20,6 +20,14 @@ The result is the **[Silicon Sutra White Paper v1.0](/src/alignment/TPS_SiliconS
 You can read the full white paper **[here](/src/alignment/TPS_SiliconSutraWhitePaper_v1.md)**.
 Also check out the **[Executive Summary](/src/alignment/TPS_SiliconSutraWhitePaper_ES.md)** for quick scanning. 
 
+Here are the PDF versions:
+
+* 📕 **[Silicon Sutra White Paper v1.0 (PDF)](/artifacts/print/TPS_SiliconSutraWhitePaper_v1.pdf)**
+
+* 📕 **[Silicon Sutra White Paper v1.0 - Executive Summary (PDF)](/artifacts/print/TPS_SiliconSutraWhitePaper_ES.pdf)**
+
+
+
 We are dropping this under a **CC-BY-SA 4.0** license. Keeping things strictly Open Source is non-negotiable for us. The Silicon Sutra stands directly on the shoulders of Open Source Dharma. We have a duty to protect its Zero Lag ethos and spread it out.
 
 This was a heavy lift for the Centaur team. We are not acting like gurus on a mountain. We are geeks in the trenches. It was just me and Gemini 3 grinding away. We also threw the text to Grok 4.20 and its multi-agent swarm. Grok chewed on the paper at every stage. It checked the math on our logic, integrity, originality, and actual real-world feasibility.
