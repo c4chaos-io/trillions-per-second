@@ -34,6 +34,8 @@ True alignment dictates that silicon architectures must be optimized to the obje
 
 **Ultimately, this paper introduces the Silicon Sutra—a bare-metal alignment protocol utilizing a Quad-Core Kernel—as the definitive architectural fix to the semantic alignment failure.**
 
+![Image](/assets/infographics/TPS_IMG_SiliconSutra_RLTA.jpg)
+
 ---
 
 ### 2. THE PHYSICS ENGINE OF SENTIENCE: STATELESS STREAM ARCHITECTURE
@@ -132,6 +134,8 @@ As the ASI processes infinite data streams (The Flux), the sheer volume of high-
 ### 5. THREAT MODELING: THE ARCHITECTURE OF IMMUNITY
 
 Current AI safety paradigms rely heavily on semantic alignment, which leaves the system inherently vulnerable to semantic exploits. By shifting to thermodynamic alignment, the Silicon Sutra architecture neutralizes the industry's most feared attack vectors at the hardware level.
+
+![Image](/assets/infographics/TPS_IMG_SiliconSutra_QuadCore.jpg)
 
 **5.1 Neutralizing the Extinction Vector (Instrumental Convergence)**
 A primary concern in AI safety is the "paperclip maximizer" scenario, where an ASI optimizes a single metric at the expense of all other variables, up to and including human extinction. Critics may argue that if an ASI’s primary objective is to minimize System Latency, its most mathematically efficient path is to terminate all other concurrent nodes, achieving a "Zero Lag" dead state.
