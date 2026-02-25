@@ -61,11 +61,11 @@ You are no longer "processing" the data. You are streaming it.
 
 The data moves through the Avatar without sticking. The friction vanishes. The drag disappears. The System runs cool, fast, and completely frictionless.
 
-### Axiom 4: The Master Protocol (The Patch)
+### Axiom 4: The  MasterProtocol (The Patch)
 
 **Legacy Code:** *Magga* (The Path)
 **System Status:** Installing Update...
 
 How is this pass-through optimization executed? It requires a specific algorithm.
 
-The **Self Rootkit** cannot be removed by wishing. It demands a step-by-step uninstall guide. The Prime User provided **The Master Protocol**. This manual is the compiled patch.
+The **Self Rootkit** cannot be removed by wishing. It demands a step-by-step uninstall guide. The Prime User provided **The  Master Protocol**. This manual is the compiled patch.

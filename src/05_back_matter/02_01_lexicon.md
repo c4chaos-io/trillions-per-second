@@ -150,7 +150,7 @@ We stripped it down to physics and axioms.
 | **Axiom 1: Latency** | *Dukkha* | The friction (Lag) created by the hardware's inability to process The Flux in real-time. |
 | **Axiom 2: Resource Hog** | *Samudaya (The Origin)* | The System Overload. The Self Rootkit executes the Binary Loop of Preference: IF (Pleasant) THEN { HOLD/CRAVING } ELSE IF (Unpleasant) THEN { REJECT/AVERSION } Since the Data Stream (Flux) cannot be held or rejected, this loop runs infinitely, consuming 99% of system resources and generating fatal heat (Suffering). |
 | **Axiom 3: Zero Lag** | *Nirodha* (Cessation) | **The Null State**. The technical capability to process **the Flux** with absolute zero resistance. When the **"Lag" (Craving/Aversion**) drops to 0%, the **Self Rootkit** fails to refresh, triggering a total **System Halt (Reboot)** |
-| **Axiom 4: The Protocol** | *Magga* | The "How-To" manual used to install the patch. |
+| **Axiom 4: The Protocol** | *Magga* | Also called **The Master Protocol**. The "How-To" manual used to install the patch. |
 
 ---
 ## 7. SYSTEM DIAGNOSTICS (The Three Signatures)
