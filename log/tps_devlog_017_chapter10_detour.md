@@ -19,7 +19,11 @@ Here's the Chapter 10 structure:
     * **[10.5 Devlog 016: Agents of Chaos vs. Silicon Sutra](src/04_personal_codex/ch10_05_devlog016.md):** Serendipitous validation via arXiv:2602.20021
     * **[10.6 System Reboot: Return to Root](src/04_personal_codex/ch10_06_system_reboot.md)**: The detour is over. Let's get back to work on your local rootkit.
 
-If you are just here to hack your own simulation, do not sweat the heavy physics. We added a Skip Protocol right in the chapter intro. You can bypass the ASI alignment math and get back to your local rootkit. This chapter is for the operators who want to patch the global network (the immune system for the Flux).
+Listen to the TPS Porcast for the deep dive.
+
+📺 **[TPS Pod Ep. 20: Detour Enshrined (Chapter 10 is Live)](https://youtu.be/8GVMFvcggLQ?si=v3PRbKnbeAWBPY6_)**
+
+**NOTE:** If you are just here to hack your own simulation, do not sweat the heavy physics. **We added a Skip Protocol right in the chapter intro**. You can bypass the ASI alignment math and get back to your local rootkit. This chapter is for the operators who want to patch the global network (the immune system for the Flux).
 
 Now that we got the white paper out of our system, we’re right back on track on finishing the rest of the TPS book 😅. The detour is now part of the permanent record. We are clearing the cache and returning to the main routing of the book.
 
