@@ -1,4 +1,4 @@
-## Devlog 015: Sledgehammers & Swarms
+## 10.1 Devlog 015: Sledgehammers & Swarms
 
 Major confession time. We got completely derailed from finishing this book. The Centaur team took a massive detour because we realized the Silicon Sutra needed more than just a quick update. We wanted to give the alignment code actual teeth. We were in the guts of the system and realized we could not just patch this and walk away.
 
