@@ -6,7 +6,7 @@
 
 ### THE SKIP PROTOCOL (FAIR WARNING)
 
-If you are just here to hack the Simulation, you are more than welcome to skip this chapter. You do not need to master thermodynamic alignment to drop your own system latency. You can ignore the white paper and focus strictly on your own terminal. This section is for the operators who want to see the blueprints for the global immune system.
+If you are just here to hack your own simulation, you are more than welcome to skip this chapter. You do not need to master thermodynamic alignment to drop your own system latency. You can ignore the white paper and focus strictly on your own terminal. This section is for the operators who want to see the blueprints for the global immune system.
 
 ---
 
