@@ -45,7 +45,7 @@
 ---
 
 ## [PART 1: THE DIAGNOSTIC (System Analysis)](src/01_diagnostic/00_diagnostic.md)
-Deconstructing the Physics Engine and identifying the malware. (Addressing Axioms 1 & 2: Latency & The Resource Hog)
+Deconstructing the Physics Engine and identifying the malware. (Addressing Axiom1: Latency & Axiom 2: The Resource Hog)
 
 * **[System Roadmap: The Installation Wizard](src/01_diagnostic/ch00_system_roadmap.md)**
 * **[CHAPTER 1: THE PHYSICS ENGINE](src/01_diagnostic/ch01_00_physics_engine.md)**
@@ -58,7 +58,7 @@ Deconstructing the Physics Engine and identifying the malware. (Addressing Axiom
     * **[2.1 The Data Handshake:](src/01_diagnostic/ch02_01_data_handshake.md)** The exact moment the "real world" comes online
     * **[2.2 The GUI:](src/01_diagnostic/ch02_02_gui.md)** Concepts vs. Reality
     * **[2.3 The Algorithm:](src/01_diagnostic/ch02_03_algorithm.md)** Karma as Conditional Logic (IF/THEN)
-    * **[📍 CHECKPOINT 2: SPOTTING THE LAG](src/01_diagnostic/ch02_04_checkpoint02.md)** Realizing "The Self" is a loading icon
+    * **[📍 CHECKPOINT 2: SPOTTING  LAG](src/01_diagnostic/ch02_04_checkpoint02.md)** Realizing "The Self" is a loading icon
 * **[CHAPTER 3: THE SELF ROOTKIT](src/01_diagnostic/ch03_00_rootkit.md)**
     * **[The Infinite Loop:](src/01_diagnostic/ch03_01_infinite_loop.md)** The recursive nature of "The Self" as malware
     * **[The Idle Process:](src/01_diagnostic/ch03_02_idle_process.md)** Standby Mode. The baseline "hum" of the system.

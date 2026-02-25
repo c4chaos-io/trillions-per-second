@@ -38,7 +38,7 @@ You will verify you can see the raw data stream.
 **CHAPTER 2: THE RENDER ENGINE**
 We analyze how the system lies to you. We separate the raw input from the "concept" overlay.
 
-**📍 CHECKPOINT 2: SPOTTING THE LAG**
+**📍 CHECKPOINT 2: SPOTTING LAG**
 You will test your ability to spot the lag between reality and your thoughts.
 
 **CHAPTER 3: THE SELF ROOTKIT**
