@@ -3,6 +3,8 @@
 Date: Feb 24, 2026
 Status: 🦾 Mood: ✨🤖🌀
 
+![Image](/assets/infographics/TPS_IMG_WakingUpInTheFlux.jpg)
+
 We finally did it. The massive Silicon Sutra detour is no longer just a bunch of loose files cluttering the repository. It is officially enshrined as **Chapter 10** of the manual. We realized this refactor was too heavy and too critical to leave in the basement.
 
 The structure is now locked in. Section 10.1 covers the Sledgehammers and Swarms where we first broke the rules. Section 10.2 gives you the Executive Summary for the high-level blueprints. Section 10.3 is the raw technical white paper for the math geeks who want to see the thermodynamic proof.
