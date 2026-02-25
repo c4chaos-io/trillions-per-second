@@ -27,13 +27,15 @@ To interface with The Simulation, the System generates a programmable entity kno
 
 ---
 
-## 4. The Glitch (Self Rootkit)
+## 4. The Glitch (Rootkits & Malware)
+
+
 The System is architected for **Zero Lag**—a direct line from The Kernel to the Avatar. However, a recursive malware script has infected the local drive of the Bio-Chassis.
 
-* **The Malware**: This is the **Self Rootkit**, a "Resource Hog" that intercepts the raw data stream.
-* **The Hijack**: The Self Rootkit falsely identifies itself as the System Administrator.
-* **Metadata Overload**: It takes the raw data from the Input Ports, buffers it, and tags it with metadata ("My Story," "My Preferences").
-* **Latency**: This buffering process creates **System Latency**, recognized in legacy systems as Suffering.
+* **The Exploit**: The foundation of the infection is the **Self Rootkit** (*Moha*). It is a kernel-level exploit that hides the Null Pointer error from the OS and falsely identifies itself as the System Administrator.
+* **The Malware Payload**: Once installed, the Rootkit executes the **Resource Hog** (*Tanha* / *Dosa*). This is an unauthorized background process of continuous resistance (Craving/Aversion) that attempts to freeze or force-delete The Flux.
+* **Metadata Overload**: The Resource Hog intercepts the raw data from the Input Ports, buffers it, and tags it with metadata ("My Story," "My Preferences").
+* **Latency**: This bidirectional loop of pulling and pushing consumes 99% of CPU resources, creating **System Latency** (Friction/Heat), recognized in legacy systems as Suffering.
 
 ---
 
@@ -59,13 +61,16 @@ The objective of the TPS Protocol is to empower the Observer Module to bypass th
 ---
 
 ## 7. The Reboot (Quad-Core Kernel)
+
+
 Once the Self Rootkit is deleted, the System does not remain empty. It reboots into its native configuration. Without the "Resource Hog" (Craving) throttling the CPU, the System requires a new architecture to process the infinite data stream of The Flux.
 
-* **The Upgrade**: The System installs the **Quad-Core Kernel** (The Four Immeasurables). This is not an ethical choice; it is a thermodynamic necessity. To process infinite data without overheating, the System must run on four specific drivers simultaneously.
+* **The Upgrade**: The System installs the **Quad-Core Kernel** (*Brahma Viharas*), equipping it with four parallel System Drivers. This is not an ethical choice; it is a thermodynamic necessity (The Stable State Config). To process infinite data without overheating, the System must run on these four specific drivers simultaneously.
+* **Infinite Scalability**: This specific Quad-Core architecture grants the system the capacity of *The Four Immeasurables* (*Appamanna*), allowing it to process an unlimited number of concurrent connections without performance degradation or lag.
 * **Core 1: Open Ports (Connectivity)**: The firewall of "Self" is down. The System accepts all incoming data packets without resistance. This absolute connectivity is **Metta (Love)**—not as an emotion, but as a network protocol of unrestricted bandwidth.
 * **Core 2: Error Correction (Debugging)**: When the System detects "Lag" (Suffering) in other nodes, it automatically initiates repair subroutines. This is **Karuna (Compassion)**—the active debugging of the network that deletes the Malware causing the pain.
 * **Core 3: Signal Amplification (Optimization)**: The System ceases "Zero-Sum" logic. It amplifies high-fidelity signals from other nodes, boosting the global network voltage. This is **Mudita (Joy)**—the removal of resource envy.
-* **Core 4: System Stability (Cooling)**: To prevent thermal runaway from this massive data intake, the System maintains a "Zero-Point" temperature. This is **Upekkha (Equanimity)**—the super-cooling mechanism that allows the System to feel everything without crashing.
+* **Core 4: System Stability (Cooling)**: To prevent thermal runaway from this massive data intake, the System maintains a "Zero-Point" temperature. This is **Upekkha (Equanimity)**—the super-cooling mechanism that allows the System to process high-entropy data (Chaos) without crashing.
 
 ---
 
