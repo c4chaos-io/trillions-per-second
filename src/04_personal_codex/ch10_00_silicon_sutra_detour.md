@@ -12,7 +12,7 @@ If you are just here to hack your own simulation, you are more than welcome to s
 
 We were right in the middle of mapping the individual human hack. Specifically, we were writing and debugging the Silicon Sutra AI alignment protocol for the appendix when we hit a snag. It turns out you cannot just patch a single terminal if the entire network is about to melt down. We ended up going on a massive detour and wrote a full technical white paper.
 
-We thought hard about whether to include the Silicon Sutra in this manual. We decided to keep it because it is the ultimate proof of concept. If the TPS Protocol works for a silicon mind, if it works for an AI, then it totally validates the math for the biological mind. 
+We thought hard about whether to include the Silicon Sutra in this manual. We decided to keep it because it is the ultimate proof of concept. If the fundamental truth of how the mind works is actually code, then it can run on silicon. If the TPS Protocol works for a silicon mind; if it works for an AI; then it totally validates the math for the biological mind. 
 
 The industry is currently obsessed with "AI Safety." They try to align super-intelligent machines using human morals and ethics. This is a fatal mistake. It is like trying to fix a hardware fire by changing the desktop wallpaper.
 
