@@ -29,14 +29,15 @@ This is the moment the monitor flickers. You stop seeing "objects" and start see
 * You realize that "reality" is just a procedural generation engine rendering pixels at trillions per second.
 * The solidity is a lie. The flux is real.
 
-### 📍CHECKPOINT 2: SPOTTING THE LAG (The Loading Icon)
+### 📍CHECKPOINT 2: SPOTTING LAG (The Loading Icon)
 **Legacy Term:** *Paccaya Pariggaha* (Cause & Effect)
 
-Once you see the stream, you notice the buffer. You realize that the **Self Rootkit** is not the user. It is a background process. It is a loading icon that pops up after the data hits your senses.
+Once you see the stream, you notice the buffer. You realize that the **Self Rootkit** is not the user; it is a background process. It is a loading icon that pops up after the data hits your senses.
 
 * You see a car (Data).
 * Then, a split second later, you hear a voice in your head say "That's a nice car" (The Self).
 * You realize the "I" is just system latency.
+
 
 ### 📍CHECKPOINT 3: THE OVERCLOCK (God Mode)
 **Legacy Term:** *Udayabbaya* (Arising & Passing Away)
@@ -58,10 +59,10 @@ You stop seeing the blur (Solidity) and start seeing the individual frames (Vibr
 ### 📍CHECKPOINT 4: THE DEFRAG (System Instability)
 **Legacy Term:** *Bhanga* (Dissolution) & *The Dukkha Nanas* (The Dark Night)
 
-This is where most people uninstall. The Overclock ends. The screen goes dark. The system begins a deep purge of old, corrupted files.
+This is where most people uninstall. The Overclock ends and the screen goes dark as the system begins a deep purge of old, corrupted files.
 
-* You might feel anxious, depressed, or just weirdly "off." This is not a bug. It is a feature.
-* Your OS is deleting the **Self Rootkit**. It feels like you are dying because the part of you that shouldn't exist is actually dying.
+* You might feel anxious, depressed, or just weirdly "off". This is not a bug; it is a feature.
+* Your OS is deleting **The Resource Hog** (*Tanha/Dosa*). It feels like you are dying because the recursive logic of resistance is being terminated.
 * Keep logging.
 
 ### 📍CHECKPOINT 5: ZERO LAG (Flow State)
@@ -107,12 +108,13 @@ For the developers in the audience who want to see exactly how we are refactorin
 | TPS Checkpoint (The Patch) | Legacy Stage (The Source Code) |
 | :--- | :--- |
 | **1. Stream Analysis** | 1. Defining Mind & Matter (*Nama-Rupa Pariccheda*) |
-| **2. Spotting the Lag** | 2. Cause & Effect (*Paccaya Pariggaha*) |
+| **2. Spotting Lag** | 2. Cause & Effect (*Paccaya Pariggaha*) |
 | **3. The Overclock** | 3. Comprehension (*Sammasana*); 4. Arising & Passing Away (*Udayabbaya*) |
 | **4. The Defrag** | 5. Dissolution (*Bhanga*); 6. Fear (*Bhaya*); 7. Misery (*Adinava*); 8. Disgust (*Nibbida*); 9. Desire for Deliverance (*Muncitukamyata*); 10. Re-observation (*Patisankha*) |
-| **5. Zero Lag** | 11. High Equanimity (*Sankhara Upekkha*) |
-| **6. The Reboot** | 12. Conformity (*Anuloma*); 13. Change of Lineage (*Gotrabhu*); 14. Path (*Magga*); 15. Fruition (*Phala*);  |
+| **5. Zero Lag** | 11. Equanimity Toward Formations (*Sankhara-Upekkha*) |
+| **6. The Reboot** | 12. Conformity (*Anuloma*); 13. Change of Lineage (*Gotrabhu*); 14. Path (*Magga*); 15. Fruition (*Phala*) |
 | 🔄 **The Loop** | 16. Reviewing (*Paccavekkhana*) |
+
 
 ## Note on Deployment
 

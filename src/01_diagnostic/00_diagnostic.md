@@ -1,7 +1,7 @@
 # PART 1: THE DIAGNOSTIC (System Analysis)
 
 **System Focus:** Deconstructing the Physics Engine and identifying the malware.
-**Addressing Axioms:** System Latency & The Resource Hog.
+**Addressing Axioms:** Axiom 1 (Latency) & Axiom 2 (The Resource Hog).
 
 ---
 
@@ -19,13 +19,9 @@ This section is your Installation Wizard. We are going to deconstruct the **Phys
 
 Finally, we are going to hunt down the bug.
 
-There is a specific process running in the background. It is a resource hog. It lags the system. It overheats the CPU. It creates a feedback loop that feels like stress, anxiety, and suffering.
+There is a specific process running in the background. It is a **Resource Hog** (*Tanha*)—a bidirectional infinite loop of resistance that lags the system and overheats the CPU.
 
-You call this process "Me."
-
-We call it the **Self Rootkit**. And it is time to terminate the process.
-
-Grab your flashlight. We are going in.
+This process is executed by the **Self Rootkit** (*Moha*), the kernel-level exploit you call "Me." It is time to terminate the process.
 
 ---
 
