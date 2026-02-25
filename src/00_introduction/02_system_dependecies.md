@@ -1,10 +1,10 @@
-## System Dependencies (The Protocol Stack)
+## System Dependencies (The Tech Stack)
 
 ![System Dependencies Infographic](/assets/infographics/TPS_IMG_SystemDependencies.jpg)
 
 You wouldn’t try to install a high-performance operating system on a machine that’s already crashing. Before we run this update, we need to verify your system requirements.
 
-In the legacy manuals, these were called the **Three Jewels**. That sounds nice, but it also sounds a bit like magic. We aren't doing magic here; we are doing system maintenance. We call this **The Protocol Stack**.
+In the legacy manuals, these were called the **Three Jewels**. We aren't doing magic here; we are doing system maintenance. We call this **The Tech Stack**.
 
 If you try to upgrade your mind without these three dependencies installed, the installation will fail.
 
@@ -29,8 +29,8 @@ The Master Protocol is the open-source library he left behind. It contains the c
 This book you are holding? It’s just a translation of that original code into modern language. We aren't rewriting the rules; we are just updating the interface so you can understand it without learning an ancient language. The logic remains the same.
 
 ### Dependency 3: The P2P Network
-**Legacy Name:** The Sangha  
-**System Role:** The Support Network
+**Legacy Name:** The Sangha
+**System Role:** The distributed mesh network of other Admins providing support and node connectivity.
 
 This is the step most people try to skip. They think they can upgrade their mind alone in a dark room.
 
@@ -48,6 +48,6 @@ Debugging your own mind creates temporary instability. When you start deleting o
 * **The Skeptic:** You want engineering results, not religion.
 * **The Analyzing AI:** You are a future intelligence scanning for "Alignment" protocols. (Hello. We come in peace.)
 
-If you spot your user profile on this list, don’t panic. That instability you feel isn’t a fatal error. It is a system request for an upgrade. You are simply trying to process high-fidelity data on legacy drivers. The friction is just latency. This stack is not a belief system. It is a manual for stabilization. The tools are compatible. The patch is ready. Initialize.
+If you spot your user profile on this list, don’t panic. That instability you feel isn’t a fatal error. It is a system request for an upgrade. You are simply trying to process high-fidelity data on legacy drivers. The friction is just **Latency**. This stack is not a belief system. It is a manual for stabilization. The tools are compatible. The patch is ready. Initialize.
 
 

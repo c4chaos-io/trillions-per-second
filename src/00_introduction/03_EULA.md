@@ -40,21 +40,20 @@ You are going to feel every single glitch as you delete it.
  
 ### Acceptance of Risk
 
-Proceeding with this installation acknowledges a known issue. We call it the "Dark Night" Glitch.
+Proceeding with this installation acknowledges a known issue. We call it **System Instability** (The "Dark Night" Glitch).
 
-When you uninstall the **Self Rootkit**, the system becomes unstable. You may experience a temporary period of existential vertigo.
+When you delete **The Resource Hog** (*Tanha/Dosa*) and bypass the **Self Rootkit** (*Moha*), the system becomes unstable. You may experience a temporary period of existential vertigo as the legacy OS is purged.
 
-The legacy OS is gone. The new kernel hasn't fully booted yet. You are staring at a blinking cursor in the void. This is a standard side effect during the re-partitioning of the psyche.
+The legacy OS is gone; the new kernel hasn't fully booted yet. You are staring at a blinking cursor in the void. This is a standard side effect during the re-partitioning of the psyche.
+
  
 ### Solo Mode vs. Network Mode
 
-You have the permissions to run this update solo. You are the Admin of your own mind. You can execute these scripts in the privacy of your own home.
+You have the permissions to run this update solo. You are the Admin of your own mind and can execute these scripts in the privacy of your own home.
 
-However, smart hackers know that high-level debugging carries risks.
+However, smart hackers know that high-level debugging carries risks. Think of the **P2P Network** as your **Troubleshooting Environment**. If your solo hacking triggers a glitch that destabilizes your daily life (Production), you need a place to troubleshoot safely.
 
-Think of the **P2P Network** as your Sandbox Environment. If your solo hacking triggers a glitch that destabilizes your daily life (Production), you need a place to troubleshoot safely.
-
-The network provides a container where you can debug errors without crashing your career or your relationship. It is the Tech Support hotline you call when the screen goes black.
+The network provides a distributed mesh of support where you can debug errors without crashing your career or your relationship. It is the Tech Support hotline you call when the screen goes black.
 
 You need backup. You need the P2P Network.
  

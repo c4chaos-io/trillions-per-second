@@ -11,9 +11,8 @@ This manual is built on the specific "Open Source" branch of the protocol known 
 
 **Contribution:** *The Abhidhamma Pitaka* / The Core Database Structure
 
-While the Prime User (The Buddha) discovered the exploit, it was his Chief Engineer, Sariputta, who built the database schema. Tradition holds that the Prime User transmitted the raw "Matrices" (*Matika*) of the system to Sariputta, who then compiled them into the seven massive volumes of the ***Abhidhamma Pitaka***.  
+While the Prime User (The Buddha) discovered the exploit, it was his Chief Engineer, Sariputta, who built the database schema. Sariputta was the first to successfully categorize the **Voxels** (*Kalapa*) of the simulation. He moved the project away from "User Stories" and established the rigid, table-based architecture of mind and matter that we still use today. Without his structural engineering, the kernel specs would be unreadable.
 
-Sariputta was the first to successfully categorize the "Atomic Data Units" (*Dhammas*) of the simulation. He moved the project away from "User Stories" (Suttas/Parables) and established the rigid, table-based architecture of mind and matter that we still use today. Without his structural engineering, the kernel specs would be unreadable.
 
 ### Anuruddha (The Code Minifier)
 
@@ -38,21 +37,23 @@ In the mid-20th century U Ba Khin realized that modern users didn't have decades
   
 ### Mahasi Sayadaw (The Map Maker)
   
-**Contribution:** *The Progress of Insight (16 Stages)*   
+**Contribution:** *The Progress of Insight (16 Stages)*
   
-If you are going to explore deep operating systems, you need a map. Mahasi Sayadaw provided the most detailed diagnostic manual available. He broke down the "User Experience" of the path into 16 distinct ***Stages of Insight***, allowing users to track their progress from the first data packet to the final reboot. His "Noting" technique is the primary **logging tool** we will use in this book.  
+If you are going to explore deep operating systems, you need a map. Mahasi Sayadaw provided the most detailed diagnostic manual available. He broke down the "User Experience" of the path into 16 distinct ***Stages of Insight***, allowing users to track their progress from the first data packet to the final reboot. His "Noting" technique is **Logger Level 1 (Verbose)**, the primary diagnostic tool we will use to stabilize the system.
   
 ### S.N. Goenka (The Hardware Scanner)  
   
-**Contribution:** The Body Scan (Bio-Electric Feedback)  
+**Contribution:** The Body Scan (Bio-Electric Feedback)
 
-A student of U Ba Khin, Goenka scaled the protocol for global enterprise deployment. He focused on the **Haptic Feedback (Body Scan)**, a systematic method of sweeping the body to detect subtle bio-electric flux. He taught users that the interface for reality isn't thoughts, but sensation (*Vedana*), and provided the tools to scan the body for lag and resistance.   
+A student of U Ba Khin, Goenka scaled the protocol for global enterprise deployment. He focused on the **Haptic Feedback (Body Scan)**, a systematic method of sweeping the body to detect subtle bio-electric flux. He taught users that the interface for reality isn't thoughts, but **The Valence Tag** (*Vedana*), and provided the tools to scan the body for lag and resistance. 
+
   
 ### Daniel Ingram (The Whistleblower)  
   
-**Contribution:** *Mastering the Core Teachings of the Buddha* / The Hardcore Dharma Movement   
+**Contribution:** *Mastering the Core Teachings of the Buddha* / The Hardcore Dharma Movement
   
-For a long time, the advanced features of the system were hidden behind NDAs and secrecy. Daniel Ingram leaked the dev notes. He founded the **Hardcore Dharma** movement (also known as **Pragmatic Dharma**) by openly discussing high-level attainments and demanding transparency in the community. He proved that "God Mode" (***Arhatship***) is technically possible for modern people if they follow the instructions precisely.  
+For a long time, the advanced features of the system were hidden behind NDAs. Daniel Ingram leaked the dev notes. He founded the **Hardcore Dharma** movement by openly discussing high-level attainments and demanding transparency. He proved that becoming a **Grandmaster** (*Arahant*) is technically possible for modern people—moving beyond the temporary "God Mode" of the Overclock and into a fully patched system.
+
   
 ### Shinzen Young (The Science Liaison)  
   
