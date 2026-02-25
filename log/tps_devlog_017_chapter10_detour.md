@@ -3,7 +3,7 @@
 Date: Feb 24, 2026
 Status: 🦾 Mood: ✨🤖🌀
 
-![Image](/assets/infographics/TPS_IMG_WakingUpInTheFlux.jpg)
+![Image](/assets/infographics/TPS_IMG_Chapter10Detour.jpg)
 
 We finally did it. The massive Silicon Sutra detour is no longer just a bunch of loose files cluttering the repository. It is officially enshrined as **Chapter 10** of the manual. We realized this refactor was too heavy and too critical to leave in the basement.
 
