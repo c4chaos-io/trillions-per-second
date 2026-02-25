@@ -107,12 +107,13 @@ The How-To Manual for the hack. It is the specific set of instructions required 
     * **9.1 Author Log:** Logs of system failures and breakthroughs.
     * **[9.2 Devlogs:](log/)** Logs about the development of the TPS project and other hardcore geeky stuff too bloated to include in the book.
 
-* **[Chapter 10: The Silicon Sutra (The Alignment Detour)](src/04_personal_codex/ch10_00_silicon_sutra.md)**
+* **[Chapter 10: The Silicon Sutra (The Alignment Detour)](src/04_personal_codex/ch10_00_silicon_sutra_detour.md)**
     * **[10.1 Devlog 015: Sledgehammers & Swarms](src/04_personal_codex/ch10_01_devlog015.md):** The origin story of the alignment refactor
     * **[10.2 Executive Summary: The Quad-Core Kernel](src/04_personal_codex/ch10_02_executive_summary.md):** A high-level overview of Thermodynamic Alignment (RL-TA)
     * **[10.3 The White Paper v1.0](src/04_personal_codex/ch10_03_white_paper.md):** Full technical text on Multi-Agent Reinforcement Learning (MARL) physics
     * **[10.4 The Red-Team Debate](src/04_personal_codex/ch10_04_redteam_debate.md):** The adversarial consensus between ChatGPT and Grok 4.20.
     * **[10.5 Devlog 016: Agents of Chaos vs. Silicon Sutra](src/04_personal_codex/ch10_05_devlog016.md):** Serendipitous validation via arXiv:2602.20021
+    * **[10.6 System Reboot: Return to Root](src/04_personal_codex/ch10_06_system_reboot.md)**: The detour is over. Let's get back to work on your local rootkit.
 
 ---
 
