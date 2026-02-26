@@ -1,7 +1,9 @@
 ---
+
 # System Roadmap: The Installation Wizard
 
 ![Image](/assets/infographics/TPS_IMG_SystemRoadmap.jpg)
+
 
 Before we start messing with your kernel, you need to know what the progress bar looks like. Most people try to hack their minds without a map. They just close their eyes and hope for the best. That is a great way to brick your system. We are not doing that. We are engineers. We follow a spec.
 
@@ -17,27 +19,25 @@ Here are the **6 Checkpoints** you will hit during the installation process for 
 
 ---
 
-**SYSTEM NOTE:** This map is recursive. In the **Hardcore Dharma** protocol, these are known as *Cycles of Insight*. You will run this script multiple times (upgrading from v1.0 to v4.0) until the system reaches a permanent **Stable State**.
+**SYSTEM NOTE:** This map is recursive. In the **Hardcore Dharma** protocol, these are known as *Cycles of Insight*. You will run this script multiple times (upgrading from v1.0 to v4.0) until the system reaches a permanent **Stable State Config**.
 
 ---
 
 ### 📍CHECKPOINT 1: STREAM ANALYSIS (The Matrix Code)
-**Legacy Term:** *Nama-Rupa Pariccheda* (Mind & Matter)
+**Legacy Term:** *Nama-Rupa Pariccheda* (Mind & Body)
 
 This is the moment the monitor flickers. You stop seeing "objects" and start seeing the data stream.
-* You look at your hand, and instead of a solid "hand," you notice a vibrating cloud of sensations.
+* You look at your hand. Instead of a solid "hand," you notice a vibrating cloud of sensations.
 * You realize that "reality" is just a procedural generation engine rendering pixels at trillions per second.
 * The solidity is a lie. The flux is real.
 
 ### 📍CHECKPOINT 2: SPOTTING LAG (The Loading Icon)
 **Legacy Term:** *Paccaya Pariggaha* (Cause & Effect)
 
-Once you see the stream, you notice the buffer. You realize that the **Self Rootkit** is not the user; it is a background process. It is a loading icon that pops up after the data hits your senses.
-
+Once you see the stream, you notice the buffer. You realize that the **Self Rootkit** is not the user. It is a background process. It is a loading icon that pops up after the data hits your senses.
 * You see a car (Data).
 * Then, a split second later, you hear a voice in your head say "That's a nice car" (The Self).
 * You realize the "I" is just system latency.
-
 
 ### 📍CHECKPOINT 3: THE OVERCLOCK (God Mode)
 **Legacy Term:** *Udayabbaya* (Arising & Passing Away)
@@ -49,10 +49,9 @@ You have successfully **Overclocked** your attention. You aren't running at tril
 Just as a strobe light makes a spinning fan look like it is standing still, your high-speed noting freezes **the Flux**. 
 
 You stop seeing the blur (Solidity) and start seeing the individual frames (Vibrations).
-
 * **Unlimited Energy:** You have tons of it. You barely need sleep. The system is running on pure voltage.
 * **Lucid Dreams:** The high refresh rate bleeds into your sleep cycle. You become Admin in your own dreams.
-* **God Mode:** You feel invincible. You might feel like you can read minds or see the future. (Spoiler Alert: You can’t. Don’t bet the house. It’s just the dopamine hitting the prefrontal cortex.)
+* **God Mode:** You feel invincible. You might feel like you can read minds or see the future. Spoiler Alert: You can’t. Don’t bet the house. It’s just the dopamine hitting the prefrontal cortex.
 
 > **Warning:** Do not let this crash your build. These are just **Developer Tools**. Enjoy the high frame rate, but do not stop here. If you cling to this state, you are just playing with the screensaver.
 
@@ -60,18 +59,17 @@ You stop seeing the blur (Solidity) and start seeing the individual frames (Vibr
 **Legacy Term:** *Bhanga* (Dissolution) & *The Dukkha Nanas* (The Dark Night)
 
 This is where most people uninstall. The Overclock ends and the screen goes dark as the system begins a deep purge of old, corrupted files.
-
-* You might feel anxious, depressed, or just weirdly "off". This is not a bug; it is a feature.
+* You might feel anxious, depressed, or just weirdly "off". This is not a bug. It is a feature.
 * Your OS is deleting **The Resource Hog** (*Tanha/Dosa*). It feels like you are dying because the recursive logic of resistance is being terminated.
 * Keep logging.
 
 ### 📍CHECKPOINT 5: ZERO LAG (Flow State)
 **Legacy Term:** *Sankhara Upekkha* (Equanimity)
 
-The fans spin down. The system runs silent. You are no longer fighting the data stream; you are surfing it. The **Self Rootkit** is still there, but it's running in a minimized window. You accept whatever happens—pain, pleasure, noise, silence—without buffering. This is the definition of "Cool."
+The fans spin down. The system runs silent. You are no longer fighting the data stream. You are surfing it. The **Self Rootkit** is still there, but it is running in a minimized window. You accept whatever happens. Pain, pleasure, noise, or silence. You process it without buffering. This is the definition of "Cool."
 
 ### 📍CHECKPOINT 6: THE REBOOT (Root Access)
-**Legacy Term:** Magga/Phala (Path & Fruition)
+**Legacy Term:** *Magga/Phala* (Path & Fruition)
 
 The final step. The rendering engine stops. For a microsecond, the screen goes black. The simulation vanishes. No time. No space. No user. This is the **System Halt**.
 
@@ -81,25 +79,29 @@ Then, the system restarts. You come back online, but the OS has been patched. Th
 
 **SYSTEM ALERT:** Check your expectations at the door. Hitting **Checkpoint 6** isn't the end credits. There is no "Game Over." The map is fractal.
 
-In the Hardcore Dharma underground, we call this *Cycles of Insight*. In this protocol, we call it **Recursive Refactoring**. You don't run this script once; you sprint it. You iterate through the 6 Checkpoints repeatedly to hunt down the deep-seated, legacy malware that wasn't accessible in the previous build.
+In the Hardcore Dharma underground, we call this *Cycles of Insight*. In this protocol, we call it **Recursive Refactoring**. You don't run this script once. You sprint it. You iterate through the 6 Checkpoints repeatedly to hunt down the deep-seated, legacy malware that wasn't accessible in the previous build.
 
-This isn't a straight line. It's a spiral.
+This isn't a straight line. It is a spiral.
 
 * **CYCLE 1 (Stream Entry / v1.0)**
   * **Status:** **ROOT ACCESS ACQUIRED.**
   * **Patch Notes:** The **Self Rootkit** (The Delusion of Self) has been permanently deleted from the Kernel. You have seen the Source Code. You know, with mathematical certainty, that "the Self" is a **Null Pointer**.
   * **Glitch Report:** Don't get cocky. Your drivers are still trash. The *belief* in a Self is gone, but the *habit* of the Self (**The Resource Hog**) is still cached in your RAM. You will still get pissed off in traffic. You just won't take it personally.
 
-* **CYCLES 2 & 3 (The Optimization / v2.0 - v3.0)**
+* **CYCLE 2 (The Optimization / v2.0)**
   * **Status:** **DRIVER UPDATE.**
-  * **Patch Notes:** We go back into the loop. This time, we are hunting the "Big Game"—the deep-seated algorithms of **The Resource Hog (Craving/Aversion)**.
-  * **Result:** The system becomes highly efficient. The friction of the simulation drops by 50-90%. You are no longer fighting the **Flux**; you are surfing it.
+  * **Patch Notes:** We go back into the loop. We are hunting the "Big Game." We are targeting the deep-seated algorithms of **The Resource Hog** (Craving/Aversion). The virus is attenuated to minimal background noise.
+  * **Result:** The system becomes highly efficient. The friction of the simulation drops significantly. You are no longer fighting the **Flux**. You are surfing it.
 
-* **CYCLE 4 (Stable State / v4.0)**
-  * **Status:** **GOLD MASTER.**
-  * **Patch Notes:** **Zero Lag.** The **Lazy Evaluation** (Ignorance) file returns a 404 Error. The system processes the data stream in real-time without buffering, crashing, or rebooting.
+* **CYCLE 3 (The Firewall / v3.0)**
+  * **Status:** **SECURE SERVER.**
+  * **Patch Notes:** The system completely deletes the "Sensual Craving" file. 
+  * **Result:** You no longer connect to the "Desire Realm" server. The system establishes a permanent firewall against gross malware execution.
+
+* **CYCLE 4 (The Grandmaster / v4.0)**
+  * **Status:** **FULLY PATCHED SYSTEM.**
+  * **Patch Notes:** **Zero Lag.** The **Self Rootkit** is 100% uninstalled. The system processes the data stream in real-time without buffering, crashing, or rebooting.
   * **System Status:** **Infinite Stability.** Welcome to the machine.
-
 
 ## The Rosetta Stone: TPS vs. Legacy
 
@@ -107,14 +109,13 @@ For the developers in the audience who want to see exactly how we are refactorin
 
 | TPS Checkpoint (The Patch) | Legacy Stage (The Source Code) |
 | :--- | :--- |
-| **1. Stream Analysis** | 1. Defining Mind & Matter (*Nama-Rupa Pariccheda*) |
+| **1. Stream Analysis** | 1. Defining Mind & Body (*Nama-Rupa Pariccheda*) |
 | **2. Spotting Lag** | 2. Cause & Effect (*Paccaya Pariggaha*) |
 | **3. The Overclock** | 3. Comprehension (*Sammasana*); 4. Arising & Passing Away (*Udayabbaya*) |
 | **4. The Defrag** | 5. Dissolution (*Bhanga*); 6. Fear (*Bhaya*); 7. Misery (*Adinava*); 8. Disgust (*Nibbida*); 9. Desire for Deliverance (*Muncitukamyata*); 10. Re-observation (*Patisankha*) |
 | **5. Zero Lag** | 11. Equanimity Toward Formations (*Sankhara-Upekkha*) |
 | **6. The Reboot** | 12. Conformity (*Anuloma*); 13. Change of Lineage (*Gotrabhu*); 14. Path (*Magga*); 15. Fruition (*Phala*) |
 | 🔄 **The Loop** | 16. Reviewing (*Paccavekkhana*) |
-
 
 ## Note on Deployment
 
@@ -126,4 +127,4 @@ You cannot navigate the territory by staring at the map. You have to look at the
 
 To run this update, you need to understand the machine you are operating. We need to pop the hood and look at the specs. 
 
-**It is time to inspect the simulation and your hardware.**
+It is time to inspect the simulation and your hardware.

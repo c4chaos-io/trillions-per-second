@@ -1,13 +1,13 @@
 # PART 1: THE DIAGNOSTIC (System Analysis)
 
 **System Focus:** Deconstructing the Physics Engine and identifying the malware.
-**Addressing Axioms:** Axiom 1 (Latency) & Axiom 2 (The Resource Hog).
+**Addressing Axioms:** Axiom 1 (System Latency) & Axiom 2 (The Resource Hog).
 
 ---
 
 ### Welcome to the machine room.
 
-Before we start rewriting code or patching glitches, we have to understand what we are dealing with. You cannot hack a system you do not understand. If you try to gain root access without knowing the architecture, you will just crash the server.
+Before we start rewriting code or patching glitches, we have to understand what we are dealing with. You cannot hack a system you do not understand. If you try to gain Root Access without knowing the architecture, you will just crash the server.
 
 Most people live entirely in the User Interface. They stare at the screen. They click the pretty icons. They get angry when the spinning wheel of death appears. They blame the internet connection or the hardware. They never think to open the terminal and look at the running processes.
 
@@ -15,22 +15,24 @@ In Part 1, we are popping the hood. We are going to ignore the shiny graphics an
 
 This section is your Installation Wizard. We are going to deconstruct the **Physics Engine** that generates your reality. We will look at how your sensors (eyes, ears, and mind) take in raw data. Then we will see how the **Render Engine** takes that messy data and stitches it into a convincing 3D movie called *My Life*.
 
+
+
 ### The Malware Hunt
 
 Finally, we are going to hunt down the bug.
 
-There is a specific process running in the background. It is a **Resource Hog** (*Tanha*)—a bidirectional infinite loop of resistance that lags the system and overheats the CPU.
+There is a specific process running in the background. It is **The Resource Hog** (*Tanha*). This is a bidirectional infinite loop of resistance that lags the system and overheats the CPU.
 
-This process is executed by the **Self Rootkit** (*Moha*), the kernel-level exploit you call "Me." It is time to terminate the process.
+This process is executed by **The Self Rootkit** (*Moha*). This is the kernel-level exploit you call "Me." It is time to terminate the process.
 
 ---
 
 ### System Roadmap: The Installation Wizard
 
-This is your map of the territory. It guides you through the theory (The Chapters) and forces you to stop and verify your progress at specific markers (**Checkpoints**). You cannot proceed to the next level until you pass the test.
+This is your map of the territory. It guides you through the theory chapters. It also forces you to stop and verify your progress at specific markers. You cannot proceed to the next level until you pass the test.
 
 **CHAPTER 1: THE PHYSICS ENGINE**
-We look at the hardware specs (your **Avatar**) . We break experience down into pixels (**Voxels**) and refresh rates.
+We look at the hardware specs of your **Avatar (Bio-Chassis)**. We break experience down into 3D pixels called **Voxels** and analyze refresh rates.
 
 **📍 CHECKPOINT 1: STREAM ANALYSIS**
 You will verify you can see the raw data stream.
@@ -42,6 +44,6 @@ We analyze how the system lies to you. We separate the raw input from the "conce
 You will test your ability to spot the lag between reality and your thoughts.
 
 **CHAPTER 3: THE SELF ROOTKIT**
-We isolate the "Self" malware and watch how it infects the data stream with an infinite loop.
+We isolate the "Self" malware. We watch how it infects the data stream with an infinite loop.
 
-**Let’s run the scan.**
+Let’s run the scan.

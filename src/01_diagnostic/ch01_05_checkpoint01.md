@@ -22,7 +22,9 @@ In the TPS Protocol, we are performing a **Hot Patch**. We are rewriting the cod
 
 We do not care if your stream is chaotic. We do not care if the content is loud or weird. We only care about one thing. Is it lagging?
 
-We are running a live **Stream Analysis**. You are watching the raw data packets fly by. The ancients called these **kalapas**. Think of them as the sub-atomic voxels of your experience. They are refreshing at trillions of times per second.
+We are running a live **Stream Analysis**. You are watching the raw data packets fly by. The ancients called these *kalapas*. We call it **Voxels**. Think of them as the sub-atomic building blocks of your experience. They are refreshing at trillions of times per second.
+
+
 
 There are two ways to handle this data flow.
 
@@ -40,7 +42,8 @@ We want the wind. We want to see it in motion. If you freeze the stream, you can
 
 ![Image](/assets/infographics/TPS_IMG_PacketSniffing.jpg)
 
-In network security, there is a tool called **Wireshark**. It allows an admin to intercept and log traffic passing over a digital network. It doesn't look at the pretty website; it looks at the **raw packets**. It sees the **TCP/IP handshake**. It sees the **hex code**.
+
+In network security, there is a tool called **Wireshark**. It allows an admin to intercept and log traffic passing over a digital network. It doesn't look at the pretty website; it looks at the **raw packets**. It sees the TCP/IP handshake. It sees **The Hex Code**.
 
 Right now, your brain is rendering a pretty website called "My Life." It shows you objects: "Chair," "Music," "Knee Pain," "Boredom."
 
@@ -52,6 +55,7 @@ Your assignment is to stop looking at the website and start looking at the packe
 
 ![Image](/assets/infographics/TPS_IMG_Checkpoint01.jpg)
 
+
 Look at the infographic above. It is the schematic of this protocol. Below are the detailed instructions. 
 
 #### 1. Boot Up (The Setup)
@@ -62,13 +66,13 @@ Close your eyes to shut down the **Video Port** (Input Port 1). This frees up RA
 
 #### 2. Open the Logs (The Anchor)
 
-Focus your attention on the **Haptic Port** (the body). Specifically, find the **System Pulse**: the physical expansion and contraction of the abdomen (Rising/Falling). Do not visualize 'lungs' or 'air.' Detect the raw **Pneumatic pressure**. This is your 'Home' directory."
+Focus your attention on the **Haptic Port** (the body). Specifically, find the **System Pulse**: the physical expansion and contraction of the abdomen (Rising/Falling). Do not visualize 'lungs' or 'air.' Detect the raw pneumatic pressure. This is your 'Home' directory.
 
 #### 3. Tag the Traffic (The Noting Technique)
 
 Data is going to start hitting your Input Ports. Your job is to simply acknowledge the packet type. Do not open the packet. Do not read the email. Just tag (mental note) the header.
 
-* **If you hear a sound:** Don't think "That's a car." That’s rendering. Just tag it: **"Hearing."**
+* **If you hear a sound:** Don't think "That's a car." That is rendering. Just tag it: **"Hearing."**
 * **If you feel an itch:** Don't scratch it. Don't think "My leg itches." Tag it: **"Feeling."**
 * **If a thought pops up:** Don't argue with it. Don't finish the sentence. Tag it: **"Thinking."**
 
@@ -86,7 +90,7 @@ The standard user sees the world in **Nouns**.
 
 Nouns are solid. Nouns are heavy. Nouns imply that "You" are a thing interacting with other "Things." This is the illusion. This is the render engine lying to you.
 
-The hacker sees the world in **Verbs**.
+The **SysAdmin** sees the world in **Verbs**.
 * "Seeing."
 * "Feeling."
 * "Thinking."
@@ -99,14 +103,14 @@ When you tag the traffic, you stop cementing the world into objects. You start s
 ### Debugging (Common Errors)
 
 **Error 1: Getting Lost in Content**
-You will try to tag a thought, but then you'll open the packet.
+You will try to tag a thought, but then you will open the packet.
 * *Tag:* "Thinking."
 * *Content:* "Oh, thinking about dinner. I should get tacos. Wait, is that taco place open? I remember when I went there with..."
-* **SYSTEM ALERT:** You are lost in the simulation. You are no longer watching the screen; you are in the movie.
+* **SYSTEM ALERT:** You are lost in the simulation. You are no longer watching the screen. You are in the movie.
 * **The Fix:** Abort process. Return to Home (Breath). Restart loop.
 
 **Error 2: Judging the Data**
-You will try to filter the packets. You'll think, "Peaceful thoughts are good. Anxious thoughts are bad."
+You will try to filter the packets. You will think, "Peaceful thoughts are good. Anxious thoughts are bad."
 * **The Fix:** Wireshark doesn't care if the data is a love letter or a virus. It just logs the traffic. Be like Wireshark. Equanimity is just technical neutrality.
 
 **Error 3: Thermal Throttling (Physical Pain)**
@@ -117,9 +121,10 @@ You will feel heat, burning, or stiffness in the knees or back.
 
 ---
 
-### 🎯 EXIT CRITERIA
+### 🏁 EXIT CRITERIA
 
 ![Image](/assets/infographics/TPS_IMG_Checkpoint01Exit.jpg)
+
 
 You pass this checkpoint when you experience the **Noun-to-Verb shift**.
 
@@ -131,7 +136,7 @@ That is a glitch. That is a direct look at the code.
 
 #### 1. The Partitioning of the Stack
 
-You no longer experience a unified "Me." You clearly see the **Bio-Chassis** (Matter) and **The OS** (Mind) as two different layers of the stack.
+You no longer experience a unified "Me." You clearly see the **Bio-Chassis** (Body) and **The OS** (Mind) as two different layers of the stack.
 
 **The Chassis:** You feel the body as a heavy, inanimate object. It is a dense cluster of voxels. It is no more "you" than the chair you sit on.
 
@@ -139,7 +144,7 @@ You no longer experience a unified "Me." You clearly see the **Bio-Chassis** (Ma
 
 **The Sign:** You feel like a technician watching a monitor rather than a character inside the game.
 
-**Note:** Do not try to "find" the Observer. The Observer is not an object you can see; it is the camera lens itself. If you try to look at the lens, you just create a mirror loop. Just let the recording happen.
+**Note:** Do not try to "find" the Observer. The Observer is not an object you can see. It is the camera lens itself. If you try to look at the lens, you just create a mirror loop. Just let the recording happen.
 
 #### 2. The Noun-to-Verb Collapse
 
@@ -159,7 +164,7 @@ You begin to see "Thoughts" and "Sensations" as unsolicited data packets.
 
 ### The Verification Protocol (How do you know you're done?)
 
-You are ready to exit Checkpoint 1  when you can confirm these three system states:
+You are ready to exit Checkpoint 1 when you can confirm these three system states:
 
 #### A. Zero Interiority
 You look at the **Bio-Chassis** and realize it is "empty" of a person. It is just a complex piece of biological hardware running on the **Physics Engine**.
@@ -170,9 +175,11 @@ You can see the gap between a **Voxel** (the raw sensation of heat or pressure) 
 #### C. The Observer Module Lock
 You can keep the **Observer Module** online even when the **Self Rootkit** tries to reboot. You watch the "I" feeling arise as just another data packet and you don't buy the lie.
 
-If you've seen the "Car" and the "Listener" dissolve into a single "Hearing Event," you've successfully bypassed the UI. You are looking at the **Source Code**. 
+If you have seen the "Car" and the "Listener" dissolve into a single "Hearing Event," you have successfully bypassed the UI. You are looking at the **Source Code**. 
 
 ### How does the hack actually feel? 
+
+
 
 This is the moment the Bio-Chassis reveals its hidden architecture. You stop feeling like meat. You start feeling like data.
 
@@ -180,7 +187,7 @@ Usually, the **Self Rootkit** buffers your sensations into solid blocks. It tell
 
 When the Noun-to-Verb shift hits, the buffer fails. The sensation of your body starts to pixelate. It feels like a high-frequency vibration. It's an electrical fizz on the skin.
 
-Imagine your body is made of billions of tiny, champagne bubbles. They are constantly popping and refreshing. This is the Voxel Swarm (Kalapas) hitting the Observer Module in real time.
+Imagine your body is made of billions of tiny, champagne bubbles. They are constantly popping and refreshing. This is the Voxel Swarm (*kalapas*) hitting the Observer Module in real time.
 
 It feels granular. It feels like "TV snow" made of physical pressure. You aren't "feeling a foot." You are detecting a field of rapid-fire haptic prickles.
 
@@ -191,5 +198,3 @@ It is a "Doing" rather than a "Being." There is no hand touching a table. There 
 That is the Flux. That is how you know the hack is working.
 
 **Keep the terminal open. We are moving to the Render Engine.**
-
-
