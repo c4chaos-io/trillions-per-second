@@ -12,15 +12,15 @@ Why?
 
 Because your system is lying to you.
 
-This is where we talk about the **Render Engine**. In the legacy manuals (the Pali Canon), they call this *Ghana*. It roughly translates to "compactness" or "solidity." I call it the Graphics Processing Unit of the mind.
+This is where we talk about the **Render Engine**. In the legacy manuals, this specific illusion is called Solidity (*Ghana*). It is the mind's ultimate compression algorithm.
 
-Your brain cannot handle the raw feed. It is too fast. It is too chaotic. If you saw the raw data, you would crash. So the system takes those trillions of data points and stitches them together into a smooth, seamless surface.
+Your hardware cannot handle the raw feed. It is too fast. It is too chaotic. If you experienced the raw data, your system would crash. So the Render Engine takes those trillions of data points and stitches them together into a smooth, seamless surface.
 
-It creates a **Graphical User Interface (GUI)**.
+It creates a **Graphical User Interface (GUI)**. The ancients called this Conventional Truth (*Sammuti Sacca*).
 
 Think of your laptop desktop. That "folder" icon isn't real. It is a cluster of pixels designed to represent a complex string of binary code on a hard drive sector. If you had to manipulate the binary manually, you couldn't get any work done. You need the icon. The icon is a useful lie.
 
-The Render Engine takes the flux (Anicca) and renders it into "objects." It turns the code into a playable game level.
+The Render Engine takes The Flux (*Anicca*) and renders it into solid "objects". It hides the Source Code (*Paramattha Sacca*) and turns the data stream into a playable game level.
 
 Here is the problem.
 
@@ -29,3 +29,7 @@ Most users spend their entire lives staring at the desktop icons. They think the
 We are here to do something different. We are going to look behind the screen. We are going to catch the Render Engine in the act.
 
 Grab your drink. We are going to deconstruct the "User Experience."
+
+But before we can hack the GUI, you need to understand exactly *when* the system decides to draw it. Because the greatest trick the Render Engine ever pulled wasn't convincing you the world is solid. 
+
+It was convincing you the world is always there.
