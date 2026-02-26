@@ -21,7 +21,9 @@ To keep things hardcore, I pushed my ego aside. I took the hard questions straig
 
 Grok summed it up perfectly. **It called the TPS protocol solid AF** 😅 This was not confirmed by just one frontier model. Three independent neural nets with totally different training stacks agreed. That is not a random glitch. That is pure signal 👌
 
-**Check out TPS Podcast for the deep dive. **
+**Check out TPS Podcast for the deep dive.**
+
+**📺 [TPS Pod Ep. 21: Ultimate Hacker’s Protocol ](https://youtu.be/19yYWyPZvH4?si=aqzzqSPTNjSE2UO_)**
 
 Bias neutralized. I can now confidently and objectively claim that TPS is the Ultimate Hacker's Protocol ✨🦾☸️
 
