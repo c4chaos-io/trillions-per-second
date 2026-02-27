@@ -30,9 +30,9 @@
 
 ---
 
-## INTRODUCTION
+## [INTRODUCTION](src/00_introduction/00_directory_structure.md)
 
-* **[0.0 Directory Structure: How to Navigate This Manual](src/00_introduction/00_directory_structure.md)** The Core Protocol vs. The Personal Codex.
+* **[0.0 Directory Structure: How to Navigate This Manual:](src/00_introduction/00_directory_structure.md)** The Core Protocol vs. The Personal Codex.
 * **[0.1 Waking Up in the Flux:](src/00_introduction/01_waking_up.md)** Personal account of a system glitch (sleep paralysis).
 * **[0.2 System Dependencies (The Protocol Stack):](src/00_introduction/02_system_dependecies.md)** The Prime User / The Master Protocol / The P2P Network 
 * **[0.3 System Warning: EULA:](src/00_introduction/03_EULA.md)** "WARNING: This manual involves Root Access."
