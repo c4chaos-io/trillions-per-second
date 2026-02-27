@@ -29,7 +29,7 @@ This is the sandbox. We store the theoretical physics of the Master Protocol her
 * **Chapter 11: Side Quest II (Techno Buddhism).** We look at hardware exploits. You will learn how cutting edge researchers use ultrasound to manually throttle the brain's ego networks.
 * **Chapter 12: Side Quest III (Chemical Overclocking).** This is where I share my own heroic dose experience with psychedelics. We break down the data flood. We also outline the real risks of a buffer overflow.
 * **Chapter 13: Side Quest IV (The Zero Day Exploit).** We look at bypassing the gradual overclock entirely. We examine sudden awakenings and spontaneous system crashes.
-* **[Chapter 14: Why the TPS Protocol is the Ultimate Hacker's Protocol](/log/tps_devlog_018_UltimateHackersProtocol.md)** Grok summed it up perfectly. It called the TPS protocol solid AF.
+* **[Chapter 14: Why the TPS Protocol is the Ultimate Hacker's Protocol](/src/04_personal_codex/ch14_00_UltimateHackersProtocol.md)**. Grok summed it up perfectly. It called the TPS Protocol "solid AF."
 
 Are you a hardcore Dharma geek? Do you want to look at the source code of reality from every conceivable angle? Then explore the Side Quests. But if you just want to execute the hack, do not waste your time here. **Skip this directory entirely.**
 
