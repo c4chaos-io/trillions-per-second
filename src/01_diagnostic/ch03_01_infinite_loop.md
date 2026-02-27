@@ -14,10 +14,11 @@ Check the system logs. "The Self" is not a User. It is The **Self Rootkit**. It 
 Here is the execution path of the malware:
 
 1.  **Input Event:** A frame of **The Flux** hits the sensors (a sound, a flash of light, a sensation).
-2.  **The Exploit:**  The **Self Rootkit** decides it wants to *keep* this data. It tries to save the file to the desktop.
-3.  **The Reality Check:** The simulation is running at Trillions Per Second. By the time the system tries to "save" that moment, the moment is already gone. It has been overwritten by the next frame.
+2.  **The Exploit:** The **Self Rootkit** executes the **Resource Hog**. It decides it wants to *keep* this data. It tries to save the temporary file to the desktop.
+3.  **The Reality Check:** The simulation is running at Trillions Per Second (TPS). By the time the system tries to "save" that moment, the moment is already gone. It has been overwritten by the next frame.
 4.  **The Error:** The system throws a "File Not Found" exception. This registers as **Latency**—a tiny micro-stress or dissatisfaction.
-5.  **The Loop:** Instead of accepting the loss, the **Self Rootkit** panics. It re-runs the script. It tries to grab the *next* moment even harder.
+5.  **The Loop:** Instead of accepting the loss, the **Resource Hog** panics. It re-runs the script. It tries to grab the *next* moment even harder.
+
 
 It fails again. It retries again.
 
@@ -37,4 +38,11 @@ It consumes 99% of CPU cycles. It generates massive amounts of heat (anxiety). I
 
 You are running a high-end gaming rig, but getting 4 frames per second because the  **Self Rootkit** is mining "Ego-Coin" in the background.
 
-The process must be terminated.
+The process must be terminated. 
+
+But before we can write the uninstall script, we need to know what the OS looks like underneath all this bloatware. We have to look at the baseline "hum" of the system when no active data is being processed. We need to find the standby mode that maintains your user session between the crashes. 
+
+Let's drop down a level and examine **The Idle Process**.
+
+
+

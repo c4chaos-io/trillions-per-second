@@ -34,9 +34,9 @@ To debug the system, we need to move beyond generalities. We need specific **Mal
 
 In the legacy docs, these are the ***52 Cetasikas***. They are the "metadata" or "flavor" of your data packets. Some are neutral system processes, but others are pure bloatware:
 
-* **Anxiety.exe:** A predictive simulation loop that consumes massive CPU cycles (Legacy: *Uddhacca*).
-* **Torpor.dmg:** A memory leak that throttles the clock speed and makes the UI sluggish and unresponsive.
-* **Aversion.sh:** The friction created when the system tries to delete "Read-Only" files.
+* **FanSpin.exe:** Pure system noise. This is high-frequency agitation that prevents the CPU from achieving Signal Lock (Legacy: *Uddhacca*).
+* **MemoryLeak.dmg:** Sluggishness, heaviness, and sleep mode. This leak throttles the clock speed and makes the UI unresponsive (Legacy: *Middha*). 
+* **TheCrash.sh:** Unnecessary System Heat. This is the friction created by the aggressive rejection of unpleasant, "Read-Only" data (Legacy: *Dosa*).
 
 We have moved the full signature database to **APPENDIX A: The Master System Lexicon**. For now, you just need to realize that whenever you feel **Latency** (suffering), it is not "you" (it is just a signature being triggered by a rootkit that shouldn't be there).
 
