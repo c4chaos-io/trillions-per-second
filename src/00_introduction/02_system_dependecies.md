@@ -1,6 +1,6 @@
 ---
 
-## System Dependencies (The Tech Stack)
+## 0.2 System Dependencies (The Tech Stack)
 
 ![System Dependencies Infographic](/assets/infographics/TPS_IMG_SystemDependencies.jpg)
 

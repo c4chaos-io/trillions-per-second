@@ -1,6 +1,6 @@
 ---
 
-## System Configuration: The Rosetta Stone
+## 0.9 System Configuration: The Rosetta Stone
 
 ![Image](/assets/infographics/TPS_IMG_MasterLexicon.jpg)
 

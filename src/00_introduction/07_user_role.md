@@ -1,6 +1,6 @@
 ---
 
-## The User Role: White Hat Hacker  
+## 0.7 The User Role: White Hat Hacker  
   
 Finally, a word on your user permissions.
 

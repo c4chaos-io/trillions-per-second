@@ -1,6 +1,6 @@
 ---
 
-## The Meta-Structure (Fractal Architecture)
+## 0.8 The Meta-Structure (Fractal Architecture)
 
 
 

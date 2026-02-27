@@ -1,6 +1,6 @@
 ---
 
-## Theory vs. Practice
+## 0.6 Theory vs. Practice
 
 ![Image](/assets/infographics/TPS_IMG_TheoryVsPractice.jpg)
 

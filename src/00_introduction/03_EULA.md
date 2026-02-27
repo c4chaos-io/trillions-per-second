@@ -1,5 +1,6 @@
 ---
-## ⚠️ WARNING: NO "SAFE MODE" INCLUDED
+
+## 0.3 ⚠️ WARNING: NO "SAFE MODE" INCLUDED
 
 Most of the legacy documentation gives you the same advice. They tell you to boot your mind into **Safe Mode** first. The legacy terms are *Jhana* or *Samatha*.
 
