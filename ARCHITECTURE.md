@@ -131,6 +131,9 @@ The How-To Manual for the hack. It is the specific set of instructions required 
     * **[13.1 The Native Interface:](src/04_personal_codex/ch13_01_native_interface.md)** Bypassing the overclock. Case studies in spontaneous system crashes (Dzogchen, Zen Kensho, Douglas Harding 180 degree shift).
     * **[13.2 Devlog: The Bypass vs. The Brute Force:](log/devlog_sudden_awakening.md)** Why we still need the gradual TPS protocol even after a sudden system crash.
 
+* **[Chapter 14: Why the TPS Protocol is the Ultimate Hacker's Protocol](/log/tps_devlog_018_UltimateHackersProtocol.md)**
+    * Grok summed it up perfectly. It called the TPS protocol solid AF.
+
 ---
 
 ## BACK MATTER (System Shutdown)
