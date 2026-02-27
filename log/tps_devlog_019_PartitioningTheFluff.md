@@ -3,7 +3,7 @@
 Date: Feb 26, 2026
 Status: ✅ Mood: ☕️😎🙌
 
-We just pushed a massive structural update to the project. We took a wild detour over the last two weeks. We produced a mountain of content and even wrote a **paradigm shifting white paper.** Then an innocent chat with Gemini dragged us deep into a rabbit hole. We got tangled up in sudden awakenings, Techno Buddhism, and way too much theoretical noise.
+We just pushed a massive structural update to the project. We took a wild detour over the last two weeks. We produced a mountain of content and even wrote a **[paradigm shifting white paper](/src/04_personal_codex/ch10_03_white_paper.md).** Then an innocent chat with Gemini dragged us deep into a rabbit hole. We got tangled up in sudden awakenings, Techno Buddhism, and way too much theoretical noise.
 
 We are allergic to spiritual bypassing and academic fluff. This project is **Trillions Per Second: A Hardcore Manual for Hacking the Simulation**. We just want to share a glitch in the matrix. So, we made a hard call and **partitioned** the fluff from the hardcore manual. Check the file named **[00_directory_structure](/src/00_introduction/00_directory_structure.md)** to see the new map.
 
