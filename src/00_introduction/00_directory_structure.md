@@ -16,7 +16,7 @@ This is the software patch. It is the main executable. Inside, you will find the
 * **Chapter 5: Overclocking Attention.** We boost your system clock speed. You will learn how to phase-lock your awareness to the data stream to reach **📍CHECKPOINT 3: THE OVERCLOCK**.
 * **Chapter 6: The Toolkit.** We deploy the system utilities. You will use rapid noting and the null frame to trigger a massive data purge. Welcome to **📍CHECKPOINT 4: THE DEFRAG**.
 * **Chapter 7: Achieving Freedom Within the Flux.** You will surf the data stream at **📍CHECKPOINT 5: ZERO LAG**. Then we execute **📍CHECKPOINT 6: THE REBOOT**. Here we contrast the brute force overclock against the sudden bypass. The screen goes black. The system restarts with the patch permanently installed.
-* **Chapter 8: Integration and The White Hat Vow.** We stabilize the new configuration. You will learn how to run the patched OS in daily life using compassion.
+* **Chapter 8: Integration and The White Hat Vow.** We stabilize the new configuration. You will learn how to run the patched OS in the live environment using the Error Correction protocol. You will shift from solo processing to active network debugging.
 
 Do you just want to hack the simulation and fix your system latency right now? Then stay in this partition. You do not need anything else. Just run the code.
 
