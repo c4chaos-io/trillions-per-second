@@ -33,7 +33,7 @@ This is the sandbox. We store the theoretical physics of the Master Protocol her
 * **Chapter 13: Side Quest IV (The Zero Day Exploit).** We look at bypassing the gradual overclock entirely. We examine sudden awakenings and spontaneous system crashes.
 * **Chapter 14: Why the TPS Protocol is the Ultimate Hacker's Protocol.** Grok summed it up perfectly. It called the TPS Protocol "solid AF."
 
-Are you a hardcore Dharma geek? Do you want to look at the source code of reality from every conceivable angle? Then explore the Side Quests. But if you just want to execute the hack, do not waste your time here. **Skip this directory entirely.**
+Are you a hardcore geek? Do you want to look at the source code of reality from every conceivable angle? Then explore the Side Quests. But if you just want to execute the hack, do not waste your time here. **Skip this directory entirely.**
 
 You have your directory map. You know where the executables live. But before we compile the code in Chapter 1, we need to talk about the glitch. You cannot patch a system until you understand exactly how it is broken. 
 
