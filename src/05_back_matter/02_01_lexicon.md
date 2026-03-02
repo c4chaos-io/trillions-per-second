@@ -268,6 +268,17 @@ You start as a **Noob**. You are running the Legacy OS with full malware. Once y
 | **The Firewall** | *Anagami* | **Secure Server (v3.0).** The user has completely deleted the "Sensual Craving" file. They no longer connect to the "Desire Realm" server. |
 | **The Grandmaster** | *Arahant* | **Fully Patched System (v4.0).** The Rootkit is 100% uninstalled. The system runs at Zero Lag. |
 
+### 10.1 Grandmaster Specializations (Skill Trees)
+
+While every Grandmaster successfully initiates the final Reboot (Zero Lag), the legacy texts classify them by the specific "Skill Trees" they unlocked during their optimization loops:
+
+| Native UI (TPS Protocol) | Legacy Code (Pali) | System Definition / Mechanics |
+| :--- | :--- | :--- |
+| **The Targeted Hack** (Dry Insight) | *Sukkha-vipassaka* | Went straight for the Kernel. Strictly used "The Logger" (Vipassana) to analyze the code, spot the Lag, and trigger the Reboot. Fully patched, but zero access to Dev Mode console commands. |
+| **The Completionist** | *Tevijjā* & *Chaḷabhiññā* | Spent extensive time in Sandbox Mode (*Jhana*). Mapped the Staging Environment, unlocked Admin privileges, and reverse-engineered the physics engine. Possesses the "Six Knowledges" (Dev Mode Exploits). |
+| **Liberated Both Ways** | *Ubhatobhāga-vimutta* | Achieved the permanent patch (Wisdom) while also mastering the formless Sandbox Modes (Headless Mode), completely freeing themselves from both the hardware chassis and the software mind. |
+
+
 ---
 ## 11. AI ALIGNMENT (The Silicon Sutra)
 
@@ -486,17 +497,20 @@ Do not take the bait. In simulation terms, getting stuck in Dev Mode is the path
 
 We are only providing this map of system exploits so you do not panic if you stumble into these zones. You might need to translate your experiences as you move past these checkpoints, but you must treat this information strictly like a fire extinguisher. It is good to have in an emergency, but you do not go looking for a fire just to use it. Your ultimate objective is not to play with the server logs. Your goal is to penetrate past the Server. Go past the logic. Go straight to the Kernel.
 
-#### 1. Psi Modules (Dev Mode Exploits)
 
-**The Refactor (Why we hacked it):** The Server-Side of the simulation is highly seductive. When users stumble into these zones, they see visions, feel god-like, and get stuck in "Dev Mode". We added this section as a "fire extinguisher". It is crucial to map these legacy *Abhiññā* abilities so users recognize them as mere system exploits, not the final goal. The ultimate objective is to bypass the Server logic entirely and reach the Kernel.
+#### 1. Psi Modules (Dev Mode Exploits / The Six Knowledges)
+
+**The Refactor (Why we hacked it):** The Server-Side of the simulation is highly seductive. When users overclock their hardware and stumble into these zones, they see visions, manipulate physics, and feel god-like. They get stuck in "Dev Mode." We added this section as a fire extinguisher. It is crucial to map the legacy *Abhiññā* (supernormal abilities) so users recognize them as mere system exploits, not the final goal. The ultimate objective is to bypass the Server logic entirely and reach the Kernel.
 
 | Native UI (TPS Protocol) | Legacy Code (Pali) | System Definition / Mechanics |
 | :--- | :--- | :--- |
-| **Dev Mode Exploits** | **Abhiññā** | The overarching category for unsupported console commands that manipulate Server-Side logic. |
-| **Script Injection / Coordinate Hack** | **Iddhividhā** | **Magick:** Using ritual (syntax) and will (compile command) to execute custom macros to override local probability. <br><br>**Telekinesis:** Using a console command to modify an object's position data (`obj.pos.x`) without interacting with the physics engine's gravity or friction. |
-| **Direct P2P Messaging** | **Dibbasota** | **Telepathy:** Bypassing the slow, lossy "Language" driver to transfer data packets directly between two Client nodes. |
-| **Global System Logs** | **Pubbenivāsānussati** | **Akashic Records:** Accessing the immutable, read-only cloud database containing the history of every keystroke and transaction ever executed. |
-| **Remote Desktop / Buffer Read** | **Dibbacakkhu / Anāgatamsa** | **Clairvoyance:** Tapping into remote video feeds. <br><br>**Precognition:** Accessing the server's event queue to see commands processed by the logic layer before they render on the Client screen. |
+| **Physics Engine Override** (Noclip) | *Iddhividhā* (Supernormal Powers) | Temporarily rewriting local environmental variables for your Avatar. Disabling collision detection or modifying gravitational constraints. |
+| **Global Audio Sniffing** | *Dibbasota* (Divine Ear) | Bypassing spatial hardware limitations to intercept audio data packets traversing the network. |
+| **P2P Packet Sniffing** (Telepathy) | *Cetopariya-ñāṇa* (Telepathy) | Directly reading the RAM, emotional metadata (Valence Tags), and state tables of peer Client nodes without using public communication APIs. |
+| **System Log Retrieval** (Akashic Records)| *Pubbenivāsānussati* (Past Lives) | Querying the immutable Cloud Database to access historical server logs of previous "Reboots" and "Save Files" associated with your data stream. |
+| **Remote Desktop / Render Queue** | *Dibbacakkhu* (Divine Eye) | Detaching from the restricted First-Person Camera to tap into global visual feeds, observing the Algorithm (Karma) executing in real-time. |
+| **Zero Lag Verification** | *Āsavakkhaya-ñāṇa* (Destruction of Taints) | The final diagnostic scan confirming Root Access. The self-verifying knowledge that the "Self Rootkit" is uninstalled and the Boot Loop is terminated. |
+
 
 #### 2. Altered States (Offline & Sandbox Modes)
 
