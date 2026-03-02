@@ -17,6 +17,8 @@ I wanted to stress-test this glitch in the matrix. I asked the AI about that fam
 
 **Check out the chat transcript below to see how it works. Near the end of the chat there are  instructions on how to deal with normal suffering and pain.**
 
+**Listen to [📺 TPS Pod Ep. 23: Becoming Fire](https://youtu.be/aVv7-UjjT40?si=IaJzimQR8Qvwui5t) for the deep dive.** 
+
 ---
 
 **WARNING: DO NOT subject yourself to extreme existential pain and suffering! Only a Grandmaster can pull that off while merging with the Source.** 
