@@ -90,7 +90,10 @@ We call it **The Flux**. Reality is a data stream. It’s not solid. It renders 
 | **The GUI** | *Pannatti* | Desktop Icons. Concepts created by the brain to mask the Flux. |
 | **The GUI (Icons)** | *Paññatti (Concepts)* | Desktop Shortcuts. The "Folder Names" (e.g., "Leg," "Pain," "Man") created by the OS to mask the raw code. Warning: Do not mistake the Icon for the Data. |
 | **> Active Tagging** | *Vijjamāna-paññatti* | Temporary Filenames. Using text labels (e.g., "Rising," "Sitting") to stabilize the cursor. These are valid pointers to real data.. |
-| **The Hex Code** | *Paramattha (Ultimate Reality)* | Raw Binary. The uncompiled data stream (Heat, Pressure, Vibration) existing behind the Icon. This is the only level where "Debugging" can occur. |
+| **The Uncompiled Data Stream** | Paramattha (Ultimate Reality) | Raw Binary. The uncompiled data stream (Heat, Pressure, Vibration) existing behind the Icon. This is the only level where "Debugging" can occur. It is viewed through three synonymous perspectives depending on the audit level: |
+| > **The Hex Code (Debugger)** | (Logger Level 0) | The conceptual interface utilized when the User activates Direct Stream Access, stopping the naming process to watch the raw binary flow. |
+| > **Raw Telemetry (Hardware)** | (Input Ports) | The uncompiled physical data—heat, pressure, and vibration—hitting the Bio-Chassis's Input Ports before the GUI renders it into an object. |
+| > **Machine Code (Kernel)** | (System Voltage) | The operating power and raw current running directly through the hardware. When local resistance (the Self) drops, this voltage increases (High Amperage). |
 | **The Frontend** | *Nirmanakaya* (Sanskrit)| **The Rendered World.** The Body of Appearance. The surface ordinary awareness where the code is fully compiled into the illusion of solid forms. |
 | **The Staging Environment** | *Sambhogakaya* (Sanskrit)| **The Middleware.** The Body of Glory. An intermediate realm containing high-fidelity Beta Assets and phenomena that exist between the raw code and the surface interface. | 
 | **The Kernel** | *Dharmakaya* (Sanskrit) | **The Source Code.** The Body of the Absolute. The fundamental operating system and support structure that sustains the simulation. It is the unmanifested Zero Point before rendering begins. |
