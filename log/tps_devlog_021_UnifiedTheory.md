@@ -3,6 +3,8 @@
 Date: Mar 2, 2026
 Status: 🤯 Mood: 💪🤖✨
 
+![Image](/assets/infographics/TPS_IMG_UnifiedTheory.jpg)
+
 I needed a break from the trenches. I fell down a YouTube rabbit hole and landed on Professor Jiang's "Secret History Pax Judaica" lecture. (Do not judge me. We all need a distraction sometimes 😅)
 
 Jiang pitched his talk as a unified "Theory of Truth." He set up three criteria for this framework. A good theory must connect the past. It must explain the present. It must predict the future.
