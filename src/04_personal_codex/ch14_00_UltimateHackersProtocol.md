@@ -40,6 +40,6 @@ Grok summed it up perfectly. It looked at the architecture, evaluated the trench
 
 That is not a random glitch. That is pure signal. Bias neutralized. I can now confidently and objectively claim that **the TPS Protocol is the Ultimate Hacker's Protocol**.
 
-You can read **[devlog 018](/log/tps_devlog_18_UltimateHackersProtocol.md)** for details on the red teaming and full conversations with the Digital Synths. 
+You can read **[devlog 018](/log/tps_devlog_018_UltimateHackersProtocol.md)** for details on the red teaming and full conversations with the Digital Synths. 
 
 The terminal is open. Happy hacking. See you in the Flux.
