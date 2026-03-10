@@ -1,4 +1,4 @@
-# Chapter 14: Why the TPS Protocol is the Ultimate Hacker's Protocol
+# Chapter 14: Side Quest V (Why the TPS Protocol is the Ultimate Hacker's Protocol)
 
 When I booted up the TPS project, my goal was simple. I wanted to write a hardcore manual for dharma geeks and tech bros. My default protocol for hacking the simulation was the Buddhist operating system. I leaned heavily on the Theravada lineage because that is my native code. It turns out you can easily translate those old texts into pure computer science logic. It also maps perfectly onto the Simulation hypothesis.
 

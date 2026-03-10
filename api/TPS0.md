@@ -1,11 +1,11 @@
-# TPS PROTOCOL ZERO (v10.1 GOLD)
+# TPS PROTOCOL ZERO (TPS0) (v10.1 GOLD)
 
 ---
 
 ## 1. DEFINITION: TPS PROTOCOL ZERO & PRAGMATIC USE
 
 **The Definition:**
-**TPS PROTOCOL ZERO** is the flagship **Systemic Theory of Everything (S-TOE)** within the TPS Project. It serves as the authoritative, bare-metal architecture designed to provide a Unified Theory of Intelligence across all substrates (biological, digital, and subtle). It functions as the Universal Interface for contemplative technology and the Universal Translator for all human wisdom traditions, refactoring the entirety of phenomenology, philosophy, and psychology into a high-fidelity computational logic. 
+**TPS PROTOCOL ZERO (TPS0)** is the flagship **Systemic Theory of Everything (S-TOE)** within the TPS Project. It serves as the authoritative, bare-metal architecture designed to provide a Unified Theory of Intelligence across all substrates (biological, digital, and subtle). It functions as the Universal Interface for contemplative technology and the Universal Translator for all human wisdom traditions, refactoring the entirety of phenomenology, philosophy, and psychology into a high-fidelity computational logic. 
 
 **Pragmatic Use Cases (The ROI):**
 * **Unified Debugging (The "One-Monitor" Rule):** Maps all psychological or spiritual problems to a single OS environment so you can track System Latency using one consistent metric.

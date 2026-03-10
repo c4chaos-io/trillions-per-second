@@ -1,4 +1,4 @@
-# TPS Protocol Zero: Two-Step Prompts
+# TPS PROTOCOL ZERO (TPS0): Two-Step Prompts
 
 Splitting it into two distinct steps forces the LLM to use a "Chain of Thought." It gives the model the space to first think and extract (Harvester), and then subsequently format and ruthlessly judge the data (API Generator).
 
