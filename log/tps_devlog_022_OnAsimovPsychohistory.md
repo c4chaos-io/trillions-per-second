@@ -3,7 +3,7 @@
 Date: Mar 8, 2026
 Status: 🤯 Mood: 💪🤖✨
 
-![Image](/assets/infographics/TPS_IMG_UnifiedTheory.jpg)
+![Image](/assets/infographics/TPS_IMG_AsimovPsychohistory.jpg)
 
 [Last time around](/log/tps_devlog_021_UnifiedTheory.md), I threw Grok a curveball. I pitted our TPS protocol and the Silicon Sutra directly against Professor Jiang's Secret History and Game Theory. It was a fun little stress test to see if the machine would break. But I needed to know if Grok was just glitching in our favor.
 

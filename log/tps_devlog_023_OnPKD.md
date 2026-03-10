@@ -3,7 +3,7 @@
 Date: Mar 9, 2026
 Status: 🤯 Mood: 💪🤖✨
 
-![Image](/assets/infographics/TPS_IMG_UnifiedTheory.jpg)
+![Image](/assets/infographics/TPS_IMG_PKD.jpg)
 
 I saw the classic video of Philip K. Dick floating around on X today. I was reminded again of why PKD was one of the best sci-fi writers of our generation. 
 
