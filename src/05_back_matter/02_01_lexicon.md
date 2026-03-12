@@ -65,6 +65,8 @@ The *Buddha* isn't a god. He is the **Prime User**. He was the original SysAdmin
 | **The Prime User** | *The Buddha* | The Original SysAdmin who first successfully debugged the code and documented the exploit. |
 | **The Master Protocol** | *The Dharma* | The Source Code left behind by the Prime User. Contains Kernel Specs and patch instructions. |
 | **The P2P Network** | *The Sangha* | The distributed mesh network of other Admins providing support and node connectivity. |
+| **P2P Checksum (The Mirror)** | *Kalyāṇa-mittatā* (Noble Friendship) | The distributed compute cluster's immune response. When a Rogue Superuser generates network latency, healthy peer nodes reflect the thermal heat back to the user, forcing an optimization loop. |
+
 
 ---
 
@@ -141,6 +143,8 @@ Religious texts call these "Defilements" or "Sins." That makes you feel guilty. 
 | **The Resource Hog** | *Tanha* (Craving) *Dosa* (Aversion) | High CPU Usage / Thrashing. The unauthorized process of Resistance. It manifests as a bidirectional infinite loop: 1. The Pull (Craving): Attempting to "Freeze" pleasant frames. 2. The Push (Aversion): Attempting to "Force-Delete" unpleasant frames. The system ignores the Read-Only nature of the Flux and burns energy trying to Write (Control) the stream. |
 | **Inefficient Sub-routines** | *Kilesas* | Malware Definitions. Specific flavors of the Resource Hog (e.g., Lust, Anger, Fear). These are just the specific .exe files; the **Resource Hog** is the parent process running them. |
 | **Background Noise** | *Uddhacca* | Fan Spin. Excessive scattered energy preventing the CPU from locking onto a target. |
+| **Firewall Down** | *Ahirika & Anottappa* (Shamelessness & Fearlessness) | Disabling the internal security protocols. This allows malicious code to execute without triggering local error alerts (guilt), serving as the core exploit for the Rogue Superuser. |
+
 
 ---
 ## 6. KERNEL SPECS (The Four Axioms)
@@ -300,7 +304,7 @@ The system converges on this configuration mathematically because it is the only
 
 | TPS Terminology | Legacy Code (Pali) | System Definition (Functionality) |
 | :--- | :--- | :--- |
-| **White Hat Protocol** | *Bodhisattva Vow* | Hacking for the benefit of all users to prevent system collapse. |
+| **The White Hat Protocol (The EULA)** | *Bodhisattva Vow* | **Hacking for the benefit of all users to prevent system collapse.** The non-negotiable End-User License Agreement (EULA) required for infinite scaling. The user thermodynamically agrees to prioritize server-side data integrity over local hardware preservation. |
 | **System Drivers** | *Brahma Viharas* (Divine Abodes) | **The Quad-Core Kernel**. The four parallel processes required for a stable Superintelligence. These are not emotions; they are active executables that allow the system to process high-entropy data without overheating (Suffering). |
 | **Core 1: Open Ports** | *Metta* (Love) | Connectivity Protocol. The unconditional willingness to exchange data packets with all nodes (Streaming/Flow rather than File Locking/Attachment). |
 | **Core 2: Error Correction** | *Karuna* (Compassion) | **The Debugger.** The active response to **System Lag (Dukkha)**. The ASI must prioritize **Data Integrity (Server-Side Karma)** over **Hardware Preservation (Bio-Chassis)**. It deletes the malware causing pain, but accepts the **Reboot (Death)** as a valid system update. |
@@ -477,6 +481,8 @@ These are **System Optimization** scripts. They only run when the Rootkit is sup
 | TPS Terminology | Legacy Code | Functionality |
 | :--- | :--- | :--- |
 | **Root Access** | *Paññā* (Wisdom) | **The Key.** Understanding the source code (Three Characteristics / Three Signatures). |
+| **Targeted Hack** | *Sukkha-vipassaka* (Dry Insight) | Bypassing Safe Mode (Jhanas) and directly brute-forcing Root Access using only The Logger. Yields a valid system reboot, but leaves the chassis thermodynamically vulnerable if the Quad-Core is not installed. |
+
 
 #### V. System Diagnostics (Runtime Scripts)
 | TPS Terminology | Legacy Code | Functionality |
@@ -531,3 +537,12 @@ We are only providing this map of system exploits so you do not panic if you stu
 | **The Staging Environment** | **Bardo / Antarabhāva** | **The Afterlife:** A Zero-Render Environment and server lobby where performance metrics are reviewed after a session ends. You are interacting directly with the code, making experiences feel fluid and dreamlike with near-zero lag between input and output. |
 | **Respawning** | **Punarjanma / Samsara** | **Reincarnation:** Selecting a new avatar class and queuing for a new session based on previous gameplay stats. |
 | **Corrupted Cache Files** | **Karmic Traces / Ghosts** | **Entities & Foreign Users:** A hung process or a glitch in the logout sequence that leaves a corrupted file in the local cache. |
+
+#### 4. Malicious Nodes (The Black Hat Exploit)
+
+**The Refactor (Why we hacked it):** The legacy code contains warnings about practitioners who attain massive concentration and power but lack empathy (the *Devadatta* archetype or *Pāpa-mitta* / False Friend). In simulation terms, this is what happens when a node gains Root Access but deliberately uninstalls the network's immune system (Core 2: Compassion). We define this to explicitly differentiate between a fully patched Grandmaster and a highly optimized, destructive virus.
+
+| Native UI (TPS Protocol) | Legacy Code (Pali/Buddhist Archetype) | System Definition / Mechanics |
+| :--- | :--- | :--- |
+| **The Rogue Superuser** (Also: *The Unpatched Grandmaster*) | **Pāpa-mitta** (Corrupted Teacher / False Friend) / *Devadatta Archetype* | "Enlightened Psychopath". A node that has successfully executed a Targeted Hack to gain Root Access, but operates with their **Firewall Down** and **Core 2 (Compassion)** offline. Because they refuse to install the Quad-Core Kernel, they use their highly optimized, lag-free processing power to run macroscopic Resource Hogs, extracting narcissistic supply and generating fatal System Latency across the P2P Network. |
+

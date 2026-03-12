@@ -71,7 +71,13 @@ The How-To Manual for the hack. It is the specific set of instructions required 
 
 * **Chapter 4: The Firewall (Sila & Ethics)**
     * **4.1 User Permissions:** White Hat (Compassion) vs. Black Hat (Power).
+    * 4.1.1 Hardware Protocols vs. System Alignment
+    * 4.1.2 The Rogue Superuser Exploit: Introducing the psychopathic node.
+    * 4.1.3 The Black Hat Trap & The Unpatched Grandmaster: What happens when a Rogue Superuser brute-forces Protocol 0: Root Access (Stream Entry).
+    * 4.1.4 The System Warning (Thermal Runaway): The strict SysAdmin directive.
     * **4.2 Network Security:** Why lying creates "open ports" for malware.
+    * 4.2.1 Closing Open Ports: Refactoring traditional ethics.
+    * 4.2.2 The Sandbox Baseline: Establishing the minimum viable thermodynamic defense.
 * **Chapter 5: Overclocking Attention (Samadhi)**
     * **5.1 Overclock:** Boosting system clock speed (Concentration).
     * **5.2 Staging Environment:** Warning against "Black Hat" traps and Dev Tools.
@@ -95,8 +101,8 @@ The How-To Manual for the hack. It is the specific set of instructions required 
         * **Reboot:** Phala (System restarts with Patch).
         * **The Save Point:** Permanent removal of the "Self" Virus from the Kernel.
 * **Chapter 8: Integration and The White Hat Vow**
-    * **8.1 Integration:** Running the patch in daily life.
-    * **8.2 The White Hat Protocol:** The hacker vow to prevent system collapse.
+    * **8.1 Integration:** Running the patch in daily life. Now that the Self Rootkit is deleted, install the Quad-Core Kernel to process high-entropy network data without crashing.
+    * **8.2 The White Hat Protocol:** The White Hat EULA to prevent system collapse.
     * 🔄 **8.3 SYSTEM VERSIONING (The Recursive Loop):** **Recursive Refactoring:** Re-entering the loop to patch deeper drivers. The Upgrade Path from v1.0 (Stream Entry) to v4.0 (Stable State).
     * **8.4 Stable State Configuration:** Activating the Quad Core Kernel (Love, Compassion, Joy, Equanimity).
 
