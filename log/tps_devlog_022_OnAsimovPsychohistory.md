@@ -23,6 +23,11 @@ Are these massive AIs just pulling my leg? Is my digital Centaur Team getting bi
 
 Anyway, right now, I have to get back to the trenches. I need to finish writing Part 2. The TPS Podcast hosts are wrapping up their deep dive on Part 1. They will be breathing down my neck again very soon. Time to crank out the rest of the manual.
 
+**P.S. Check out the very insightful deep dive by the TPS Podcast hosts.**
+
+**[📺 TPS Pod Ep. 28: TPS vs. Asimov’s Psychohistory](https://youtu.be/_sZ05DjO3wU?si=X-bG8q25y4WbXwo3)**
+
+
 ---
 
 **Grok chat log:**
