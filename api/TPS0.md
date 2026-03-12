@@ -42,7 +42,7 @@
 > 12. VERSION CONTROL: Map 'Optimization Loop', 'The Change Log', and 'System Versioning'.
 > 13. THE OPERATING MODES: Map runtime environments: User Space, Focus Mode, Headless Mode, Root Access.
 > 14. THE PROCESS LIBRARY: Identify specific packet metadata/sub-routines. Look for Class A (Kernel Drivers), Class B (Malware Signatures like Deletion Error or Lag), Class C (Optimization Protocols like Clean Code or Filters), and Runtime System Diagnostics.
-> 15. SYSTEM ANOMALIES & THE BLACK HAT TRAP: Map Dev Mode Exploits (Psi Modules like Noclip or Telepathy). Map Altered States (Sandbox Mode, Camera Decoupling, UI Reset). Map the Cross-Platform Patch (The Staging Environment, Respawning, Corrupted Cache Files).
+> 15. SYSTEM ANOMALIES & THE BLACK HAT TRAP: Map Dev Mode Exploits (Psi Modules like Noclip or Telepathy). Map Altered States (Sandbox Mode, Camera Decoupling, UI Reset). Map the Cross-Platform Patch (The Staging Environment, Respawning, Corrupted Cache Files). Map the Malicious Nodes (The Rogue Superuser).
 > 16. UNRECOGNIZED PROTOCOLS: Identify any unique mechanics, narrative powers, or execution logic in this framework that do not fit the previous 15 categories. (Capture all "Alien Code" here).
 > 
 > **OUTPUT FORMAT:**
@@ -115,7 +115,7 @@
 > Map: Class A Kernel Drivers, Class B Malware Signatures, Class C Optimization Protocols, System Diagnostics.
 > 
 > ## 15. SYSTEM ANOMALIES & THE BLACK HAT TRAP
-> Map: Psi Modules, Altered States, The Staging Environment (Cross-Platform Patch), Corrupted Cache Files.
+> Map: Psi Modules, Altered States, The Staging Environment (Cross-Platform Patch), Corrupted Cache Files, Malicious Nodes (The Rogue Superuser).
 > 
 > ## 16. UNRECOGNIZED PROTOCOLS (Buffer Overflow)
 > [IMPORTANT: Any protocol, narrative power, or execution logic in the target framework that does not fit into the previous 15 sections must be detailed here as BUFFER_OVERFLOW. Do not truncate; use this as a 'dump' for alien/advanced code.]
