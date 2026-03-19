@@ -11,6 +11,11 @@ It all started back in May 2011 when ~C4Chaos asked his hardcore dharma teacher,
 
 **TLDR:** The White Hat EULA patch has now been implemented in the core TPS framework.
 
+**Check out the very insightful deep dive by the TPS Podcast hosts.**
+
+**[📺 TPS Pod Ep. 31: White Hat EULA Fixes the Psychopathy Bug](https://youtu.be/agdEr4huB68?si=yh_PB3nn26YmiVR1)**
+
+
 ---
 
 **P.S.** This devlog is a tribute to the late Bill Hamilton, an unsung hero in the hardcore dharma movement, and author of the book **"Saints and Psychopaths"**. His hardcore dharma lives on in the TPS framework 🙏 

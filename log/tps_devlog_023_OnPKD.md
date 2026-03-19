@@ -25,6 +25,11 @@ Here is the bulleted summary of the system impact:
 
 **You can read the full conversation logs with Grok and Gemini below.**
 
+**Also check out the very insightful deep dive by the TPS Podcast hosts.**
+
+**📺 [TPS Pod Ep. 29: On Philip K. Dick](https://youtu.be/CnWpIqetb5g?si=Z6bQwtLDy33TfbQ9)**
+
+
 See you in the Flux, PKD ✨🙏🌀
 
 ---

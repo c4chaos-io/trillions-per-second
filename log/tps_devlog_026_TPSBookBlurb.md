@@ -24,6 +24,10 @@ But here's the most epic twist in the conversation.
 
 What started as a defense of Prof. Jiang ended up as a glowing book blurb for TPS 🤯 Go figure 😅 Read the entire conversation below. 
 
+**Also check out the very insightful deep dive by the TPS Podcast hosts.**
+
+**📺[TPS Pod Ep. 32: Glowing TPS Book Blurb by Grok](https://youtu.be/RcwlBMVRZX0?si=x4vcVWZ_fdTNXf-f)**
+
 ---
 
 **Grok chat log:**

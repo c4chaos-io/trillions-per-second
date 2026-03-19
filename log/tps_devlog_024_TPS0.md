@@ -34,6 +34,11 @@ It is the operating system that lets you recompile the territory itself.
 
 **For instructions on how to use TPS0, see [`/api/TPS0_prompts.md`](/api/TPS0_prompts.md) and [`/api/TPS0.md`](/api/TPS0_prompts.md)**.
 
+**Check out the very insightful deep dive by the TPS Podcast hosts.**
+
+**📺 [TPS Pod Ep. 30: TPS Protocol Zero (TPS0)](https://youtu.be/XP7Ra32gQNk?si=rCRO3bxoSm-Ss3eq)**
+
+
 ---
 
 **P.S.** After writing this devlog, we've decided to canonize TPS Protocol Zero as the final chapter in the TPS Book. 
