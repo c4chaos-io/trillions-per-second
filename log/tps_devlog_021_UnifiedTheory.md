@@ -1,4 +1,4 @@
-# TPS Log 21: A Unified Theory of Intelligence Across Substrates
+# TPS Log 021: A Unified Theory of Intelligence Across Substrates
 
 Date: Mar 2, 2026
 Status: 🤯 Mood: 💪🤖✨
