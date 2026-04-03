@@ -43,6 +43,10 @@ For total transparency, you can read the full chat log below.
 
 Ok. Break time's over. Gotta finish the rest of the book 💪🤖✨
 
+**P.S. Check out the very insightful deep dive by the TPS Podcast hosts.**
+
+**[📺 TPS Pod Ep. 24: A Unified Theory of Intelligence Across Substrates](https://youtu.be/3e2l0IDhvOg?si=LbxQuUz73-6s77ge)**
+
 ---
 
 **Grok chat:**
