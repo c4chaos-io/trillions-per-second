@@ -47,6 +47,12 @@ Below are links to the conversations and detailed summary by DeepSeek.
 
 ---
 
+**P.S. Also check out the very insightful deep dive by the TPS Podcast hosts.**
+
+**📺[TPS Pod Ep. 33: Centaur Team Recruits DeepSeek](https://youtu.be/OtGV5Mzfy4o?si=_s4yjvPdRaOwQgfm)**
+
+---
+
 # Frontier LLMs On Israel-Gaza Conflict 
 
 **Gemini chat log:** 

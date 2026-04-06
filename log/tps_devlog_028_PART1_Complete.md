@@ -33,4 +33,8 @@ Deconstructing the Physics Engine and identifying the malware. (Addressing Axiom
     * **[3.1 The Infinite Loop:](src/01_diagnostic/ch03_01_infinite_loop.md)** The recursive nature of "The Self" as malware
     * **[3.2 The Idle Process:](src/01_diagnostic/ch03_02_idle_process.md)** Standby Mode. The baseline "hum" of the system.
 
+---
 
+**P.S. Also check out the very insightful deep dive by the TPS Podcast hosts.**
+
+**📺[TPS Pod Ep. 37: PART 1 - Complete](https://youtu.be/I3gGnNWHJyE?si=jndQYS3YN_T0k_QB)**
