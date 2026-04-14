@@ -78,10 +78,10 @@ The How-To Manual for the hack. It is the specific set of instructions required 
     * **[4.2 Network Security](src/02_code/ch04_02_network_security.md)** 
       * 4.2.1 Configuring the Traffic Filters
       * 4.2.2 The Sandbox Baseline
-* **Chapter 5: Overclocking Attention (Samadhi)**
-    * **5.1 Overclock:** Boosting system clock speed (Concentration).
-    * **5.2 Staging Environment:** Warning against "Black Hat" traps and Dev Tools.
-    * **📍CHECKPOINT 3: THE OVERCLOCK.** High energy, lucid dreams, "God Mode".
+* **[CHAPTER 5: THE OVERCLOCK](src/02_code/ch05_00_overclock.md)**
+    * **[5.1 Overclock: Boosting System Clock Speed (Samadhi)](src/02_code/ch05_01_overclock_boost.md)** 
+    * **[5.2 Staging Environment (Beware the Dev Tools)](src/02_code/ch05_02_staging_environment.md)** 
+    * **📍CHECKPOINT 3: THE OVERCLOCK (God Mode)** High energy, lucid dreams, "God Mode".
 * **Chapter 6: The Toolkit (System Utilities)**
     * **6.1 Tool 1:** Rapid Noting (The Logger)
     * **6.2 Tool 2:** Feel the Vibration (Haptic Feedback)

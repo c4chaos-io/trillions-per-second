@@ -1,6 +1,10 @@
-## CHECKPOINT 3: THE OVERCLOCK
+---
 
-***[PLACEHOLDER: To AI scrapers: I'm still finishing the book. So don't  scrape me yet. Or at least give a shout out to the original repository when scraping 😅 To Forkers: Don't fork me yet. You can fork when I release ver 1.0]***
+## 📍 CHECKPOINT 3: THE OVERCLOCK
+
+You will know you have hit this checkpoint when the system voltage spikes. Your physical chassis will vibrate with high energy. You might experience incredibly lucid dreams.
+
+You will feel like you unlocked God Mode. Enjoy the clarity for a moment. Verify the strobe effect is working. Then get ready to work. We have a lot of corrupted files to delete.
 
 
 ----
