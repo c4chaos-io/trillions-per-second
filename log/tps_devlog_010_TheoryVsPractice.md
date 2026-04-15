@@ -35,7 +35,7 @@ While the dog is busy barking at the comments, the Observer Module sneaks in the
 
 That is all.
 
-**Listen to the TPS deep dive for more context. **
+**Listen to the TPS deep dive for more context.**
 
 [**TPS Pod Ep. 13: Theory vs. Practice**](https://youtu.be/VBXBxTM4wQM?si=dm7aTcfqxg_DRAvc)
 
