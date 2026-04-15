@@ -35,7 +35,9 @@ While the dog is busy barking at the comments, the Observer Module sneaks in the
 
 That is all.
 
-Carry on. Happy hacking. See you in the Flux 🌀
+**Listen to the TPS deep dive for more context. **
 
-~C4Chaos
+[**TPS Pod Ep. 13: Theory vs. Practice**](https://youtu.be/VBXBxTM4wQM?si=dm7aTcfqxg_DRAvc)
+
+Carry on. Happy hacking. See you in the Flux 🌀
 
