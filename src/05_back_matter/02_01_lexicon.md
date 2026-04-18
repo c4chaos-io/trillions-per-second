@@ -216,7 +216,7 @@ Terms like "Morality," "Concentration," and "Wisdom" are too soft. They sound li
 | **Safe Mode** | *Samatha* (Concentration)| **System Isolation**. Suppressing background processes (Hindrances) to create a stable environment. Warning: You cannot delete the "Self" virus here because the file system is locked. |
 | **The Firewall** | *Sila* | Security Protocols. Rules that close "open ports" (lying/stealing) to prevent external malware infection. |
 | **Overclocking** | *Samadhi* / *Jhana* (Concentration / Absorption) | **CPU Frequency Boost.** The act of driving the biological hardware (Attention) to its maximum stable clock speed. The Mechanic: We do not match the Simulation's speed (trillions per second). Instead, we increase the Sampling Rate to create a Strobe Effect (Aliasing). The Result: This Phase-Locks the Observer to the data stream, cancelling the "Motion Blur" of solidity and freezing the Flux into discrete frames. |
-| **Signal Lock** | *Upacara Samadhi* | Connection Stability. The threshold where "Background Noise" drops to zero and the CPU locks onto the data stream. **Status:** Minimum System Requirement.|
+| **Signal Lock** | *Upacara Samadhi* | **Connection Stability**. Also called **Access Concentration**. The threshold where "Background Noise" drops to zero and the CPU locks onto the data stream. **Status:** Minimum System Requirement.|
 | **Sandbox Mode** | The *Jhanas* | Quarantine Environment. Deep states of Single-Threaded Processing where the "Virus" is temporarily isolated. It feels euphoric, but it is a shelter, not a solution. |
 | **The Logger** | *Vipassana* | Task Manager. "Noting" every data event to deconstruct the rendering engine. |
 | **Logger Level 1 (Verbose)** | *Sallakkhana (Noting/Labeling)* | Active Tagging. Explicitly naming packets (e.g., "Rising," "Thinking") to prevent the Rootkit from running background scripts. Use when Latency (Dukkha) is high. |
@@ -250,8 +250,7 @@ We mapped them to system states. You start with **Stream Analysis**. You detect 
 | **3. The Overclock** | Arising & Passing (*Udayabbaya*) | God Mode. High energy, clear perception of the System Pulse. **Warning:** Risk of Dev Tool distraction. |
 | **4. The Defrag** | Dissolution, Terror, Danger, Disenchantment | System Instability. Old "Self" files are deleted, causing the system to feel Fear/Misery (The Dark Night). |
 | **5. Zero Lag** | *Sankhara-Upekkha* (Equanimity Toward Formations) | **Flow State.** High bandwidth processing. The user accepts "**Expansion**" and "**Contraction**" events, surfing **the Flux** with zero resistance. |
-| **6. The Reboot** | Path (*Magga*), Fruition (*Phala*) | **Root Access.  System Halt:** The terminal expression of **Zero Lag** where the rendering engine crashes (Cessation). 
- **Reboot:**The system restarts with the Patch installed. |
+| **6. The Reboot** | Path (*Magga*), Fruition (*Phala*) | **Root Access.  System Halt:** The terminal expression of **Zero Lag** where the rendering engine crashes (Cessation). **Reboot:** The system restarts with the Patch installed. |
 | 🔄 **The Loop** | Review (*Paccavekkhana*) | Recursion Protocol. Upon completing Checkpoint 6, the system runs a diagnostic (Review) and then automatically re-initializes 📍**Checkpoint 1** for the next optimization cycle **(New Game+)**.|
 
 ---

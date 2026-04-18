@@ -66,9 +66,7 @@ Just watch the gap. Notice that the "Cause" (The Intention or The Input) happens
 
 If the data processes before "Me" arrives, then the **Self Rootkit** cannot be the entity doing the processing. It is just another rendered output. 
 
-### 🏁 EXIT CRITERIA: CHECKPOINT 2
-
-
+### 🏁 EXIT CRITERIA
 
 You can skip to Chapter 3 whenever you like. This is an open-source manual. There are no gatekeepers here. However, your experience will be significantly more stable if you have actually verified the lag in your own hardware. 
 

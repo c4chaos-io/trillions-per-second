@@ -24,8 +24,6 @@ We do not care if your stream is chaotic. We do not care if the content is loud 
 
 We are running a live **Stream Analysis**. You are watching the raw data packets fly by. The ancients called these *kalapas*. We call it **Voxels**. Think of them as the sub-atomic building blocks of your experience. They are refreshing at trillions of times per second.
 
-
-
 There are two ways to handle this data flow.
 
 1. **The Safe Mode (The Wet Path)**
