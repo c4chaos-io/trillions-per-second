@@ -1,4 +1,4 @@
-# TPS Devlog 030: TPS as S-TOE (Trojan Horse)
+# TPS Devlog 031: TPS as S-TOE (Trojan Horse)
 
 **Date:** Apr 18, 2026
 **Status:**  🐴 
