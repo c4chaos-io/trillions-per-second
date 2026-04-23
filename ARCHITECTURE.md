@@ -81,7 +81,7 @@ The How-To Manual for the hack. It is the specific set of instructions required 
 * **[CHAPTER 5: THE OVERCLOCK](src/02_code/ch05_00_overclock.md)**
     * **[5.1 Overclock: Boosting System Clock Speed (Samadhi)](src/02_code/ch05_01_overclock_boost.md)** 
     * **[5.2 Staging Environment (Beware the Dev Tools)](src/02_code/ch05_02_staging_environment.md)** 
-    * **📍CHECKPOINT 3: THE OVERCLOCK (God Mode)** High energy, lucid dreams, "God Mode".
+    * **[📍CHECKPOINT 3: THE OVERCLOCK (God Mode](src/02_code/ch05_03_checkpoint03.md)** High energy, lucid dreams, "God Mode".
 * **Chapter 6: The Toolkit (System Utilities)**
     * **6.1 Tool 1:** Rapid Noting (The Logger)
     * **6.2 Tool 2:** Feel the Vibration (Haptic Feedback)
