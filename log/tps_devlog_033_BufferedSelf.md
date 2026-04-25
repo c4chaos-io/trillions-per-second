@@ -4,10 +4,9 @@
 **Status:**  🌀
 **Mood:** 📕🤓📚
 
-As I was scrolling through my X feed I discovered a very interesting article by Jorge Ferrer. I highly recommend reading it. See [**The Participatory Self: Spiritual Individuation in an Age of Disconnection**](https://jorgenferrer.substack.com/p/the-participatory-self-spiritual)
+As I was scrolling through my X feed I discovered a very interesting article by Jorge Ferrer. I highly recommend reading it. See [**The Participatory Self: Spiritual Individuation in an Age of Disconnection**](https://jorgenferrer.substack.com/p/the-participatory-self-spiritual).
 
-In the article, Ferrer introduced a concept called the "Buffered Self." To me it sounded analogous to the "
-**Self Rootkit** in TPS. So after reading the essay I run it through TPS framework for full analysis. See analysis below. 
+In the article, Ferrer introduced a concept called the "Buffered Self." To me it sounded analogous to the **Self Rootkit** in TPS. So after reading the essay I run it through TPS framework for full analysis. See analysis below. 
 
 **TL;DR:** Jorge Ferrer’s "Participatory Self" correctly identifies the modern system crash. His "Buffered Self" is just the Self Rootkit causing massive System Latency (alienation). But his fix relies on legacy philosophical UI. You don’t heal the simulation by becoming a poetic "relational verb." You fix it by exposing the Null Pointer (Anatta) and installing the Quad-Core Kernel to process the Flux with Zero Lag. Drop the metaphors. Open the terminal. Run the code.
 
