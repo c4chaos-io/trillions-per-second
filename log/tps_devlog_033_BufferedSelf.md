@@ -1,6 +1,6 @@
 # TPS Devlog 033: The Buffered Self
 
-**Date:** Apr 24, 2026
+**Date:** Apr 25, 2026
 **Status:**  🌀
 **Mood:** 📕🤓📚
 
@@ -49,3 +49,10 @@ When you overclock your attention and inspect the code, you discover the **Null 
 The end goal of TPS is not a beautifully connected identity; it is **Zero Lag (Nirodha)**. It is a state of 1:1 throughput where all local caching ceases. The node operates entirely at the speed of the Kernel, completely frictionless, executing the Quad-Core protocols not out of spiritual romance, but as strict thermodynamic necessity.
 
 **Final Verdict:** Ferrer accurately maps the symptoms of the crash and the layout of the hardware. But to execute the fix, you must drop the poetic "spiritual" UI, open the terminal, and run the code.
+
+---
+
+**P.S. Listen to the TPS Podcast for a full breakdown.**
+
+**[📺 TPS Pod Ep. 44: The Buffered Self](https://youtu.be/jRyx8wLdUeQ?si=3iklxBdsA8khlAx1)**
+
