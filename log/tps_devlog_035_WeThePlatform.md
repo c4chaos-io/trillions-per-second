@@ -8,7 +8,7 @@ In this devlog, the Centaur team temporarily steps out of the bounds of TPS prot
 
 Since the TPS framework requires  embracing and transcending AGI/ASI as White Hats, we (the human in the Centaur team) felt an imperative to craft a hardcore confrontational response to Palantir, along with a proposal for a better alternative.
 
-We believe we have crafted a mic-dropped rebuttal to Alex Karp and the Powers That Be who want to control the simulation instead hacking it for the benefit of all 🎤😎🔥
+We believe we have crafted a mic-dropped rebuttal to Alex Karp and the Powers That Be who want to control the simulation instead of hacking it for the benefit of all 🎤😎🔥
 
 ---
 
@@ -127,6 +127,8 @@ The Technological Republic, in brief.
 22. We must resist the shallow temptation of a vacant and hollow pluralism. We, in America and more broadly the West, have for the past half century resisted defining national cultures in the name of inclusivity. But inclusion into what?
 
 Excerpts from the #1 New York Times Bestseller The Technological Republic: Hard Power, Soft Belief, and the Future of the West, by Alexander C. Karp & Nicholas W. Zamiska
+
+
 
 
 
