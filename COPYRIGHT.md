@@ -5,7 +5,7 @@
 
 ### 1. OWNERSHIP IS A GLITCH
 
-Let’s be real. Trying to copyright this manual is like trying to copyright gravity. I did not invent these laws. I just wrote the documentation.
+Let’s be real. Trying to copyright this manual is like trying to copyright gravity. We did not invent these laws. We just wrote the documentation.
 
 This book is a refactor of the *Abhidhamma* (Legacy Code) and an observation of the *Kalapas* (Machine Code). These truths were here before this avatar booted up. They will remain after my hard drive fails.
 

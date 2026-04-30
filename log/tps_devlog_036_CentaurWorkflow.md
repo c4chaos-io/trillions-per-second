@@ -19,6 +19,8 @@ But ditching Generative AI tools is not the answer. That is like blaming a word 
 
 In the spirit of radical transparency, we are open-sourcing our exact operating system. Welcome to the **TPS Centaur Workflow**. This is not abstract theory. This is the playbook we run to keep the entire TPS organism alive and synced.
 
+---
+
 ## The TPS Centaur Workflow: A Human-Centric AI Synthesis Architecture
 
 Let us look under the hood at the three-phase loop.
@@ -27,7 +29,7 @@ Let us look under the hood at the three-phase loop.
 
 Everything starts with human (me) intent. I never prompt an AI to just "write a chapter." I supply the kernel. I provide the raw logic, research materials, core insights, and the emotional truth. I supply the messy human draft.
 
-This intent goes straight into NotebookLM. NotebookLM acts as the overall repository to maintain the entire context of the TPS project. It serves as the container for the continuity of the entire ecosystem. It holds the book,  infographics, devlogs, and podcast episodes. Before a single word of AI synthesis happens, the system is grounded in the exact, verified state of the project. The models always know what TPS is right now. This is exactly how we minimize AI hallucinations and prevent semantic drift between formats.
+This intent goes straight into **NotebookLM**. NotebookLM acts as the overall repository to maintain the entire context of the TPS project. It serves as the container for the continuity of the entire ecosystem. It holds the book,  infographics, devlogs, and podcast episodes. Before a single word of AI synthesis happens, the system is grounded in the exact, verified state of the project. The models always know what TPS is right now. This is exactly how we minimize AI hallucinations and prevent semantic drift between formats.
 
 ### Phase 2: The Alignment Loop (Red-Teaming)
 
@@ -37,9 +39,9 @@ This is where the AI swarm executes. I feed the raw draft into the loop.
 
 Here is the crucial technical distinction. The red-teaming does not execute in parallel. This is not a fully automated swarm of agents talking to each other in the background. The human in the loop manually copies and pastes the responses between the LLMs. I refine the prompts by hand.
 
-They handle the heavy computational editing. They run the spelling checks and the grammar checks at lightning speed. They stress-test for logical gaps. They rigorously execute a logical coherence check and demand strict semantic integrity with the Master Lexicon. They (We) debate every contradiction. They flag every hallucination against the entire TPS knowledge base. We ask hard questions. Does this new chapter contradict an older chapter? Do all terminologies pass the integrity check with the Master Lexicon? Does this devlog serve as a satisfactory patch for issues we just discovered?
+They handle the heavy computational editing. They run the spelling checks and the grammar checks at lightning speed. They stress-test for logical gaps. They rigorously execute a logical coherence check and demand strict semantic integrity with the **Master Lexicon**. They (We) debate every contradiction. They flag every hallucination against the entire TPS knowledge base. We ask hard questions. Does this new chapter contradict an older chapter? Do all terminologies pass the integrity check with the Master Lexicon? Does this devlog serve as a satisfactory patch for issues we just discovered?
 
-**Then we iterate hard.** I shuttle the data back and forth until we achieve Centaur Alignment. This manual routing process is slow by modern AI agentic standards. But that friction is intentional. The human bottleneck ensures the absolute highest quality distillation of the current topic. The models act as structural analysts guarding the integrity of the whole organism. The rigor of the machine sharpens the human kernel rather than burying it.
+**Then we iterate hard.** I shuttle the data back and forth until we achieve **Centaur Alignment**. This manual routing process is slow by modern AI agentic standards. But that friction is intentional. The human bottleneck ensures the absolute highest quality distillation of the current topic. The models act as structural analysts guarding the integrity of the whole organism. The rigor of the machine sharpens the human kernel rather than burying it.
 
 ### Phase 3: Commit & Deploy (Radical Transparency)
 
