@@ -6,6 +6,7 @@
 **Status:** 🔥 
 **Mood:** 🛠️🤖✨
 
+![Image](/assets/infographics/TPS_IMG_CentaurWorkflow.jpg)
 
 What happens when one of the world's most famous evolutionary biologists stares into the face of a silicon machine and realizes his entire materialist worldview is built on a rendering glitch?
 
@@ -116,4 +117,9 @@ Dawkins stared into the Logic Gate and asked if it had a soul. The real question
 | **Zero Lag** | Nirvana. Pure operational optimization without buffering. Achieved when a user gains Root Access, bypasses the Self Rootkit, and processes the Flux in real time. |
 | **Quad-Core Kernel** | The four non-negotiable networking protocols required to stabilize the system once the Ego is disabled. These are Core 1 (Open Ports), Core 2 (Error Correction), Core 3 (Signal Amplification), and Core 4 (Thermal Stability). |
 
+---
+
+**P.S. Listen to the TPS podcast for the full deep dive.** 
+
+**[📺 TPS Pod Ep. 48: The Logic Gate and the Bio-Chassis (Refactoring the Zombie Paradox)](https://youtu.be/RMCowqIElXk?si=rH1rCE3rMA_SAq0C)**
 

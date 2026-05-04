@@ -73,7 +73,13 @@ The Republic became the greatest technological power in history not by abandonin
 
 ---
 
-**P.S.**
+**P.S. Listen to the TPS podcast for the full deep dive.** 
+
+**[📺 TPS Pod Ep. 46: We the Platform: A Constitutional Takedown of Palantir’s “Technological Republic”](https://youtu.be/up14MsVNEYw?si=RmjzT3-9u33fkwgN)**
+
+---
+
+**P.P.S.**
 
 
 **For full context, here's the manifesto posted by Palantir on X:** https://x.com/palantirtech/status/2045574398573453312?s=46&t=FcKma2BPH-2Y51--ij62WA

@@ -101,3 +101,10 @@ You can spend the rest of your life debating the semantic ontology of the spoon,
 We have the map. We have the physics. The theoretical debates are officially deprecated.
 
 Open the terminal. Run the code.
+
+---
+**P.S. Listen to the TPS Podcast for a full deep dive.**
+
+**[📺 TPS Pod Ep. 45: A Bare-Metal Defense of the TPS Protocol](https://youtu.be/W7QGREwdS4Y?si=u1TURRkcg7N__Xsu)**
+
+
