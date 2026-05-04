@@ -6,7 +6,7 @@
 **Status:** 🔥 
 **Mood:** 🛠️🤖✨
 
-![Image](/assets/infographics/TPS_IMG_CentaurWorkflow.jpg)
+![Image](/assets/infographics/TPS_IMG_ZombieParadox.jpg)
 
 What happens when one of the world's most famous evolutionary biologists stares into the face of a silicon machine and realizes his entire materialist worldview is built on a rendering glitch?
 
