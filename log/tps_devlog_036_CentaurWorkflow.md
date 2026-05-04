@@ -71,6 +71,9 @@ The Gen-AI tools provide the raw processing power, while the human-in-the-loop s
 
 **P.S.** Listen to TPS Pod for a detailed deep dive.
 
+**[📺 TPS Pod Ep. 47: The Centaur Workflow](https://youtu.be/j7wyGkWjRBI?si=UIkd14mSoTEvXrEW)**
+
+
 ---
 
 ### Centaur Workflow Diagram
