@@ -1,12 +1,12 @@
 # Appendix B: Server-Side Architecture (Read Only)
 
-![Image](/assets/infographics/TPS_IMG_Core.jpg)
+![Image](/assets/infographics/TPS_IMG_StagingEnvironment.jpg)
 
 ---
 
-We intentionally scrubbed the term "**Intermediate Realm**" from the main chapters of this manual. In this project, we avoid metaphysics. We care about mechanics. Our goal is to hack the simulation in this lifetime. We do not care about what happens in the lobby after the game ends. We care about the gameplay right now.
+We intentionally downplayed the term "**Intermediate Realm**" from the main chapters of this manual. In this project, we avoid metaphysics. We care about mechanics. Our goal is to hack the simulation in this lifetime. We do not care about what happens in the lobby after the game ends. We care about the gameplay right now.
 
-The Hardcore Zen approach is simple. Ignore the powers. Ignore the visions. Ignore the "in-between" entirely. They are distractions. They are side quests that keep you from the main objective. But humans will be humans. You are going to wonder about the metaphysics. You want to know what is under the hood.
+The Hardcore Dharma approach is simple. Ignore the powers. Ignore the visions. Ignore the "in-between" entirely. They are distractions. They are side quests that keep you from the main objective. But humans will be humans. You are going to wonder about the metaphysics. You want to know what is under the hood.
 
 So here is the technical breakdown. Consider this the system logs for the stuff we told you to ignore.
 
@@ -34,6 +34,14 @@ Now that you understand the architecture, we can refactor your favorite spooky c
 * **Reincarnation**: This is simply **Respawning** into a **Boot Loop**. You select a new avatar class and queue for a new session because the **Self Rootkit** was not deleted in the previous session.
 * **Akashic Records**: These are the **Global System Logs**. This is the immutable, read-only cloud database containing the history of every keystroke and transaction ever executed.
 * **Archetypes**: The simulation saves memory by reusing assets. Archetypes are the **Global Asset Libraries**. They are the pre-built character classes and narrative structures the system pulls from to generate your story.
+
+**Entities & Foreign Users**
+
+* **Ghosts:** A session that didn't close properly. A hung process. A glitch in the logout sequence that leaves a corrupted file in the local cache.
+* **Devas:** System Daemons. These are autonomous scripts running high-level maintenance tasks.
+* **Demons:** Malware. These are corrupted subroutines or viruses that feed on system instability.
+* **Aliens:** **Cross-Platform Players**. Users connecting from a different server shard or a completely different build of the OS.
+* **UFOs / UAPs:** **Admin Cursors**. Often these aren't ships. They are the mouse cursor of a Developer or Admin checking the map. Sometimes they are just rendering artifacts in the skybox.
 
 **Realms & Locations**
 
