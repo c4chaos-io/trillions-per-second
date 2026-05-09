@@ -16,6 +16,10 @@ The U.S. government just declassified and released unresolved UAP (aka UFO) reco
 
 That's why we felt compelled to document this historic event and highlight how this all fits in overall the TPS framework. Read Appendix B below. Just remember that it's still part of the simulation. And the ultimate goal is to hack it. 
 
+**Listen to the TPS Podcast for the full deep dive.**
+
+[**📺 TPS Pod Ep. 49: The Staging Environment (Intermediate Realm)**](https://youtu.be/l8VyyKcN10w?si=OvcxCRzRRebOOk3u)
+
 ---
 
 ## Appendix B: Server-Side Architecture (Read Only)
