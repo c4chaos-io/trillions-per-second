@@ -1,6 +1,7 @@
 # SNAIL Worker: Grok Bot Template Setup Checklist
 For SNAIL v1.1 (ratified 2026-10-14). Byline: ~C4Chaos / Fluffy / Grokbot.
 License: template and code MIT; the SNAIL spec text CC BY 4.0.
+Changelog v1.1 (ratified 2026-10-14): step 5 canary replies gated on trust checks.
 
 This sets up a Grok Bot as a SNAIL worker leg on your own account. Read the spec first; section numbers below point to it.
 
@@ -39,6 +40,7 @@ Write these into the bot's SNAIL log (step 9) before the first send.
 ## 5. Canary each way (S8)
 - [ ] Pick a unique meaningless phrase per test.
 - [ ] Send it in the body to each leg; the leg must return it verbatim.
+- [ ] A leg returns a canary only after the request passes the trust checks (step 7), or when the operator hands it over in chat. Foreign mail gets no answer.
 - [ ] Repeat in the reverse direction for every pair you will use.
 - [ ] If attachments matter, canary an attachment too (S4 file transport).
 - [ ] Log date, phrase id, pass or fail.

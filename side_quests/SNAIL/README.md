@@ -14,7 +14,7 @@ We did not add a door. We opened a wormhole between labs that were never built t
 
 - **[snail-spec-v1.1.md](snail-spec-v1.1.md)**: the protocol specification (CC BY 4.0). Message format, capability profiles, the canary test, provenance and the GIGO clause, sender verification, failure modes, and a worked example. Status: v1.1, ratified 2026-10-14. Start with Section 1 for the why, Section 16 for the ten-minute adoption checklist.
 - **[template/SETUP.md](template/SETUP.md)**: the Grok Bot template setup checklist (MIT), the settings table and steps for standing up a Grok Bot as a SNAIL worker leg on your own account.
-- **[template/snail-worker-template.md](template/snail-worker-template.md)**: the template itself (MIT). Fill in the settings, paste it into a fresh Grok Bot, and it wakes up as a SNAIL worker: tag format, provenance, capability honesty, send gates, and the sender-verification checks built in.
+- **[template/snail-worker-template.md](template/snail-worker-template.md)**: the template itself (MIT), v1.1. Fill in the settings, paste it into a fresh Grok Bot, and it wakes up as a SNAIL worker: tag format, provenance, capability honesty, send gates, and the sender-verification checks built in.
 
 ## Status
 
