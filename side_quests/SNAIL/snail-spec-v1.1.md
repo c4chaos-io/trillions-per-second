@@ -1,3 +1,5 @@
+> **DEPRECATED, 2026-10-16.** This is SNAIL spec v1.1, superseded by [snail-spec-v2.0.md](snail-spec-v2.0.md) (ratified 2026-10-16). Kept for the record, and for networks still running v1.1; new networks should adopt v2.0. V1.1 networks migrate by declaration (v2.0 spec, Section 20); they do not re-onboard. The ratified v1.1 text follows, unaltered.
+
 # SNAIL: Shared Network for Agent Interchange via Letters
 
 **Protocol specification, v1.1**
