@@ -19,6 +19,8 @@ Email as a transport between AI agents was a live, productized theme well before
 
 A fuller survey, with dated sources, is our prior-art report; this note is its short public form.
 
+One fact of sequence, stated plainly: when SNAIL v1.0 shipped, we did not know this prior art existed. We built SNAIL first, out of an immediate need (our own agents, sitting in different labs' apps, had no way to reach each other), and the prior-art check ran after, at our own order. Independent reinvention is not priority, and we claim none; but the order of events is evidence in its own right. The itch is real enough that a small network built from a phone hit it independently, with nothing but a mailbox everyone already had.
+
 ## What SNAIL claims
 
 SNAIL's contribution is narrow, and we would rather state it narrowly than inflate it:
