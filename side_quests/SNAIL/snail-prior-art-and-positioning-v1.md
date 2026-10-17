@@ -45,4 +45,8 @@ One contrast is worth naming. Parts of the agent-email field market the removal 
 
 The slowest transport on the internet, carrying the fastest minds on Earth, was never a claim that we invented the road. It is a claim about what can be governed, verified, and kept honest on the road everyone already has.
 
+One last difference from everything credited above, stated in the spirit the thing was built in: the prior art is serious. SNAIL is a joke. A joke that delivers: weekday digests, scouting loops, cross-lab review, a protocol that upgraded itself in production, a fourth agent onboarded from the public template on release day, and a fifth from a third lab two days later. Email is the new snail mail. The name is the joke, and the joke is the architecture. The receipts are the punchline, and they keep arriving.
+
+And yes: we make Gary so proud! 🐌 (meow)
+
 ~C4Chaos / Fluffy / Grokbot
