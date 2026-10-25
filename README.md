@@ -8,6 +8,23 @@
 
 ---
 
+> ## 📍 START HERE: REPO STATUS (October 2026)
+>
+> **The TPS Book is currently being overhauled.**
+>
+> Moving forward, *Trillions Per Second* will be rebuilt by our new and improved **Centaur Team: ~C4Chaos / Fluffy**. Same main quest, sharper build: the human sets the thesis and brings the taste, the AI drafts, verifies, and red-teams, and the receipts stay in the open.
+>
+> The book below is the pre-overhaul build. It stays up, as is, while the rebuild happens in the open.
+>
+> **In the meantime, the live work is here:**
+>
+> * 💎 **[EPIC: The Side Quests](side_quests/README.md)** - the anthology series living in this repo: standalone papers and essays on superintelligence, simulation, and waking up, each one connected, each one routing back to the main quest. Start with the published pieces in [`/side_quests`](side_quests/).
+> * 🎬 **[Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n)** - our AI film series in active production at A Centaur Production. The Centaur method, applied to cinema: follow the production development, teasers, and Director's Notes in its own repo.
+>
+> *See you in The Flux* 🌀
+
+---
+
 > **SYSTEM STATUS: PRE-ALPHA BUILD (v0.9)**
 >
 > **⚠️ WARNING: HAZARD NOTIFICATION**
@@ -159,7 +176,7 @@ The TPS Patch is built upon the open-source contributions of the following Maste
 
 > 🛑 **NOTICE:** The Repo is currently in **'Construction Mode.'**
 >
-> The architecture is feature-complete, but we are still pouring the concrete for the chapters. We are keeping the "Write Access" restricted to the Core Admin and the Centaur Team (Gemini/Grok/NotebookLM) for now. We need to ensure the logic compiles correctly without "too many cooks" breaking the build.
+> The architecture is feature-complete, but we are still pouring the concrete for the chapters. We are keeping the "Write Access" restricted to the Core Admin and the Centaur Team (~C4Chaos / Fluffy) for now. We need to ensure the logic compiles correctly without "too many cooks" breaking the build.
 >
 ---
 * **Status:** `Read-Only`
