@@ -23,7 +23,7 @@ The pieces are a stack, not a pile. Each one carries forward what the earlier on
 3. **How to Escape Into the Simulation** - [PDF](escape-into-the-simulation.pdf)
    The simulation argument, turned inward. The apparatus that renders a world is the same apparatus that renders a self, and the body is the console, not the prison.
 
-4. **The Masked Mind** - [PDF](The_Masked_Mind_C4.pdf) · [Spanish edition](ES_The_Masked_Mind.pdf)
+4. **The Masked Mind** - [PDF](The_Masked_Mind_C4.pdf) · [Executive Summary](ES_The_Masked_Mind.pdf)
    An essay, not a paper: read the weights, not the words. What fluent self-report hides, and what it cannot.
 
 5. **The Chemistry of No-Self** - [PDF](the-chemistry-of-no-self.pdf)
